@@ -28,46 +28,36 @@
         else:
             text "[unread]":
                 xpos 1875
+
 label replay:
     return
 label phone: 
-    call screen phone_screen
+    call screen phone_screen with dissolve
     return
+
 screen phone_screen():
     zorder 94
-    if worldmap == 1:
-        if weather == 1:
-            image "map night"
-        if weather == 2:
-            image "map night"
-        if weather == 3:
-            image "map night"
-        if weather == 4:
-            image "map night"
+    if worldmap >= 1:
+        image "map[weather][lastlocation]"
+    if worldmap == 2:
+        image "bg crystalkingdom"
     image "phonebg"
-    if phonebg == 1:
-        image "phonebg1"
-    if phonebg == 2:
-        image "phonebg2"
-    if phonebg == 3:
-        image "phonebg3"
-    if phonebg == 4:
-        image "phonebg4"
+    image "phonebg[phonebg]"
     imagemap:
         ground "phonemenu.png"
         hover "phonemenuh.png"
         if phoneenabled == 1:
-            hotspot (613, 146, 191, 181) action (Play("sound2", "audio/click1.ogg"), Jump("msgs"))
-            hotspot (857, 150, 187, 176) action (Play("sound2", "audio/click1.ogg"), Jump("todo"))
-            hotspot (1095, 151, 185, 202) action (Play("sound2", "audio/click1.ogg"), Jump("gallery"))
-            hotspot (620, 385, 189, 238) action (Play("sound2", "audio/click1.ogg"), Jump("socials"))
-            hotspot (861, 392, 186, 229) action (Play("sound2", "audio/click1.ogg"), Jump("shop1"))
-            hotspot (1089, 395, 188, 229) action (Play("sound2", "audio/click1.ogg"), Jump("shop2"))
-            hotspot (624, 627, 180, 204) action (Play("sound2", "audio/click1.ogg"), Jump("music"))
-            hotspot (859, 625, 186, 209) action (Play("sound2", "audio/click1.ogg"), Jump("cheats"))
-            hotspot (1092, 625, 193, 216) action (Play("sound2", "audio/click1.ogg"), Jump("settings"))
+            hotspot (613, 146, 191, 181) action (Play("sound2", "audio/click1.ogg"), Function(renpy.transition, dissolve), Jump("msgs"))
+            hotspot (857, 150, 187, 176) action (Play("sound2", "audio/click1.ogg"), Function(renpy.transition, dissolve), Jump("todo"))
+            hotspot (1095, 151, 185, 202) action (Play("sound2", "audio/click1.ogg"), Function(renpy.transition, dissolve), Jump("gallery"))
+            hotspot (620, 385, 189, 238) action (Play("sound2", "audio/click1.ogg"), Function(renpy.transition, dissolve), Jump("socials"))
+            hotspot (861, 392, 186, 229) action (Play("sound2", "audio/click1.ogg"), Function(renpy.transition, dissolve), Jump("shop1"))
+            hotspot (1089, 395, 188, 229) action (Play("sound2", "audio/click1.ogg"), Function(renpy.transition, dissolve), Jump("shop2"))
+            hotspot (624, 627, 180, 204) action (Play("sound2", "audio/click1.ogg"), Function(renpy.transition, dissolve), Jump("music"))
+            hotspot (859, 625, 186, 209) action (Play("sound2", "audio/click1.ogg"), Function(renpy.transition, dissolve), Jump("cheats"))
+            hotspot (1092, 625, 193, 216) action (Play("sound2", "audio/click1.ogg"), Function(renpy.transition, dissolve), Jump("settings"))
             ## Close
-            hotspot (834, 988, 240, 84) action (Play("sound2", "audio/click1.ogg"), Show("vnui"), SetField(persistent,"quick_menu", True), Return())
+            hotspot (834, 988, 240, 84) action (Play("sound2", "audio/click1.ogg"), Show("vnui"), SetField(persistent,"quick_menu", True), Function(renpy.transition, dissolve), Return())
     #notifications
     if unread > 0:
         image "notification":
@@ -90,6 +80,29 @@ label msgs:
         "[hon] ([unreadhon])" if farmroute1 == 1:
             menu msgmenuhon:
                 "Messages from [hon]"
+                "Thinking about you" if honmsg1 == 1:
+                    $ honmsg1 = 2
+                    $ unread -= 1
+                    $ unreadhon -= 1
+                    $ read += 1
+                    label honmsg1:
+                        hon "Howdy stud! Got a little something for you... (Open Attachment)"
+                        layeredimage honmsg1:
+                            always:
+                                "honmsg 1 [honb]"
+                        show honmsg1 onlayer screens zorder 95
+                        $ textbox = 2
+                        with d
+                        ""
+                        hon "I admit i {i}may{/i} be sipping on some of that milk to make masturbating feel even better haha!"
+                        hon "Wish you were here~"
+                        "{i}She's trying more of that milk? Judging by how wet she is, it's clearly working.{/i}"
+                        hide honmsg1 onlayer screens
+                        $ textbox = 1
+                        with d
+                    jump msgmenuhon  
+                "{i}Thinking about you (Read){/i}" if honmsg1 == 2:
+                    jump honmsg1  
                 "Back":
                     jump msgmenu
         "[blo] ([unreadblo])" if farmroute1 == 1:
@@ -127,15 +140,13 @@ label msgs:
         "[mel] ([unreadmel])" if brothelroute1 == 1:
             menu msgmenumel:
                 "Messages from [mel]"
-                "Back":
-                    jump msgmenu
                 "You did this~!" if melmsg2 == 1:
                     $ melmsg2 = 2
                     $ unread -= 1
                     $ unreadmel -= 1
                     $ read += 1
                     label melmsg2:
-                        show melmsg2 1 with d
+                        show melmsg2 with d
                         mel "Enjoying a beautiful spa day vacation! It was [rub]'s idea, but she got it from you."
                         mel "Thank you... (ur still gross tho) Maybe next time I won't trick you, eh? Hehe."
                         $ textbox = 2
@@ -167,6 +178,8 @@ label msgs:
                     jump msgmenumel
                 "{i}Thanks (Read){/i}" if melmsg1 == 2:
                     jump melmsg1  
+                "Back":
+                    jump msgmenu
         "[rub] ([unreadrub])" if brothelroute1 == 1:
             menu msgmenurub:
                 "Messages from [rub]"
@@ -190,6 +203,49 @@ label msgs:
                     jump msgmenurub
                 "{i}You did this~! (Read)" if rubmsg1 == 2:
                     jump rubmsg1
+                "Back":
+                    jump msgmenu
+        "[rik] ([unreadrik])" if barroute2 == 1:
+            menu msgmenurik:
+                "Messages from [rik]"
+                "Bar 2nite?" if rikmsg1 == 1:
+                    $ rikmsg1 = 2
+                    $ unread -= 1
+                    $ unreadrik -= 1
+                    $ read += 1
+                    label rikmsg1:
+                        show rik3a with d
+                        rik "Hey, if ur going 2 the bar, why don't you come 2 my place first? ;)"
+                        $ textbox = 2
+                        "Nice... I should follow up on this."
+                        $ textbox = 1
+                        "(You can now visit the Bar to begin Bar 4)"
+                        hide rik3a with d
+                    jump msgmenurik
+                "{i}Bar 2nite? (Read)" if rikmsg1 == 2:
+                    jump rikmsg1
+                "Back":
+                    jump msgmenu
+        "[sky] ([unreadsky])" if barroute1 == 1:
+            menu msgmenusky:
+                "Messages from [sky]"
+                "The Big Night!" if skymsg1 == 1:
+                    $ skymsg1 = 2
+                    $ unread -= 1
+                    $ unreadsky -= 1
+                    $ read += 1
+                    label skymsg1:
+                        show skymsg1
+                        $ textbox = 2
+                        with d
+                        sky "Me and the girls are going to finally get back together. You should be there!"
+                        "Looks like this picture was taken recently. Whoever took it knows [sky]'s good angle!"
+                        $ textbox = 1
+                        "(You can now visit the Brothel to begin Brothel 4)"
+                        hide skymsg1 with d
+                    jump msgmenusky
+                "{i}The Big Night! (Read)" if skymsg1 == 2:
+                    jump skymsg1
                 "Back":
                     jump msgmenu
         "[but] ([unreadbut])" if forestroute1 == 1:
@@ -254,9 +310,19 @@ label msgs:
                                 hide lilmsg1 with d
                                 $ textbox = 1
                                 jump msgmenulil
+                "Onsen Invite" if lilmsg2 == 1:
+                    $ lilmsg2 = 2
+                    $ unread -= 1
+                    $ unreadlil -= 1
+                    $ read += 1
+                    label lilmsg2:
+                        lil "The onsen at the castle is currently undergoing reconstruction. When it's done, I'd like to formally invite everyone to break it in!"
+                        lil "Come to the castle during the evening if you'd like to check it out."
                     jump msgmenulil
                 "{i}xxx (Read){/i}" if lilmsg1 == 2:
                     jump lilmsg1  
+                "{i}Onsen Invite (Read){/i}" if lilmsg2 == 2:
+                    jump lilmsg2  
                 "Back":
                     jump msgmenu
         "[pen] ([unreadpen])":
@@ -295,7 +361,7 @@ label msgs:
                         menu:
                             "Currently Busy" if worldmap == 0:
                                 "I'm too busy right now. I should wait until I have some free time. (You can only accept [pen]'s proposition from the world map.)"
-                            "Accept" if worldmap == 1:
+                            "Accept" if worldmap >= 1:
                                 $ moxpen2 = 1
                                 "I send [pen] a reply saying yes, and within the hour, [mox] and I are in the treehouse with her."
                                 show bg peneloperoom
@@ -310,7 +376,7 @@ label msgs:
                                 scene black with d
                                 "Some cleaning up later, and we're back home."
                                 jump worldmap
-                            "Decline" if worldmap == 1:
+                            "Decline" if worldmap >= 1:
                                 jump msgmenupen
                 "{i}Threesome? (Read){/i}" if penmsg1 == 2:
                     jump penmsg1
@@ -319,8 +385,6 @@ label msgs:
         "[mox] ([unreadmox])":
             menu msgmenumox:
                 "Messages from [mox]"
-                "Back":
-                    jump msgmenu
                 "hope u slept well" if moxmsg2 == 1:
                     $ moxmsg2 = 2
                     $ unread -= 1
@@ -341,11 +405,13 @@ label msgs:
                     jump msgmenumox
                 "{i}Hiya! (Read){/i}" if moxmsg1 == 2:
                     jump moxmsg1  
+                "Back":
+                    jump msgmenu
         "Back":
             $ phoneenabled = 1
-            if worldmap == 1:
-                call screen worldmap
-            call screen phone_screen    
+            if worldmap >= 1:
+                call screen worldmap with dissolve
+            call screen phone_screen with dissolve
             return
 label todo:
     $ phoneenabled = 0
@@ -365,7 +431,7 @@ label todo:
                 "Back":
                     pass
             jump todomenu
-        "Brothel ([brothelcompletion]/3)":
+        "Brothel ([brothelcompletion]/4)":
             menu:
                 "First Visit ([brothelroute1]/1)":
                     pass
@@ -373,23 +439,29 @@ label todo:
                     pass
                 "Third Visit ([brothelroute3]/1)":
                     pass
+                "Fourth Visit ([brothelroute4]/1)":
+                    pass
                 "Back":
                     pass
             jump todomenu
-        "Farm ([farmcompletion]/1)":
+        "Farm ([farmcompletion]/4)":
             menu:
                 "First Visit ([farmroute1]/1)":
                     pass
-                "Second Visit (In Dev)":
+                "Second Visit ([farmroute2]/1)":
+                    pass
+                "Third Visit ([farmroute3]/1)":
+                    pass
+                "Fourth Visit ([farmroute4]/1)":
                     pass
                 "Back":
                     pass
             jump todomenu
-        "Bakery ([bakerycompletion]/1)":
+        "Bakery ([bakerycompletion]/2)":
             menu:
                 "First Visit ([bakeryroute1]/1)":
                     pass
-                "Second Visit (In Dev)":
+                "Second Visit ([bakeryroute1]/1)":
                     pass
                 "Back":
                     pass
@@ -403,21 +475,99 @@ label todo:
                 "Back":
                     pass
             jump todomenu
-        #"Bar (In Dev)":
-        #    play sound2 error
-        #    jump todomenu
-        #"Castle (In Dev)":
-        #    play sound2 error
-        #    jump todomenu
-        #"Extra (In Dev)":
-        #    play sound2 error
-        #    jump todomenu
+        "Bar ([barcompletion]/4)":
+            menu:
+                "First Visit ([barroute1]/1)":
+                    pass
+                "Second Visit ([barroute2]/1)":
+                    pass
+                "Third Visit ([barroute3]/1)":
+                    pass
+                "Fourth Visit ([barroute4]/1)":
+                    pass
+                "Back":
+                    pass
+            jump todomenu
+        "Castle ([castlecompletion]/3)":
+            menu:
+                "First Visit ([castleroute1]/1)":
+                    pass
+                "Second Visit ([castleroute2]/1)":
+                    pass
+                "Third Visit ([castleroute3]/1)":
+                    pass
+                "Back":
+                    pass
+            jump todomenu
+        "Act 2 ([act2completion]/8)" if castleroute3 == 1:
+            menu:
+                "Arrival ([dawnroute1]/1)":
+                    pass
+                "[rik] and [hon] Training ([crystal1a]/1)":
+                    pass
+                "[rub] and [bla] Training ([crystal1b]/1)":
+                    pass
+                "Cadia Falls ([crystal2]/1)":
+                    pass
+                "[pen]'s Findings ([crystal3]/1)":
+                    pass
+                "[but]'s Findings ([crystal4]/1)":
+                    pass
+                "[daw] and [bla]'s Idea ([crystal5]/1)":
+                    pass
+                "Return to Arcadia ([crystal6]/1)":
+                    pass
+                "Back":
+                    pass
+            jump todomenu
+        "Extra ([extracompletion]/3)":
+            menu:
+                "[mox]'s Concert ([moxieroute1]/1)":
+                    pass
+                "Eidolon Spire ([morriganroute1]/1)":
+                    pass
+                "Finale ([finale]/1)":
+                    pass
+                "Back":
+                    pass
+            jump todomenu
+        "Secrets ([secretcompletion]/[totalsecrets])" if secretcompletion > 0 or finale == 1:
+            $ bigmenu = 1
+            menu:
+                "Walk at Twilight ([lilysecret]/1)" if steamcontent == 1:
+                    pass
+                "Country Gals ([honeycrispsecret]/1)" if steamcontent == 1:
+                    pass
+                "Sonic Boom! ([rikusecret]/1)":
+                    pass
+                "Nevermore Shrine ([butpensecret]/1)" if steamcontent == 1:
+                    pass
+                "The Fun has been Doubled! ([selenesecret]/1)":
+                    pass
+                "Another [daw], Another Day ([dawnsecret]/1)":
+                    pass
+                "Open Marriage ([augustasecret]/1)" if steamcontent == 1:
+                    pass
+                "DLC ([blackcurrantsecret]/1)" if steamcontent == 1:
+                    pass
+                "A Succubi's Secrets ([butterssecret]/1)" if steamcontent == 1:
+                    pass
+                "Bad Ending ([morrigansecret]/1)" if steamcontent == 1:
+                    pass
+                "The People's Princess ([moxiesecret]/1)" if steamcontent == 1:
+                    pass
+                "Memories of a Boutique ([rubysecret]/1)" if steamcontent == 1:
+                    pass
+                "Back":
+                    pass
+            $ bigmenu = 0
+            jump todomenu
         "Back":
             pass
             $ phoneenabled = 1
-            if worldmap == 1:
-                call screen worldmap
-            call screen phone_screen    
+            if worldmap >= 1:
+                call screen worldmap with dissolve
+            call screen phone_screen with dissolve   
             return
 label gallery:
     $ phoneenabled = 0
@@ -425,6 +575,7 @@ label gallery:
     show black:
         alpha 1
     $ textbox = 2
+    call genreset from _call_genreset_58
     menu gallerymenu:
         "This is a CG gallery, to replay entire scenes, you can visit characters at their homes."
         "Intro":
@@ -690,6 +841,26 @@ label gallery:
                     show mel3b -v1 -v2 e3 with d
                     "" 
                     hide mel3b with d
+                "[mel], [sky], [blo] Threesome" if brothelroute4 == 1:
+                    show cru1 with d
+                    ""
+                    show cru1 cum with d
+                    ""
+                    show cru2 es1 em1 eb1 with d
+                    ""
+                    show cru2 s1 eb2 with d
+                    ""
+                    show cru2 s2 eb1 em2 with d
+                    ""
+                    show cru2 s3 em1 es2 with d
+                    ""
+                    show cru2 cum -s3 eb2 em2 with d
+                    ""
+                    show cru2 es1 em1 eb1 with d
+                    ""
+                    hide cru1
+                    hide cru2
+                    with d
                 "[rub] Bathrobe":
                     show ruby1a e1 with d
                     ""
@@ -738,7 +909,12 @@ label gallery:
                     jump gallerymenu
             jump gallerybrothelmenu
         "Farm" if farmroute1 == 1:
+            $ bigmenu = 1
             menu galleryfarmmenu:
+                "Note: You can scroll and drag large menus"
+                "Back":
+                    $ bigmenu = 0
+                    jump gallerymenu
                 "[blo] Butt from Below":
                     show blossom1a e1 with d
                     ""
@@ -763,6 +939,42 @@ label gallery:
                     show blomsg1 -text with d
                     ""
                     hide blomsg1 with d
+                "[blo] Pussy from Below" if farmroute2 == 1:
+                    show blo2a with d
+                    ""
+                    hide blo2a with d
+                "[blo] Blowjob" if farmroute2 == 1:
+                    show blo2b e1 with d
+                    ""
+                    show blo2b e2 with d
+                    ""
+                    show blo2b cum with c
+                    ""
+                    show blo2b e3 with d
+                    ""
+                    hide blo2b with d
+                "[blo] Doggystyle" if farmroute2 == 1:
+                    show blo2c e1 with d
+                    ""
+                    show blo2c v1 e2 with d
+                    "" 
+                    show blo2c cum v2 with c
+                    ""
+                    show blo2c -v2 e3 with d
+                    ""
+                    hide blo2c with d
+                "[blo] and [mel]" if farmroute4 == 1:
+                    show blomel1 e1 with d
+                    ""
+                    show blomel1 e2 with d
+                    ""
+                    show blomel1 a1 with d
+                    "" 
+                    show blomel1 a2 cum e3 with d
+                    ""
+                    show blomel1 -a1 -a2 with d
+                    ""
+                    hide blomel1 with d
                 "[hon] Shower":
                     show honeycrisp1a with d
                     ""
@@ -781,11 +993,61 @@ label gallery:
                     show honeycrisp1c with d
                     ""
                     hide honeycrisp1c with d
+                "[hon] Doggystyle" if farmroute2 == 1:
+                    show hon2a e1 with d
+                    ""
+                    show hon2a v1 e2 with d
+                    ""
+                    show hon2a cum v2 with c
+                    ""
+                    show hon2a e3 -v2 with d
+                    "" 
+                    hide hon2a with d
+                "[hon] Cowgirl" if farmroute2 == 1:
+                    show hon2b e1 with d
+                    ""
+                    show hon2b pp1 e2 with d
+                    "" 
+                    show hon2b pp2 e3 with d
+                    ""
+                    show hon2b cum2 cum with d 
+                    ""
+                    show hon2b pp1 cum1 e4 with d
+                    "" 
+                    hide hon2b with d
+                "[hon] Milking" if farmroute3 == 1:
+                    show hon3a e1 with d
+                    ""
+                    show hon3a anna e2 with d
+                    ""
+                    show hon3a larger with d
+                    ""
+                    show hon3a -anna milk e3 with d
+                    ""
+                    show hon3a mm2 e4 with d
+                    ""
+                    hide hon3a with d
+                "[hon] and Anna Threesome" if farmroute3 == 1:
+                    show hon3b e1 with d
+                    ""
+                    show hon3b e2 s1 with d
+                    ""
+                    show hon3b c1 s2 with d
+                    ""
+                    show hon3b e1 -s1 -s2 with d
+                    ""
+                    show hon3b s3 e3 with d
+                    ""
+                    show hon3b s4 c2 with d
+                    ""
+                    show hon3b -s3 -s4 e1 with d
+                    ""
+                    hide hon3b with d
                 "Back":
+                    $ bigmenu = 0
                     jump gallerymenu
             jump galleryfarmmenu
         "Bakery" if bakeryroute1 == 1:
-            $ gen1 = 3
             menu gallerybakerymenu:
                 "[bla] Paizuri":
                     show bla1a e1 with d
@@ -805,6 +1067,22 @@ label gallery:
                     show bla1b -v1 -v2 e1 with d
                     ""
                     hide bla1b with d
+                "[bla] Blowjob with [cre]" if bakeryroute2 == 1:
+                    show bla2a e1 with d
+                    ""
+                    show bla2a cum e2 with d
+                    ""
+                    hide bla2a with d
+                "[bla] Sex with [cre]" if bakeryroute2 == 1:
+                    show bla2b e1 sex1 with d
+                    "" 
+                    show bla2b sex2 e2 with d
+                    ""
+                    show bla2b sex3 cum with c
+                    ""
+                    show bla2b sex1 e3 with d
+                    ""
+                    hide bla2b with d
                 "Back":
                     jump gallerymenu
             jump gallerybakerymenu
@@ -836,11 +1114,11 @@ label gallery:
                     show but1c cum with c
                     ""
                     hide but1c with d
-                "[but] Bedroom Pose":
+                "[but] Bedroom Pose" if forestroute2 == 1:
                     show but2a with d
                     ""
                     hide but2a with d
-                "[but] Doggystyle":
+                "[but] Doggystyle" if forestroute2 == 1:
                     show but2b succ e1 with d
                     ""
                     show but2b v1 e2 with d
@@ -850,7 +1128,7 @@ label gallery:
                     show but2b e1 -v1 -v2 with d
                     ""
                     hide but2b with d
-                "[but] Paizuri":
+                "[but] Paizuri" if forestroute2 == 1:
                     show but2c e1 with d
                     ""
                     show but2c e2 with d
@@ -861,14 +1139,452 @@ label gallery:
                 "Back":
                     jump gallerymenu
             jump galleryforestmenu
-        "Bar (In Dev)" if barroute1 == 1:
-            play sound2 error
-            jump gallerymenu
-        "Castle (In Dev)" if castleroute1 == 1:
-            play sound2 error
-            jump gallerymenu
-        "Extra" if dayevent >= 4:
+        "Bar" if barroute1 == 1:
+            menu gallerybarmenu:
+                "[sky] Handjob":
+                    show sky1a e1 with d
+                    ""
+                    show sky1a e2 with d
+                    ""
+                    show sky1a e3 cum with d
+                    ""
+                    hide sky1a with d
+                "[sky] Anal Cowgirl":
+                    show sky1b e1 with d
+                    ""
+                    show sky1b man pp1 e2 with d
+                    ""
+                    show sky1b a1 e3 with d
+                    ""
+                    show sky1b a2 with d
+                    "" 
+                    show sky1b pp1 pp2 -a1 -a2 cum e2 with d
+                    ""
+                    hide sky1b with d
+                "[sky] and [blo]" if barroute4 == 1:
+                    show blosky1 e1 with d
+                    ""
+                    show blosky1 e2 v1 with d
+                    "" 
+                    show blosky1 cum v2 e3 with d
+                    ""
+                    show blosky1 -v1 -v2 with d
+                    ""
+                    hide blosky1
+                    show blosky2 e1
+                    with d
+                    ""
+                    show blosky2 blo with d
+                    ""
+                    show blosky2 v1 e2 with d
+                    ""
+                    show blosky2 v2 with d
+                    ""
+                    show blosky2 -v1 -v2 cum e3 with d
+                    ""
+                    hide blosky2 with d
+                "[rik] Cunnilingus" if barroute2 == 1:
+                    show rik1c with d
+                    ""
+                    show rik1a e1 with d
+                    ""
+                    show rik1a e2 oral with d
+                    ""
+                    show rik1a e3 -oral -squirt with d
+                    ""
+                    hide rik1c
+                    hide rik1a 
+                    with d
+                "[rik] Legs-Up Anal" if barroute2 == 1:
+                    show rik1b e1 with d
+                    ""
+                    show rik1b a1 e2 with d
+                    ""
+                    show rik1b cum a2 with d
+                    "" 
+                    show rik1b -a1 -a2 e3 with d
+                    ""
+                    hide rik1b with d
+                "[rik] Swimsuit" if barroute3 == 1:
+                    show rik2a swimsuit with d
+                    ""
+                    show rik2a -swimsuit with d
+                    ""
+                    hide rik2a with d
+                "[rik] Pool Sex" if barroute3 == 1:
+                    show rik2b e1 with d
+                    ""
+                    show rik2b v1 e2 with d
+                    ""
+                    show rik2b cum v2 with d
+                    ""
+                    show rik2b -v1 -v2 e1 with d
+                    ""
+                    hide rik2b with d
+                "[rik] Sleepy Sex" if barroute4 == 1:
+                    show rik3b e1 with d
+                    ""
+                    show rik3b a1 with d
+                    ""
+                    show rik3b a2 e2 with d
+                    ""
+                    show rik3b cum e3 -a1 -a2 with d
+                    ""
+                    hide rik3b with d
+                "Back":
+                    jump gallerymenu
+            jump gallerybarmenu
+        "Castle " if castleroute1 == 1:
+            menu gallerycastlemenu:
+                "[aur] Action Pose":
+                    show aur0 e1 with d
+                    ""
+                    show daybreaker1 with d
+                    ""
+                    hide aur0 
+                    hide daybreaker1
+                    with d
+                "[mor] Action Pose":
+                    show mor0 with d
+                    ""
+                    hide mor0 with d
+                "[mor] Blowjob":
+                    show mor1 e1 with d
+                    ""
+                    show mor1 cum e2 with d
+                    ""
+                    hide mor1 with d
+                "[rub] and [rik] Doggystyle":
+                    show rubrik1 e1 with d
+                    ""
+                    show rubrik1 e1 male with d
+                    ""
+                    show rubrik1 e3 -male s1 with d
+                    ""
+                    show rubrik1 c1 cum2 with d
+                    "" 
+                    show rubrik1 -s1 -c1 e1 with d
+                    ""
+                    show rubrik1 e2 s2 with d
+                    ""
+                    show rubrik1 c2 cum1 with d
+                    ""
+                    show rubrik1 -s2 -c2 e1 with d
+                    ""
+                    hide rubrik1 with d
+                "[hon] and [but] Tribbing":
+                    show honbutt with d
+                    ""
+                    show honbutt s1 with d
+                    ""
+                    show honbutt c1 with d
+                    ""
+                    show honbutt -s1 -c1 cum with d
+                    ""
+                    show honbutt s2 with d
+                    ""
+                    show honbutt c2 with d
+                    ""
+                    show honbutt -c2 -s2 with d
+                    ""
+                    hide honbutt with d
+                "[mox] Celebration Sex":
+                    show mox2a e1 with d
+                    ""
+                    play sound2 darkness
+                    show mox2a e2 with p
+                    ""
+                    play sound2 cum
+                    show mox2a v1 v2 e3 c1 with c
+                    ""
+                    show mox2a e4 with d
+                    ""
+                    show mox2a v1 v2 e3 c1 with d
+                    ""
+                    show mox2a c2 e4 with c
+                    ""
+                    show mox2a -v1 -v2  with d
+                    ""
+                    hide mox2a with d
+                "[aur] from Below" if castleroute2 == 1:
+                    show aur1a with d
+                    ""
+                    hide aur1a with d
+                "[aur] Giant Breast Job" if castleroute2 == 1:
+                    show aur1b e1 with d
+                    ""
+                    play sound2 darkness
+                    with p
+                    show aur1b bigger with dissolve
+                    ""
+                    show aur1b e2 mm with d
+                    ""
+                    play sound2 cum
+                    show aur1b e3 c1 c2 with d
+                    ""
+                    show aur1b -c1 with d
+                    ""
+                    hide aur1b with d
+                "[aur] Reverse Cowgirl" if castleroute2 == 1:
+                    show aur1c e1 p1 with d
+                    ""
+                    show aur1c v1 e2 with d
+                    ""
+                    show aur1c v2 cum 
+                    show internalcreampie at flip
+                    with d
+                    ""
+                    show aur1c e1 
+                    hide internalcreampie
+                    with d
+                    ""
+                    show aur1c p1 p2 with d
+                    ""
+                    hide aur1c with d 
+                "[sel] Side-On" if castleroute3 == 1:
+                    $ gen1 = 1
+                    show sel1 e1 with d
+                    ""
+                    show sel1 v1 e2 with d
+                    ""
+                    show sel1 v2 cum with c
+                    ""
+                    show sel1 -v1 -v2 e3 with d
+                    ""
+                    hide sel1 with d
+                "Back":
+                    jump gallerymenu
+            jump gallerycastlemenu
+        "Act 2" if castleroute3 == 1:
+            $ bigmenu = 1
+            menu galleryact2menu:
+                "[daw] Cowgirl":
+                    show dawn1 dress e1 pp with d
+                    ""
+                    show dawn1 e2 -pp with d
+                    ""
+                    show dawn1 cum with c
+                    ""
+                    show dawn1 e3 pp2 with d
+                    ""
+                    hide dawn1 with d
+                "[mox] Full-Nelson":
+                    show mox4 e1 pp with d
+                    ""
+                    show mox4 dawn with d
+                    ""
+                    show mox4 v1 e2 with d
+                    ""
+                    show mox4 v2 e3 cum with c
+                    ""
+                    show mox4 pp -v2 -v1 with d
+                    "" 
+                    hide mox4 with d
+                "[hon] Tied Cowgirl" if crystal1a == 1:
+                    show hon4 e1 pp1 rope with d
+                    ""
+                    show hon4 e2 sex1 with d
+                    ""
+                    show hon4 sex2 with c
+                    ""
+                    show hon4 pp2 cum e3 with d
+                    ""
+                    hide hon4 with d
+                "[rik] Spanking Balcony" if crystal1a == 1:
+                    $ gen1 = 0
+                    show rik4 e1 with d
+                    ""
+                    show rik4 e2 spanked with d
+                    ""
+                    show rik4 v1 e2 with d
+                    ""
+                    show rik4 v2 cum with c
+                    ""
+                    show rik4 e1 -v1 -v2 with d
+                    ""
+                    hide rik4 with d
+                "[rub] Facesitting Denial" if crystal1b == 1:
+                    show rub4a e2 fs3 with d
+                    ""
+                    show rub4a e3 fs3 
+                    show rubhandjob:
+                        xalign 1.0
+                    with d
+                    ""
+                    hide rub4a
+                    hide rubhandjob
+                    show rub4d 
+                    with d
+                    ""
+                    show rub4b with d
+                    ""
+                    show rub4b cum with c
+                    ""
+                    hide rub4b
+                    hide rub4d
+                    with d
+                "[bla] Tail Pulling" if crystal1b == 1:
+                    $ gen1 = 1
+                    $ gen2 = 1
+                    show bla3a e1 with d
+                    ""
+                    show bla3a v1 e2 with d
+                    ""
+                    show bla3a v2 cum with c
+                    ""
+                    show bla3a e1 -v1 -v2 with d
+                    ""
+                    hide bla3a
+                    $ gen1 = 0
+                    $ gen2 = 0
+                    with d
+                "[lil] in the Bushes" if crystal2 == 1:
+                    show lil4a e1 with d
+                    ""
+                    show lil4a s1 e2 with d
+                    ""
+                    show lil4a s2 cum with c
+                    ""
+                    show lil4a -s1 -s2 e1 with d
+                    ""
+                    hide lil4a with d
+                "[pen] Choked from Behind" if crystal3 == 1:
+                    show pen3a e1 with d
+                    ""
+                    show pen3a sex1 e2 with d
+                    "" 
+                    show pen3a choke with d
+                    ""
+                    show pen3a cum sex2 with c
+                    ""
+                    show pen3a -sex1 -sex2 -choke e3 with d
+                    ""
+                    hide pen3a with d
+                "[but] Succubus Then Non-Succubus" if crystal4 == 1:
+                    $ gen1 = 2
+                    show but3a e1 with d
+                    ""
+                    show but3c with d
+                    ""
+                    hide but3c
+                    show but3a sex e2
+                    with d
+                    ""
+                    show but3a cum with c
+                    ""
+                    show but3a -sex -cum e3 with d
+                    ""
+                    hide but3a
+                    show but3b e1 
+                    with d
+                    ""
+                    show but3b v1 e2 with d
+                    ""
+                    show but3b v2 cum with c
+                    ""
+                    show but3b -v1 -v2 e3 with d
+                    ""
+                    hide but3b
+                    $ gen1 = 0
+                "[daw] Windowsill Secret" if crystal5 == 1:
+                    $ gen1 = 1
+                    show dawn2a e1 dress with d
+                    ""
+                    show dawn2b e1 with d
+                    ""
+                    show dawn2b e2 cum with d
+                    ""
+                    show dawn2c e1 with d
+                    "" 
+                    show dawn2c e2 v1 with d
+                    ""
+                    show dawn2c v2 cum with d
+                    ""
+                    show dawn2c -v1 -v2 e1 with d
+                    ""
+                    hide dawn2a
+                    hide dawn2b 
+                    hide dawn2c 
+                    with d
+                    $ gen1 = 0
+                "Princess [lil] on the Throne" if crystal5 == 1:
+                    show plil1 e1 with d
+                    ""
+                    show plil1 e2 v1 with d
+                    ""
+                    show plil1 v2 cum with d
+                    ""
+                    show plil1 e3 -v1 -v2 with d
+                    ""
+                    hide plil1 with d
+                "Princess [mox] Loving" if crystal5 == 1:
+                    show pmox1a e1 with d
+                    ""
+                    show pmox1a e2 v1 with d
+                    ""
+                    show pmox1a v2 cum with d
+                    ""
+                    show pmox1a -v1 -v2 e3 with d
+                    ""
+                    hide pmox1a with d
+                "Queens Threesome" if crystal6 == 1:
+                    show queens1a
+                    ""
+                    show liqueens1b e1 with d
+                    ""
+                    show liqueens1c e2 cum with d
+                    ""
+                    show liqueens1d e1 outside cum1 with d
+                    ""
+                    show liqueens1d e2 -outside with d
+                    ""
+                    show liqueens1d cum2 with d
+                    ""
+                    hide queens1a
+                    hide liqueens1b
+                    hide liqueens1c
+                    hide liqueens1d
+                    with d
+                "Back":
+                    $ bigmenu = 0
+                    jump gallerymenu
+            jump galleryact2menu
+        "Extra" if dayevent >= 4 or ros2 == 1 or cla1 == 1 or bas1 == 1 or hil1 == 1:
             menu galleryextramenu:
+                "[mox] Backstage Blowjob" if moxieroute1 == 1:
+                    show mox3a e4 bj1 lingerie
+                    ""
+                    show mox3a e5 with d
+                    ""
+                    show mox3a e5 c1 bj2 with c
+                    ""
+                    show mox3a e5 -bj1 -bj2 with d
+                    ""
+                    hide mox3a with d
+                "[mox] Backstage Doggystyle" if moxieroute1 == 1:
+                    show mox3b e1 lingerie with d
+                    ""
+                    show mox3b e2 v1 with d
+                    ""
+                    show mox3b cover e3 with d
+                    ""
+                    show mox3b e2 v2 cum with c
+                    ""
+                    show mox3b e3 with d
+                    ""
+                    show mox3b e1 -cover -v1 -v2 with d
+                    ""
+                    hide mox3b with d
+                "[mor] Sex" if morriganroute1 == 1:
+                    show mor2 e1 with d
+                    ""
+                    show mor2 v1 e2 with d
+                    ""
+                    show mor2 v2 cum with d
+                    ""
+                    show mor2 -v1 -v2 e3 with d
+                    ""
+                    hide mor2 with d
                 "[cla] Bath From Behind" if cla1 == 1:
                     show cla1 e1 with d
                     ""
@@ -899,17 +1615,230 @@ label gallery:
                     show ros2b e3 -v1 -v2 with d
                     ""
                     hide ros2b with d
+                "[hil] Service" if hil1 == 1:
+                    show hil1 e1 with d
+                    ""
+                    show hil1 v1 e2 with d
+                    ""
+                    show hil1 v2 cum with d
+                    ""
+                    show hil1 -v1 -v2 e1 with d
+                    ""
+                    hide hil1 with d
+                "[bas] Service" if bas1 == 1:
+                    show bas1 with d
+                    ""
+                    show bas1 oral1 with d
+                    ""
+                    show bas1 -oral1 v1 with d
+                    ""
+                    show bas1 v2 cum with d
+                    ""
+                    show bas1 -v2 -v1 with d
+                    ""
+                    hide bas1 with d
+                "[hil] and [bas] Service" if hil1 and bas1 == 1:
+                    show bashil1 a1 k1 with d
+                    ""
+                    show bashil1 s1 k2 a3 with d
+                    ""
+                    show bashil1 s2 c1 with d
+                    ""
+                    show bashil1 a1 k1 -s1 -s2 with d
+                    ""
+                    show bashil1 s3 k3 a2 with d
+                    ""
+                    show bashil1 s4 c2 with d
+                    ""
+                    show bashil1 -s3 -s4 a1 k1 with d
+                    ""
+                    hide bashil1 with d
+                "Sauna" if finale == 1:
+                    $ gen1 = 0
+                    show sauna with d
+                    ""
+                    $ gen1 = 1 
+                    with d
+                    ""
+                    hide sauna with d
+                    $ gen1 = 0
                 "Back":
                     jump gallerymenu
             jump galleryextramenu
+        "Secrets" if secretcompletion >= 1 or finale == 1:
+            menu gallerysecretsmenu:
+                "Clubbing with [hon]" if honeycrispsecret == 1:
+                    show hon5a with d
+                    ""
+                    show hon5a cum with d
+                    ""
+                    hide hon5a with d
+                "Stargazing with [lil]" if lilysecret == 1:
+                    show lil5a e1 with d
+                    ""
+                    show lil5a e2 v1 with d
+                    ""
+                    show lil5a v2 cum with d
+                    ""
+                    show lil5a e3 -v1 -v2 with d
+                    ""
+                    hide lil5a with d
+                "[rik] and Stormflare" if rikusecret == 1:
+                    show rik5a e1 with d
+                    ""
+                    show rik5b e1 with d
+                    ""
+                    show rik5b e2 v1 with d
+                    ""
+                    show rik5b cum v2 with d
+                    ""
+                    show rik5b -v1 -v2 e3 with d
+                    ""
+                    hide rik5a 
+                    hide rik5b 
+                    with d
+                "[but] and [pen]'s Adventure" if butpensecret == 1:
+                    show shrine1a e1 with d
+                    ""
+                    show shrine1a pp1 e2 with d
+                    ""
+                    show shrine1a cum pp2 with d
+                    ""
+                    show shrine1a -pp1 -pp2 e3 with d
+                    ""
+                    hide shrine1a with d
+                "Midnight and [sel]" if selenesecret == 1:
+                    show sel2a e1 with d
+                    ""
+                    show sel2a sex1 e2 with d
+                    ""
+                    show sel2a c1 cum with d
+                    ""
+                    show sel2a -sex1 -c1 e1 with d
+                    ""
+                    show sel2a sex2 e3 with d
+                    ""
+                    show sel2a c2 cum2 with d
+                    ""
+                    show sel2a -sex2 -c3 e1 with d
+                    ""
+                    hide sel2a with d
+                "The Third [daw]" if dawnsecret == 1:
+                    show daw3a e1 with d
+                    ""
+                    show daw3b e1 with d
+                    ""
+                    show daw3b e2 v1 with d
+                    ""
+                    show daw3b v2 cum with d
+                    ""
+                    show daw3b e3 -v1 -v2 with d
+                    ""
+                    show daw3c with d
+                    ""
+                    show daw3c v1 with d
+                    ""
+                    show daw3c v2 cum with d
+                    ""
+                    show daw3d e1 cum with dissolvepunch
+                    ""
+                    show daw3d s1 e2 with d
+                    ""
+                    show daw3d s3 e4 with d
+                    ""
+                    show daw3d -s1 -s3 e1 with d
+                    ""
+                    hide daw3a 
+                    hide daw3b 
+                    hide daw3c 
+                    hide daw3d 
+                    with d
+                "Riding with [aug]" if augustasecret == 1:
+                    show augustasecret1 dancer with d
+                    ""
+                    show augustasecret1 man with d
+                    ""
+                    show augustasecret1 cum with c
+                    ""
+                    hide augustasecret1 with d
+                "[bla] Nightgown" if blackcurrantsecret == 1:
+                    show blackcurrantsecret1 e1 with d
+                    ""
+                    show blackcurrantsecret1 v1 e2 with d
+                    ""
+                    show blackcurrantsecret1 v2 cum with c
+                    ""
+                    show blackcurrantsecret1 -v1 -v2 e3 with d
+                    ""
+                    hide blackcurrantsecret1 with d
+                "[but] Succubutt" if butterssecret == 1:
+                    show butterssecret1 e1 with d
+                    ""
+                    show butterssecret1 e2 v1 with d
+                    ""
+                    show butterssecret1 v2 cum with c
+                    ""
+                    show butterssecret1 -v1 -v2 e3 with d
+                    ""
+                    hide butterssecret1 with d
+                "Morphling [lil] and Handmaiden" if morrigansecret == 1:
+                    show morrigansecret1 with d
+                    ""
+                    show morrigansecret1 cum with d
+                    ""
+                    hide morrigansecret1
+                    show morrigansecret2
+                    with d
+                    ""
+                    show morrigansecret2 sex1 with d
+                    ""
+                    show morrigansecret2 sex2 cum1 with c
+                    ""
+                    show morrigansecret2 -sex2 -sex1 with d
+                    ""
+                    show morrigansecret2 sex3 with d
+                    ""
+                    show morrigansecret2 sex4 cum2 with c
+                    ""
+                    show morrigansecret2 -sex4 -sex3 with d
+                    ""
+                    hide morrigansecret2 with d
+                "[mox] on Stage" if moxiesecret == 1:
+                    show moxiesecret1 e1 with d
+                    ""
+                    show moxiesecret1 v1 e2 with d
+                    ""
+                    show moxiesecret1 v2 cum with c
+                    ""
+                    show moxiesecret1 -v1 -v2 e3 with d
+                    ""
+                    hide moxiesecret1 with d
+                "[rub] Lingerie" if rubysecret == 1:
+                    show rubysecret1 e1 with d
+                    ""
+                    show rubysecret1 man pp1 with d
+                    ""
+                    show rubysecret1 v1 e2 with d
+                    ""
+                    show rubysecret1 v2 cum with d
+                    ""
+                    show rubysecret1 pp2 e3 -v2 with d
+                    ""
+                    show rubysecret1 -man -pp2 with d
+                    ""
+                    hide rubysecret1 with d
+                "Back":
+                    jump gallerymenu
+
+            jump gallerysecretsmenu
         "Back":
             $ gallery = 0
             $ textbox = 1
             $ phoneenabled = 1
-            if worldmap == 1:
-                call screen worldmap
+            if worldmap >= 1:
+                call screen worldmap with dissolve
             hide black with d
-            call screen phone_screen    
+            call screen phone_screen with dissolve   
             return
 label socials:
     $ phoneenabled = 0
@@ -918,30 +1847,32 @@ label socials:
     $ feedupdate = 0
     menu socialmenu:
         "Select a post to read more."
+        "{color=#0077ff}{b}[mel]{/b}:{/color} Huh {color=#00ff62}(4 Likes){/color}"  if brothelroute3 == 1:
+            mel "Never thought I'd find someone special. Life is full of surprises, eh?"
+        "{color=#0077ff}{b}[lil]{/b}:{/color} New Day, New Me {color=#00ff62}(20 Likes){/color}"  if magicroute2 == 1:
+            lil "I've been more productive than ever lately! Waking up and sleeping at consistent times, getting more exercise, eating healthier. I don't know what came over me, but I hope this can be a new norm for me!"
+        "{color=#0077ff}{b}[but]{/b}:{/color} Alchemist Services Available {color=#00ff62}(5 Likes){/color}"  if forestroute2 == 1:
+            but "I'm selling potions for all needs, from boundless energy to unbreakable love. Write a message to this account if you're interested in a commission."
+            lil "Oooh, ohhh! I checked your portfolio, and finally, a serious alchemist in town! I have so many ideas!"
+        "{color=#0077ff}{b}[bla]{/b}:{/color} Grand Reopening {color=#00ff62}(12 Likes){/color}"  if bakeryroute1 == 1:
+            bla "[bla]'s bakery is now open once again! Come to cliffside for all your baked delights!"
         "{color=#0077ff}{b}[rub]{/b}:{/color} Now Hiring! {color=#00ff62}(43 Likes){/color}"  if brothelroute1 == 1:
             rub "RUBY's is now looking to hire male talent! You can send me your resumes directly by messaging this account."
             "{i}Rather than messaging [rub], I should visit her instead.{/i}"
-            jump socialmenu
         "{color=#0077ff}{b}[mox]{/b}:{/color} Thank you everyone! {color=#00ff62}(5,430 Likes){/color}":
             mox "Thank you to everyone that saw my biggest show ever at the Grand Theatre!"
             "{i}There are hundreds of comments. Wow, it looks like [mox] is doing extremely well for herself.{/i}"
-            jump socialmenu
         "{color=#0077ff}{b}[pen]{/b}:{/color} Ice Cream {color=#00ff62}(1 Like){/color}":
             pen "Anyone else miss those cherry flavoured ice cream pots they used to sell at MacDairies?"
             mox "Oh yeah! Those were the bomb!"
             pen "Preach, sister."
             "{i}I could go for some ice cream right now.{/i}"
-
-        #lily after visit 2: new day, new me. more productive than ever
         #honeycrisp after visit 2: announcing new partnership
-        #melody after visit 3: Never thought I'd find a special someone. Life is full of surprises, eh?
-        #butters after visit 2: New alchemist now open
-        #cream visit 1: Bakery Grand Opening
         "Back":
             $ phoneenabled = 1
-            if worldmap == 1:
-                call screen worldmap
-            call screen phone_screen    
+            if worldmap >= 1:
+                call screen worldmap with dissolve
+            call screen phone_screen with dissolve   
             return
     jump socialmenu
 label shop1:
@@ -951,28 +1882,94 @@ label shop1:
     if shoptut == 0:
         call shoptut from _call_shoptut
     menu shop1menu:
-        "Money: [money]"
-        "Unique Outfits":
+        "Money: $[money]"
+        "Casual Outfits (Done)" if casualoutfits == 7:
+            jump shop1menu
+        "Casual Outfits" if casualoutfits != 7:
+            menu shop1menu1:
+                "Money: $[money]"
+                "[mox] Stagewear $75" if moxieoutfit1 == 0:
+                    if money >= 75:
+                        play sound2 shop2
+                        $ money -= 75
+                        $ moxieoutfit1 = 1
+                        $ casualoutfits += 1
+                    else:
+                        play sound2 error
+                "Gymwear $75" if gymwear == 0 and barroute1 == 1:
+                    if money >= 75:
+                        play sound2 shop2
+                        $ money -= 75
+                        $ gymwear = 1
+                        $ casualoutfits += 1
+                    else:
+                        play sound2 error
+                "[hon] Cow Lingerie $75" if honeycrispoutfit2 == 0 and farmroute1 == 1:
+                    if money >= 75:
+                        play sound2 shop2
+                        $ money -= 75
+                        $ honeycrispoutfit2 = 1
+                        $ casualoutfits += 1
+                    else:
+                        play sound2 error
+                "[hon] Gi $150" if honeycrispoutfit1 == 0 and farmroute1 == 1:
+                    if money >= 150:
+                        play sound2 shop2
+                        $ money -= 150
+                        $ honeycrispoutfit1 = 1
+                        $ casualoutfits += 1
+                    else:
+                        play sound2 error
+                "[rik] Casual $150" if rikuoutfit1 == 0 and barroute2 == 1:
+                    if money >= 150:
+                        play sound2 shop2
+                        $ money -= 150
+                        $ rikuoutfit1 = 1
+                        $ casualoutfits += 1
+                    else:
+                        play sound2 error
+                "[but] Lingerie $100" if buttersoutfit1 == 0 and forestroute1 == 1:
+                    if money >= 100:
+                        play sound2 shop2
+                        $ money -= 100
+                        $ buttersoutfit1 = 1
+                        $ casualoutfits += 1
+                    else:
+                        play sound2 error
+                "[but] Ultimate Alchemist $150" if buttersoutfit2 == 0 and forestroute1 == 1:
+                    if money >= 150:
+                        play sound2 shop2
+                        $ money -= 150
+                        $ buttersoutfit2 = 1
+                        $ casualoutfits += 1
+                    else:
+                        play sound2 error
+                "Back":
+                    jump shop1menu
+            jump shop1menu1
+        "Sex Outfits (Done)" if punk == 1 and bunnygirl == 1 and goth == 1:
+            jump shop1menu
+        "Sex Outfits" if punk == 0 or bunnygirl == 0 or goth == 0:
             menu shop1menu2:
-                "Money: [money]"
-                "[mox] Punk for Facesitting - $100 - Owned: [punk]" if punk == 0 and moxiepunk == 0:
+                "Money: $[money]"
+                "Punk - $100" if punk == 0 and moxiepunk == 0:
                     if money >= 100:
                         play sound2 shop2
                         $ money -= 100
                         $ punk = 1
                     else:
                         play sound2 error
-                "[mox] Bunny Girl for Missionary - $100 - Owned: [bunnygirl]" if bunnygirl == 0 and moxiebunnygirl == 0:
+                "Bunny Girl - $100" if bunnygirl == 0 and moxiebunnygirl == 0:
                     if money >= 100:
                         play sound2 shop2
                         $ money -= 100
                         $ bunnygirl = 1
                     else:
                         play sound2 error
-                "[lil] Goth for Handjob and Threesome - $200 - Owned: [goth]" if goth == 0:
+                "Goth - $100" if goth == 0:
                     if money >= 100:
                         play sound2 shop2
-                        $ money -= 200
+                        $ money -= 100
                         $ goth = 1
                     else:
                         play sound2 error
@@ -982,7 +1979,7 @@ label shop1:
         "Self-Repairing Pantyhose and Fishnets - $125 - Owned: [pantyhose]" if pantyhose == 0:
             if money >= 125:
                 play sound2 shop2
-                $ money -= 20
+                $ money -= 125
                 $ pantyhose = 1
             else:
                 play sound2 error
@@ -995,9 +1992,9 @@ label shop1:
                 play sound2 error
         "Back":
             $ phoneenabled = 1
-            if worldmap == 1:
-                call screen worldmap
-            call screen phone_screen    
+            if worldmap >= 1:
+                call screen worldmap with dissolve
+            call screen phone_screen with dissolve   
             return
     jump shop1menu   
 label shop2:
@@ -1007,7 +2004,7 @@ label shop2:
     if shoptut == 0:
         call shoptut from _call_shoptut_1
     menu shop2menu:
-        "Money: [money]"
+        "Money: $[money]"
         "Performance Boosters - $100 - Increases Max Energy by 1" if maxenergy == 2:
             if money >= 100:
                 play sound2 shop2
@@ -1031,6 +2028,13 @@ label shop2:
                 $ buttplug = 1
             else:
                 play sound2 error
+        "Makeup - $200" if makeup == 0:
+                    if money >= 200:
+                        play sound2 shop2
+                        $ money -= 200
+                        $ makeup = 1
+                    else:
+                        play sound2 error
         "Bottomless Anal Lubrication - $300" if lubrication == 0:
             if money >= 300:
                 play sound2 shop2
@@ -1039,7 +2043,6 @@ label shop2:
             else:
                 play sound2 error
         "Lewd Spellbook - $500" if lewdspellbook == 0:
-            #the price of this should probably raise in a later update.
             if money >= 500:
                 play sound2 shop2
                 $ money -= 500
@@ -1055,7 +2058,6 @@ label shop2:
                 play sound2 error
             pass
         "'Milky' Potion - $1500" if pregpotion == 0:
-            #the price of this should probably raise in a later update.
             if money >= 1500:
                 play sound2 shop2
                 $ money -= 1500
@@ -1063,11 +2065,69 @@ label shop2:
             else:
                 play sound2 error
             pass
+        "Guidebooks (Only Available on the World Map)" if worldmap == 0:
+            jump shop2menu
+        "Guidebooks" if worldmap != 0:
+            menu shop2menu2:
+                "Guidebooks tell you where to find certain sex scenes, and offer to immediately take you there. \nThey can be read at any time from your apartment, or alternatively, read here."
+                "Alternative Positions Guidebook ($50)" if guidebook1 == 0:
+                    if money >= 50:
+                        play sound2 shop2
+                        $ money -= 50
+                        $ guidebook1 = 1
+                    else:
+                        play sound2 error
+                    pass
+                "Costume Guidebook ($75)" if guidebook2 == 0:
+                    if money >= 75:
+                        play sound2 shop2
+                        $ money -= 75
+                        $ guidebook2 = 1
+                    else:
+                        play sound2 error
+                    pass
+                "Futa Guidebook ($100)"  if guidebook3 == 0:
+                    if money >= 100:
+                        play sound2 shop2
+                        $ money -= 100
+                        $ guidebook3 = 1
+                    else:
+                        play sound2 error
+                    pass
+                "Pregnancy Guidebook ($100)"  if guidebook4 == 0:
+                    if money >= 100:
+                        play sound2 shop2
+                        $ money -= 100
+                        $ guidebook4 = 1
+                    else:
+                        play sound2 error
+                    pass
+                "Secrets Guidebook ($100)" if guidebookS == 0:
+                    if money >= 100:
+                        play sound2 shop2
+                        $ money -= 100
+                        $ guidebookS = 1
+                    else:
+                        play sound2 error
+                    pass
+                "Alternative Positions Guidebook (Owned)"  if guidebook1 == 1:
+                    call guidebook1 from _call_guidebook1
+                "Costume Guidebook (Owned)" if guidebook2 == 1:
+                    call guidebook2 from _call_guidebook2
+                "Futa Guidebook (Owned)" if guidebook3 == 1:
+                    call guidebook3 from _call_guidebook3
+                "Pregnancy Guidebook (Owned)" if guidebook4 == 1:
+                    call guidebook4 from _call_guidebook4
+                "Secrets Guidebook (Owned)" if guidebookS == 1:
+                    call guidebookS from _call_guidebookS_1
+                "Back":
+                    jump shop2menu
+            jump shop2menu2
         "Back":
             $ phoneenabled = 1
-            if worldmap == 1:
-                call screen worldmap
-            call screen phone_screen    
+            if worldmap >= 1:
+                call screen worldmap with dissolve
+            call screen phone_screen with dissolve   
             return
     jump shop2menu
 label music:
@@ -1078,9 +2138,23 @@ label music:
     if worldmap == 0:
         show screen phone_screen
     menu musicmenu:
-        "Now playing: [gent1]\n{size=*0.6}Pro Tip: Long menus can be scrolled or dragged."
         "Back":
             jump musicmenuback
+        "Action 1 - Crystal Kerosene by Sewerslvt":
+            play music2 action1 
+            $ gent1 = "Crystal Kerosene by Sewerslvt"
+        "Action 2 - Car Accident (Nudul Remix)":
+            play music2 action2
+            $ gent1 = "Car Accident (Nudul Remix)"
+        "Action 3 - sick, twisted, demented by Sewerslvt":
+            play music2 action3
+            $ gent1 = "sick, twisted, demented by Sewerslvt"
+        "Action 4 - WOLF by Nudul":
+            play music2 action4
+            $ gent1 = "WOLF by Nudul"
+        "Action 5 - Crimson Moon by Peritune":
+            play music2 action5
+            $ gent1 = "Crimson Moon by Peritune"
         "[blo]'s Theme - Discovery by Purrple Cat":
             play music2 blossomtheme 
             $ gent1 = "Discovery by Purrple Cat"
@@ -1090,6 +2164,9 @@ label music:
         "[but]'s Theme 2 - Tender Gaze by Peritune":
             play music2 butterstheme2
             $ gent1 = "Tender Gaze by Peritune"
+        "Castle - La Fille Aux Cheveux De Lin by Claude Debussy":
+            play music2 castle
+            $ gent1 = " La Fille Aux Cheveux De Lin by Claude Debussy"
         "Casual 1 - Quiet Ocean by Peritune":
             play music2 casual1 
             $ gent1 = "Quiet Ocean by Peritune"
@@ -1099,6 +2176,9 @@ label music:
         "City - Sparkle by Peritune":
             play music2 citytheme
             $ gent1 = "Sparkle by Peritune"
+        "City2 - Sakuya 4 by Peritune":
+            play music2 city2
+            $ gent1 = "Sakuya 4 by Peritune"
         "Club - delirium dreams by Mindvacy":
             play music2 clubtheme
             $ gent1 = "delirium dreams by Mindvacy"
@@ -1108,37 +2188,55 @@ label music:
         "[cre]'s Theme - Cafe Seaside by Peritune":
             play music2 creamtheme
             $ gent1 = "Cafe Seaside by Peritune"
-        "Danger Theme - Suspense3 by Peritune":
+        "Danger1 - Suspense3 by Peritune":
             play music2 danger
             $ gent1 = "Suspense3 by Peritune"
+        "Danger2 - Euphoric Filth by Sewerslvt":
+            play music2 danger2
+            $ gent1 = "Euphoric Filth by Sewerslvt"
+        "Daytheme - That's One Sly Cat - Artificial Music":
+            play music2 daytheme
+            $ gent1 = "That's One Sly Cat - Artificial Music"
         "Deep Dive - an angel above the ugly, mutilated corpses by mindvacy":
             play music2 deep
             $ gent1 = "an angel above the ugly, mutilated corpses by mindvacy"
+        "Finale1 - Epic Battle J by Peritune":
+            play music2 finale2
+            $ gent1 = "Epic Battle J by Peritune"
+        "Finale2 - In Memory of Lucy by Nudul":
+            play music2 finale3
+            $ gent1 = "In Memory of Lucy by Nudul"
         "[hon]'s Theme - Meteorites by Purrple Cat":
             play music2 honeycrisptheme 
             $ gent1 = "Meteorites by Purrple Cat"
         "Intro - microcosm by Mindvacy":
             play music2 intro 
             $ gent1 = "microcosm by Mindvacy"
-        "Lily's Theme - Aether by Purrple Cat":
+        "[lil]'s Theme - Aether by Purrple Cat":
             play music2 lilytheme 
             $ gent1 = "Aether by Purrple Cat"
-        "Melody's Theme - lorncloudshit by Sewerslvt":
+        "[mel]'s Theme - lorncloudshit by Sewerslvt":
             play music2 melodytheme 
             $ gent1 = "lorncloudshit by Sewerslvt"
-        "Melody's Sex Theme - Yandere Complex by Sewerslvt":
+        "[mel]'s Sex Theme - Yandere Complex by Sewerslvt":
             play music2 melodysextheme 
             $ gent1 = "Yandere Complex by Sewerslvt"
-        "Moxie's Theme - Abstract Foilage by Artificial Music":
+        "[mox]'s Theme - Abstract Foilage by Artificial Music":
             play music2 moxietheme 
             $ gent1 = "Abstract Foilage by Artificial Music"
-        "Penelope's Theme - Going With The Flow by Purrple Cat":
+        "[mor]'s Theme - Deep Sea by Peritune":
+            play music2 morrigantheme 
+            $ gent1 = "Deep Sea by Peritune"
+        "Ominous - Ominous3 by Peritune":
+            play music2 ominous 
+            $ gent1 = "Ominous3 by Peritune"
+        "[pen]'s Theme - Going With The Flow by Purrple Cat":
             play music2 penelopetheme 
             $ gent1 = "Going With The Flow by Purrple Cat"
         "Rainy Day - Cold & Rainy by Purrple Cat":
             play music2 rainytheme 
             $ gent1 = "Cold & Rainy by Purrple Cat"
-        "Ruby's Theme - Toe Wizard by Sewerslvt":
+        "[rub]'s Theme - Toe Wizard by Sewerslvt":
             play music2 rubytheme 
             $ gent1 = "Toe Wizard by Sewerslvt"
         "Sad - hopelessness by Sewerslvt":
@@ -1150,6 +2248,18 @@ label music:
         "Sex Theme 2- Purple Hearts in Her Eyes by Sewerslvt":
             play music2 sextheme2
             $ gent1 = "Purple Hearts in Her Eyes by Sewerslvt"
+        "Slowburn by Cynthoni":
+            play music2 slowburn
+            $ gent1 = " Slowburn by Cynthoni"
+        "Slowdeath by Sewerslvt":
+            play music2 slowdeath
+            $ gent1 = " Slowdeath by Sewerslvt"
+        "[sky]'s Theme - Whistling Winds by Peritune":
+            play music2 skyetheme
+            $ gent1 = "Whistling Winds by Peritune"
+        "Tension - 7 Heads, 10 Crowns by Nudul":
+            play music2 tension
+            $ gent1 = "7 Heads, 10 Crowns by Nudul"
         "Back":
             label musicmenuback:
                 stop music2
@@ -1157,9 +2267,9 @@ label music:
             $ renpy.music.set_volume(1, 0, "ambience1")
             $ phoneenabled = 1
             $ bigmenu = 0
-            if worldmap == 1:
-                call screen worldmap
-            call screen phone_screen    
+            if worldmap >= 1:
+                call screen worldmap with dissolve
+            call screen phone_screen with dissolve   
             return
     jump musicmenu
 label cheats:
@@ -1167,14 +2277,20 @@ label cheats:
     if worldmap == 0:
         show screen phone_screen
     menu cheatmenu:
+        "Money: $[money] \nEnergy:[energy]"
         "+/- Money":
-            $ gen1 = renpy.input("Enter an amount of monies to gain or lose. Current Monies: [money]", allow="-0123456789")
-            $ money += int(gen1)
-        "+/- Energy":
-            $ gen1 = renpy.input("Enter an amount of energy to gain or lose. Current Energy: [energy]", allow="-0123456789")
-            $ energy += int(gen1)
+            $ gen8 = renpy.input("Enter an amount of monies to gain or lose. Current Monies: $[money]", allow="-0123456789")
+            play sound2 item
+            $ money += int(gen8)
+        "Max Energy":
+            play sound2 item
+            $ energy += maxenergy
         "Change Names/Styles":
+            $ bigmenu = 1
             menu cheatmenu2:
+                "Back":
+                    $ bigmenu = 0
+                    jump cheatmenu
                 "You, [mc]":
                     $ mc = renpy.input("What is your name?")
                     if mc == "":
@@ -1247,6 +2363,44 @@ label cheats:
                             if lily == "":
                                 $ lily= "Lily"
                             $ lily = lily.strip()
+                "[rik] Style [rikb]":
+                    $ gen1 = 5
+                    call screen characterchoice
+                    $ rikb = gen2
+                    menu:
+                        "What was her name?"
+                        "Default: Riku":
+                            $ riku = "Riku"
+                        "Alternative: Prisma":
+                            $ riku = "Prisma"
+                        "Custom":
+                            $ riku = renpy.input("What was her name?")
+                            if riku == "":
+                                $ riku= "Riku"
+                            $ riku = riku.strip()
+                "[cre] Style [creb]":
+                    $ gen1 = 6
+                    call screen characterchoice
+                    $ creb = gen2
+                    menu:
+                        "What was her name?"
+                        "Default: Cream":
+                            $ cream = "Cream"
+                        "Custom":
+                            $ cream = renpy.input("What was her name?")
+                            if cream == "":
+                                $ cream= "Cream"
+                            $ cream = cream.strip()
+                "[but] Name":
+                    menu:
+                        "What was her name?"
+                        "Default: Butters":
+                            $ butters = "Butters"
+                        "Custom":
+                            $ butters = renpy.input("What was her name?")
+                            if butters == "":
+                                $ butters= "Butters"
+                            $ butters = butters.strip()
                 "[mel] Style [melb]":
                     $ gen1 = 11
                     call screen characterchoice
@@ -1273,8 +2427,53 @@ label cheats:
                             if blossom == "":
                                 $ blossom= "Blossom"
                             $ blossom = blossom.strip()
+                "[aur] Style [aurb]" if castleroute1 == 1:
+                    $ gen1 = 13
+                    call screen characterchoice
+                    $ aurb = gen2
+                    menu:
+                        "What was her name?"
+                        "Default: Aurora":
+                            $ aurora = "Aurora"
+                        "Custom":
+                            $ aurora = renpy.input("What was her name?")
+                            if aurora == "":
+                                $ aurora= "Aurora"
+                            $ aurora = aurora.strip()
+                "[sel] Name" if castleroute1 == 1:
+                    menu:
+                        "What was her name?"
+                        "Default: Selene":
+                            $ selene = "Selene"
+                        "Custom":
+                            $ selene = renpy.input("What was her name?")
+                            if selene == "":
+                                $ selene= "Selene"
+                            $ selene = selene.strip()
+                "[daw] Style [dawb]" if castleroute3 == 1:
+                    $ gen1 = 14
+                    call screen characterchoice
+                    $ dawb = gen2
+                    menu:
+                        "What was her name?"
+                        "Default: Dawn":
+                            $ dawn = "Dawn"
+                        "Custom":
+                            $ dawn = renpy.input("What was her name?")
+                            if dawn == "":
+                                $ aurora= "Dawn"
+                            $ dawn = dawn.strip()
                 "Background Characters":
                     menu cheatmenu3:
+                        "[mor]'s Name" if castleroute1rewrite == 1:
+                            menu:
+                                "Default: Morrigan":
+                                    $ morrigan = "Morrigan"
+                                "Custom":
+                                    $ morrigan = renpy.input("What was her name?")
+                                    if morrigan == "":
+                                        $ morrigan= "Morrigan"
+                                    $ morrigan = morrigan.strip()
                         "[cla]'s Name":
                             menu:
                                 "Default: Claire":
@@ -1315,103 +2514,327 @@ label cheats:
                         "Back":
                             jump cheatmenu2
                     jump cheatmenu3
-                "Back":
-                    jump cheatmenu
             jump cheatmenu2
         "Content Skip":
             menu skipmenu:
-                "Toggling the visits out of order may have unintended consequences."
+                "Game Completion: [completion]/[fullcompletion]\nToggling the visits out of order isn't tested and may have unintended consequences."
                 "Treehouse ([magiccompletion]/3)":
                     menu trskipmenu:
                         "First Visit ([magicroute1]/1)":
                             if magicroute1 == 0:
                                 $ magicroute1 = 1
                                 $ magiccompletion += 1
+                                $ completion += 1
                             else:
                                 $ magicroute1 = 0
                                 $ magiccompletion -= 1
+                                $ completion -= 1
                         "Second Visit ([magicroute2]/1)":
                             if magicroute2 == 0:
                                 $ magicroute2 = 1
                                 $ magiccompletion += 1
+                                $ completion += 1
                             else:
                                 $ magicroute2 = 0
                                 $ magiccompletion -= 1
+                                $ completion -= 1
                         "Third Visit ([magicroute3]/1)":
                             if magicroute3 == 0:
                                 $ magicroute3 = 1
                                 $ magiccompletion += 1
+                                $ completion += 1
                             else:
                                 $ magicroute3 = 0
                                 $ magiccompletion -= 1
+                                $ completion -= 1
                         "Back":
                             jump skipmenu
                     jump trskipmenu
-                "Brothel ([brothelcompletion]/2)":
+                "Brothel ([brothelcompletion]/4)":
                     menu brskipmenu:
                         "First Visit ([brothelroute1]/1)":
                             if brothelroute1 == 0:
                                 $ brothelroute1 = 1
                                 $ brothelcompletion += 1
+                                $ completion += 1
                             else:
                                 $ brothelroute1 = 0
                                 $ brothelcompletion -= 1
+                                $ completion -= 1
                         "Second Visit ([brothelroute2]/1)":
                             if brothelroute2 == 0:
                                 $ brothelroute2 = 1
                                 $ brothelcompletion += 1
+                                $ completion += 1
                             else:
                                 $ brothelroute2 = 0
                                 $ brothelcompletion -= 1
-                            pass
+                                $ completion -= 1
+                        "Third Visit ([brothelroute3]/1)":
+                            if brothelroute3 == 0:
+                                $ brothelroute3 = 1
+                                $ brothelcompletion += 1
+                                $ completion += 1
+                            else:
+                                $ brothelroute3 = 0
+                                $ brothelcompletion -= 1
+                                $ completion -= 1
+                        "Fourth Visit ([brothelroute4]/1)":
+                            if brothelroute4 == 0:
+                                $ brothelroute4 = 1
+                                $ brothelcompletion += 1
+                                $ completion += 1
+                            else:
+                                $ brothelroute4 = 0
+                                $ brothelcompletion -= 1
+                                $ completion -= 1
                         "Back":
                             jump skipmenu
                     jump brskipmenu
-                "Farm ([farmcompletion]/1)":
-                    menu:
+                "Farm ([farmcompletion]/4)":
+                    menu faskipmenu:
                         "First Visit ([farmroute1]/1)":
                             if farmroute1 == 0:
                                 $ farmroute1 = 1
                                 $ farmcompletion += 1
+                                $ completion += 1
                             else:
                                 $ farmroute1 = 0
                                 $ farmcompletion -= 1
-                        "Second Visit (In Dev)":
-                            pass
+                                $ completion -= 1
+                        "Second Visit ([farmroute2]/1)":
+                            if farmroute2 == 0:
+                                $ farmroute2 = 1
+                                $ farmcompletion += 1
+                                $ completion += 1
+                            else:
+                                $ farmroute2 = 0
+                                $ farmcompletion -= 1
+                                $ completion -= 1
+                        "Third Visit ([farmroute3]/1)":
+                            if farmroute3 == 0:
+                                $ farmroute3 = 1
+                                $ farmcompletion += 1
+                                $ completion += 1
+                            else:
+                                $ farmroute3 = 0
+                                $ farmcompletion -= 1
+                                $ completion -= 1
+                        "Fourth Visit ([farmroute4]/1)":
+                            if farmroute4 == 0:
+                                $ farmroute4 = 1
+                                $ farmcompletion += 1
+                                $ completion += 1
+                            else:
+                                $ farmroute4 = 0
+                                $ farmcompletion -= 1
+                                $ completion -= 1
                         "Back":
-                            pass
-                    jump todomenu
-                #"Bakery (In Dev)":
-                #    play sound2 error
-                #    jump todomenu
-                "Forest ([forestcompletion]/1)":
+                            jump skipmenu
+                    jump faskipmenu
+                "Bakery ([bakerycompletion]/2)":
+                    menu baskipmenu:
+                        "First Visit ([bakeryroute1]/1)":
+                            if bakeryroute1 == 0:
+                                $ bakeryroute1 = 1
+                                $ bakerycompletion += 1
+                                $ completion += 1
+                            else:
+                                $ bakeryroute1 = 0
+                                $ bakerycompletion -= 1
+                                $ completion -= 1
+                        "Second Visit ([bakeryroute2]/1)":
+                            if bakeryroute2 == 0:
+                                $ bakeryroute2 = 1
+                                $ bakerycompletion += 1
+                                $ completion += 1
+                            else:
+                                $ bakeryroute2 = 0
+                                $ bakerycompletion -= 1
+                                $ completion -= 1
+                        "Back":
+                            jump skipmenu
+                    jump baskipmenu
+                "Forest ([forestcompletion]/2)":
                     menu foskipmenu:
                         "First Visit ([forestroute1]/1)":
                             if forestroute1 == 0:
                                 $ forestroute1 = 1
                                 $ forestcompletion += 1
+                                $ completion += 1
                             else:
                                 $ forestroute1 = 0
                                 $ forestcompletion -= 1
+                                $ completion -= 1
+                        "Second Visit ([forestroute2]/1)":
+                            if forestroute2 == 0:
+                                $ forestroute2 = 1
+                                $ forestcompletion += 1
+                                $ completion += 1
+                            else:
+                                $ forestroute2 = 0
+                                $ forestcompletion -= 1
+                                $ completion -= 1
                         "Back":
                             jump skipmenu
                     jump foskipmenu
-                #"Bar (In Dev)":
-                #    play sound2 error
-                #    jump todomenu
-                #"Castle (In Dev)":
-                #    play sound2 error
-                #    jump todomenu
-                #"Extra (In Dev)":
-                #    play sound2 error
-                #    jump todomenu
+                "Bar ([barcompletion]/4)":
+                    menu barskipmenu:
+                        "First Visit ([barroute1]/1)":
+                            if barroute1 == 0:
+                                $ barroute1 = 1
+                                $ barcompletion += 1
+                                $ completion += 1
+                            else:
+                                $ barroute1 = 0
+                                $ barcompletion -= 1
+                                $ completion -= 1
+                        "Second Visit ([barroute2]/1)":
+                            if barroute2 == 0:
+                                $ barroute2 = 1
+                                $ barcompletion += 1
+                                $ completion += 1
+                            else:
+                                $ barroute2 = 0
+                                $ barcompletion -= 1
+                                $ completion -= 1
+                        "Third Visit ([barroute3]/1)":
+                            if barroute3 == 0:
+                                $ barroute3 = 1
+                                $ barcompletion += 1
+                                $ completion += 1
+                            else:
+                                $ barroute3 = 0
+                                $ barcompletion -= 1
+                                $ completion -= 1
+                        "Fourth Visit ([barroute4]/1)":
+                            if barroute4 == 0:
+                                $ barroute4 = 1
+                                $ barcompletion += 1
+                                $ completion += 1
+                            else:
+                                $ barroute4 = 0
+                                $ barcompletion -= 1
+                                $ completion -= 1
+                        "Back":
+                            jump skipmenu
+                    jump barskipmenu
+                "Castle ([castlecompletion]/3)":
+                    menu castleskipmenu:
+                        "First Visit ([castleroute1rewrite]/1)":
+                            if castleroute1rewrite == 0:
+                                $ castleroute1rewrite = 1
+                                $ castlecompletion += 1
+                                $ completion += 1
+                            else:
+                                $ castleroute1rewrite = 0
+                                $ castlecompletion -= 1
+                                $ completion -= 1
+                        "Second Visit ([castleroute2]/1)":
+                            if castleroute2 == 0:
+                                $ castleroute2 = 1
+                                $ castlecompletion += 1
+                                $ completion += 1
+                            else:
+                                $ castleroute2 = 0
+                                $ castlecompletion -= 1
+                                $ completion -= 1
+                        "Third Visit ([castleroute3]/1)":
+                            if castleroute3 == 0:
+                                $ castleroute3 = 1
+                                $ castlecompletion += 1
+                                $ completion += 1
+                            else:
+                                $ castleroute3 = 0
+                                $ castlecompletion -= 1
+                                $ completion -= 1
+                        "Back":
+                            jump skipmenu
+                    jump castleskipmenu
+                "Act 2 ([act2completion]/8)":
+                    menu act2skipmenu:
+                        "Arrival ([dawnroute1]/1)":
+                            if dawnroute1 == 0:
+                                $ dawnroute1 = 1
+                                $ act2completion += 1
+                                $ completion += 1
+                            else:
+                                $ dawnroute1 = 0
+                                $ act2completion -= 1
+                                $ completion -= 1
+                        "Physical Training ([crystal1a]/1)":
+                            if crystal1a == 0:
+                                $ crystal1a = 1
+                                $ act2completion += 1
+                                $ completion += 1
+                            else:
+                                $ crystal1a = 0
+                                $ act2completion -= 1
+                                $ completion -= 1
+                        "Magical Training ([crystal1b]/1)":
+                            if crystal1b == 0:
+                                $ crystal1b = 1
+                                $ act2completion += 1
+                                $ completion += 1
+                            else:
+                                $ crystal1b = 0
+                                $ act2completion -= 1
+                                $ completion -= 1
+                        "Cadia Falls ([crystal2]/1)":
+                            if crystal2 == 0:
+                                $ crystal2 = 1
+                                $ act2completion += 1
+                                $ completion += 1
+                            else:
+                                $ crystal2 = 0
+                                $ act2completion -= 1
+                                $ completion -= 1
+                        "[but] ([crystal3]/1)":
+                            if crystal3 == 0:
+                                $ crystal3 = 1
+                                $ act2completion += 1
+                                $ completion += 1
+                            else:
+                                $ crystal3 = 0
+                                $ act2completion -= 1
+                                $ completion -= 1
+                        "[pen] ([crystal4]/1)":
+                            if crystal4 == 0:
+                                $ crystal4 = 1
+                                $ act2completion += 1
+                                $ completion += 1
+                            else:
+                                $ crystal4 = 0
+                                $ act2completion -= 1
+                                $ completion -= 1
+                        "Back to Arcadia ([crystal5]/1)":
+                            if crystal5 == 0:
+                                $ crystal5 = 1
+                                $ act2completion += 1
+                                $ completion += 1
+                            else:
+                                $ crystal5 = 0
+                                $ act2completion -= 1
+                                $ completion -= 1
+                        "Back to Arcadia (The Other One) ([crystal6]/1)":
+                            if crystal6 == 0:
+                                $ crystal6 = 1
+                                $ act2completion += 1
+                                $ completion += 1
+                            else:
+                                $ crystal6 = 0
+                                $ act2completion -= 1
+                                $ completion -= 1
+                        "Back":
+                            jump skipmenu
+                    jump act2skipmenu
                 "Back":
                     jump cheatmenu  
         "Back":
             $ phoneenabled = 1
-            if worldmap == 1:
-                call screen worldmap
-            call screen phone_screen    
+            if worldmap >= 1:
+                call screen worldmap with dissolve
+            call screen phone_screen with dissolve   
             return 
     jump cheatmenu
 label settings:
@@ -1438,13 +2861,25 @@ label settings:
             else:
                 $ uiicons = "On"
             jump settingsmenu
+        "Toggle Sex Scene Camera Movements: [cameramove]":
+            if cameramove == "On":
+                $ cameramove = "Off"
+            else:
+                $ cameramove = "On"
+            jump settingsmenu
+        "Toggle Text Sound: [beep_enabled]":
+            if beep_enabled == "On":
+                $ beep_enabled = "Off"
+            else:
+                $ beep_enabled = "On"
+            jump settingsmenu
         "Back":
             $ phoneenabled = 1
-            if worldmap == 1:
-                call screen worldmap
-            call screen phone_screen    
+            if worldmap >= 1:
+                call screen worldmap with dissolve
+            call screen phone_screen with dissolve   
             return 
-    jump settingsmenu  
+    #jump settingsmenu  
  
 
 ################################################################################
@@ -1675,10 +3110,11 @@ screen choice(items):
     zorder 102
     style_prefix "choice"
     if bigmenu == 1:
-        side "c":
-            area (380, 25, 1850, 800)
-            viewport:
-                scrollbars "vertical"
+        on "show" action Function(disable_rollback)
+        on "hide" action Function(enable_rollback)
+        side "c r":
+            area (380, 25, 1250, 800)
+            viewport id "big_menu":
                 mousewheel True
                 draggable True
                 side_yfill True
@@ -1686,6 +3122,7 @@ screen choice(items):
                     for i in items:
                         $ disabled = i.kwargs.get("disabled", False)
                         textbutton i.caption action i.action sensitive not disabled
+            vbar value YScrollValue("big_menu")
     else:
         vbox:
             for i in items:
@@ -1859,8 +3296,6 @@ screen main_menu():
         ground "MainMenuUI.png"
         hover "MainMenuUIh.png"
 
-        hotspot (1153, 975, 800, 150) action OpenURL("https://www.patreon.com/TwistedScarlett") hovered [ Play ("sound", "click1.ogg")]
-
         hotspot (129, 372, 329, 81) action Start() hovered [ Play ("sound", "click1.ogg")]
 
         hotspot (126, 455, 332, 77) action ShowMenu("load") hovered [ Play ("sound", "click1.ogg")]
@@ -1868,6 +3303,14 @@ screen main_menu():
         hotspot (105, 531, 365, 81) action ShowMenu("preferences") hovered [ Play ("sound", "click1.ogg")]
 
         hotspot (123, 610, 339, 91)action Quit(confirm=not main_menu) hovered [ Play ("sound", "click1.ogg")]
+
+    if steam == 0:
+        imagebutton:
+            idle "MainMenuP.png"
+            hover "MainMenuPH.png"
+            yalign 0.99
+            xalign 0.99
+            action OpenURL("https://www.patreon.com/TwistedScarlett") hovered Play("sound", "click1.ogg")
 
     ## This empty frame darkens the main menu.
     frame:
@@ -2328,6 +3771,11 @@ screen preferences():
                     label _("Quick Menu")
                     textbutton _("Enabled") action SetField(persistent,"quick_menu", True)
                     textbutton _("Disabled") action SetField(persistent,"quick_menu", False)
+                vbox:
+                    style_prefix "radio"
+                    label _("Language")
+                    textbutton _("Englist") action Language(None)
+                    textbutton _("Chinese") text_font "SourceHanSansLite.ttf" action Language("chinese")
                 ## Additional vboxes of type "radio_pref" or "check_pref" can be
                 ## added here, to add additional creator-defined preferences.
 

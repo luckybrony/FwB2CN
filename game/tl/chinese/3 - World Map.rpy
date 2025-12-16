@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2024-09-19 01:01
+﻿# TODO: Translation updated at 2025-10-26 21:30
 
 # game/3 - World Map.rpy:14
 translate chinese worldmap_0e85439d:

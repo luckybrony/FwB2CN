@@ -71,16 +71,16 @@ define gui.interface_text_font = "AlegreyaSans-Medium.ttf"
 define gui.interface_text_outlines = [ (0, "#0E070B",) ]
 
 ## The size of normal dialogue text.
-define gui.text_size = 34
+define gui.text_size = 30
 
 ## The size of character names.
 define gui.name_text_size = 50
 
 ## The size of text in the game's user interface.
-define gui.interface_text_size = 32
+define gui.interface_text_size = 30
 
 ## The size of labels in the game's user interface.
-define gui.label_text_size = 32
+define gui.label_text_size = 30
 
 ## The size of text on the notify screen.
 define gui.notify_text_size = 24
