@@ -1,0 +1,261 @@
+[
+  {
+    "key": "game/12 - Talks.rpy_L2_0",
+    "original": "Adjusting to the City",
+    "translation": "适应这个城市",
+    "stage": 1,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/12%20-%20Talks.rpy#L2"
+  },
+  {
+    "key": "game/12 - Talks.rpy_L2_1",
+    "original": "Her Performances",
+    "translation": "她的表演",
+    "stage": 1,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/12%20-%20Talks.rpy#L2"
+  },
+  {
+    "key": "game/12 - Talks.rpy_L2_2",
+    "original": "What do you think about me?",
+    "translation": "你觉得我咋样",
+    "stage": 1,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/12%20-%20Talks.rpy#L2"
+  },
+  {
+    "key": "game/12 - Talks.rpy_L2_3",
+    "original": "Local Buzz",
+    "translation": "小道消息",
+    "stage": 1,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/12%20-%20Talks.rpy#L2"
+  },
+  {
+    "key": "game/12 - Talks.rpy_L2_4",
+    "original": "What are your current relationships?",
+    "translation": "你现在的社交圈怎么样？",
+    "stage": 1,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/12%20-%20Talks.rpy#L2"
+  },
+  {
+    "key": "game/12 - Talks.rpy_L2_5",
+    "original": "(Finish)",
+    "translation": "结束",
+    "stage": 1,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/12%20-%20Talks.rpy#L2"
+  },
+  {
+    "key": "game/12 - Talks.rpy_L102_0",
+    "original": "Advanced Relics",
+    "translation": "高阶圣遗物",
+    "stage": 1,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/12%20-%20Talks.rpy#L102"
+  },
+  {
+    "key": "game/12 - Talks.rpy_L102_1",
+    "original": "Academia",
+    "translation": "学术生涯",
+    "stage": 1,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/12%20-%20Talks.rpy#L102"
+  },
+  {
+    "key": "game/12 - Talks.rpy_L102_2",
+    "original": "Future Plans",
+    "translation": "未来计划",
+    "stage": 1,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/12%20-%20Talks.rpy#L102"
+  },
+  {
+    "key": "game/12 - Talks.rpy_L203_0",
+    "original": "Technology and Magic",
+    "translation": "科技和魔法",
+    "stage": 1,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/12%20-%20Talks.rpy#L203"
+  },
+  {
+    "key": "game/12 - Talks.rpy_L203_1",
+    "original": "Queen [aur]",
+    "translation": "[aur]女王",
+    "stage": 1,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/12%20-%20Talks.rpy#L203"
+  },
+  {
+    "key": "game/12 - Talks.rpy_L203_2",
+    "original": "Ask About Her",
+    "translation": "问问她",
+    "stage": 1,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/12%20-%20Talks.rpy#L203"
+  },
+  {
+    "key": "game/12 - Talks.rpy_L215_0",
+    "original": "Haha, totally.",
+    "translation": "哈哈，肯定的。",
+    "stage": 1,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/12%20-%20Talks.rpy#L215"
+  },
+  {
+    "key": "game/12 - Talks.rpy_L215_1",
+    "original": "What a nerd.",
+    "translation": "真是个呆子",
+    "stage": 1,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/12%20-%20Talks.rpy#L215"
+  },
+  {
+    "key": "game/12 - Talks.rpy_L279_0",
+    "original": "Advice of the Land",
+    "translation": "大地的启示",
+    "stage": 1,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/12%20-%20Talks.rpy#L279"
+  },
+  {
+    "key": "game/12 - Talks.rpy_L279_1",
+    "original": "Thoughts on Me?",
+    "translation": "对我的看法？",
+    "stage": 1,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/12%20-%20Talks.rpy#L279"
+  },
+  {
+    "key": "game/12 - Talks.rpy_L279_2",
+    "original": "The Farm",
+    "translation": "农场",
+    "stage": 1,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/12%20-%20Talks.rpy#L279"
+  },
+  {
+    "key": "game/12 - Talks.rpy_L333_0",
+    "original": "Life so Far",
+    "translation": "目前的生活",
+    "stage": 1,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/12%20-%20Talks.rpy#L333"
+  },
+  {
+    "key": "game/12 - Talks.rpy_L333_1",
+    "original": "Thoughts on the City?",
+    "translation": "对这城市的看法？",
+    "stage": 1,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/12%20-%20Talks.rpy#L333"
+  },
+  {
+    "key": "game/12 - Talks.rpy_L333_2",
+    "original": "Local Area",
+    "translation": "当地区域",
+    "stage": 1,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/12%20-%20Talks.rpy#L333"
+  },
+  {
+    "key": "game/12 - Talks.rpy_L396_0",
+    "original": "Tell Me About Yourself",
+    "translation": "说说你自己",
+    "stage": 1,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/12%20-%20Talks.rpy#L396"
+  },
+  {
+    "key": "game/12 - Talks.rpy_L396_1",
+    "original": "Your Most Interesting Experiences",
+    "translation": "你最有趣的经历",
+    "stage": 1,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/12%20-%20Talks.rpy#L396"
+  },
+  {
+    "key": "game/12 - Talks.rpy_L396_2",
+    "original": "City’s Social and Cultural Landscape",
+    "translation": "城市社会与文化景观",
+    "stage": 1,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/12%20-%20Talks.rpy#L396"
+  },
+  {
+    "key": "game/12 - Talks.rpy_L468_0",
+    "original": "Philosophy on Life",
+    "translation": "人生哲学",
+    "stage": 1,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/12%20-%20Talks.rpy#L468"
+  },
+  {
+    "key": "game/12 - Talks.rpy_L468_1",
+    "original": "Bucket List",
+    "translation": "遗愿清单",
+    "stage": 1,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/12%20-%20Talks.rpy#L468"
+  },
+  {
+    "key": "game/12 - Talks.rpy_L537_0",
+    "original": "Adapting to the World",
+    "translation": "适应世界",
+    "stage": 1,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/12%20-%20Talks.rpy#L537"
+  },
+  {
+    "key": "game/12 - Talks.rpy_L537_1",
+    "original": "Living with Two Selves",
+    "translation": "与双重自我共处",
+    "stage": 1,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/12%20-%20Talks.rpy#L537"
+  },
+  {
+    "key": "game/12 - Talks.rpy_L537_2",
+    "original": "Alchemy",
+    "translation": "炼金术",
+    "stage": 1,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/12%20-%20Talks.rpy#L537"
+  },
+  {
+    "key": "game/12 - Talks.rpy_L621_0",
+    "original": "Who’s the ‘Real You’?",
+    "translation": "哪个是“真正”的你？",
+    "stage": 1,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/12%20-%20Talks.rpy#L621"
+  },
+  {
+    "key": "game/12 - Talks.rpy_L621_1",
+    "original": "The Nexus",
+    "translation": "枢纽中心",
+    "stage": 1,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/12%20-%20Talks.rpy#L621"
+  },
+  {
+    "key": "game/12 - Talks.rpy_L621_2",
+    "original": "Why a Bakery?",
+    "translation": "为什么选择烘焙坊？",
+    "stage": 1,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/12%20-%20Talks.rpy#L621"
+  },
+  {
+    "key": "game/12 - Talks.rpy_L675_0",
+    "original": "The Bar Scene",
+    "translation": "酒吧场景",
+    "stage": 1,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/12%20-%20Talks.rpy#L675"
+  },
+  {
+    "key": "game/12 - Talks.rpy_L675_1",
+    "original": "Her Take on Me",
+    "translation": "她眼中的我",
+    "stage": 1,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/12%20-%20Talks.rpy#L675"
+  },
+  {
+    "key": "game/12 - Talks.rpy_L675_2",
+    "original": "Relationship with [rik]",
+    "translation": "与[rik]的关系",
+    "stage": 1,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/12%20-%20Talks.rpy#L675"
+  },
+  {
+    "key": "game/12 - Talks.rpy_L730_0",
+    "original": "Her Glory Days",
+    "translation": "她的光辉岁月",
+    "stage": 1,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/12%20-%20Talks.rpy#L730"
+  },
+  {
+    "key": "game/12 - Talks.rpy_L730_1",
+    "original": "Handling Fame",
+    "translation": "应对名声",
+    "stage": 1,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/12%20-%20Talks.rpy#L730"
+  },
+  {
+    "key": "game/12 - Talks.rpy_L730_2",
+    "original": "Why Stay in the City?",
+    "translation": "为什么呆在城市？",
+    "stage": 1,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/12%20-%20Talks.rpy#L730"
+  }
+]

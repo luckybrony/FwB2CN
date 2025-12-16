@@ -2,1066 +2,2332 @@
   {
     "key": "game/7 - Work.rpy_L28_0",
     "original": "Upgrades",
+    "translation": "升级",
+    "stage": 3,
     "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/7%20-%20Work.rpy#L28"
   },
   {
     "key": "game/7 - Work.rpy_L34_0",
     "original": "Days Left: [fdaysleft] - Base Value: [plantsellvalue] - Quality: [plantquality:.2f]x",
+    "translation": "剩余天数：[fdaysleft] - 基础价值：[plantsellvalue] - 质量加成：[plantquality:.2f]x",
+    "stage": 3,
     "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/7%20-%20Work.rpy#L34"
   },
   {
     "key": "game/7 - Work.rpy_L34_1",
     "original": "Plant Seeds [seeds]/[pots]",
+    "translation": "已播种 [seeds]/[pots]",
+    "stage": 3,
     "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/7%20-%20Work.rpy#L34"
   },
   {
     "key": "game/7 - Work.rpy_L34_2",
     "original": "Watered [watered]/[pots]",
+    "translation": "已浇水 [watered]/[pots]",
+    "stage": 3,
     "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/7%20-%20Work.rpy#L34"
   },
   {
     "key": "game/7 - Work.rpy_L34_3",
     "original": "Harvest ([gent1])",
+    "translation": "收获([gent1])",
+    "stage": 3,
     "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/7%20-%20Work.rpy#L34"
   },
   {
     "key": "game/7 - Work.rpy_L34_4",
     "original": "Finish",
+    "translation": "结束",
+    "stage": 3,
     "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/7%20-%20Work.rpy#L34"
   },
   {
     "key": "game/7 - Work.rpy_L79_0",
     "original": "Money: $[money] \\nDays to Grow: [fdaysleftbase] - Base Sell Value: [plantsellvalue] - Watering Bonus: [waterbonus]% \\nPots: [pots].",
+    "translation": "金钱: $[money] \\n剩余生长天数: [fdaysleftbase] - 基础销售价格: [plantsellvalue] - 浇水奖励: [waterbonus]% \\n花盆数: [pots].",
+    "stage": 3,
     "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/7%20-%20Work.rpy#L79"
   },
   {
     "key": "game/7 - Work.rpy_L79_1",
     "original": "Fertilizer ($40): {i}+5% Watering Quality",
+    "translation": "肥料 ($40)：{i} +5%浇水质量",
+    "stage": 3,
     "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/7%20-%20Work.rpy#L79"
   },
   {
     "key": "game/7 - Work.rpy_L79_2",
     "original": "Tier 2 Seeds ($80): {i}+1 Day to Grow. +$20 per Plant (Toggleable)",
+    "translation": "2级种子($80)：{i}+1天生长时间。每棵植物+ $20（可切换）",
+    "stage": 3,
     "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/7%20-%20Work.rpy#L79"
   },
   {
     "key": "game/7 - Work.rpy_L79_3",
     "original": "The Fourth Pot ($160): {i}+1 Pot",
+    "translation": "第四个花盆($160)：{i}+1 花盆",
+    "stage": 3,
     "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/7%20-%20Work.rpy#L79"
   },
   {
     "key": "game/7 - Work.rpy_L79_4",
     "original": "Magical Water ($260): {i}+5% Watering Quality. +$6 Sell Value",
+    "translation": "魔法水($260)：{i} +5%浇水质量。+$6出售价格",
+    "stage": 3,
     "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/7%20-%20Work.rpy#L79"
   },
   {
     "key": "game/7 - Work.rpy_L79_5",
     "original": "Tier 3 Seeds ($320): {i}+1 Day to Grow. +$24 per Plant (Toggleable)",
+    "translation": "3级种子($320)：{i} +1天生长时间。每棵植物+ $24（可切换）",
+    "stage": 3,
     "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/7%20-%20Work.rpy#L79"
   },
   {
     "key": "game/7 - Work.rpy_L79_6",
     "original": "Sprinkler System ($400): {i}Working at the Farm no longer takes up an entire night",
+    "translation": "洒水系统（$400）:{i} 在农场工作不再占用整个晚上",
+    "stage": 3,
     "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/7%20-%20Work.rpy#L79"
   },
   {
     "key": "game/7 - Work.rpy_L79_7",
     "original": "Purchased Upgrades",
+    "translation": "已购买的升级",
+    "stage": 3,
     "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/7%20-%20Work.rpy#L79"
   },
   {
     "key": "game/7 - Work.rpy_L128_0",
     "original": "Fertilizer: {i}+5% Watering Quality",
+    "translation": "肥料：{i} +5%浇水质量",
+    "stage": 3,
     "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/7%20-%20Work.rpy#L128"
   },
   {
     "key": "game/7 - Work.rpy_L128_1",
     "original": "Tier 2 Seeds ([fup2toggle]): {i}+1 Day to Grow. +$20 per Plant (Toggleable)",
+    "translation": "2级种子([fup2toggle])：{i}+1天生长时间。每棵植物+ $20（可切换）",
+    "stage": 3,
     "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/7%20-%20Work.rpy#L128"
   },
   {
     "key": "game/7 - Work.rpy_L128_2",
     "original": "The Fourth Pot: {i}+1 Pot",
+    "translation": "第四个花盆：{i}+1 花盆",
+    "stage": 3,
     "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/7%20-%20Work.rpy#L128"
   },
   {
     "key": "game/7 - Work.rpy_L128_3",
     "original": "Magical Water: {i}+5% Watering Quality. +$5 Sell Value",
+    "translation": "魔法水：{i} +5%浇水质量。+$6出售价格",
+    "stage": 3,
     "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/7%20-%20Work.rpy#L128"
   },
   {
     "key": "game/7 - Work.rpy_L128_4",
     "original": "Tier 3 Seeds ([fup5toggle]): {i}+1 Day to Grow. +$24 per Plant (Toggleable)",
+    "translation": "3级种子([fup5toggle])：{i} +1天生长时间。每棵植物+ $24（可切换）",
+    "stage": 3,
     "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/7%20-%20Work.rpy#L128"
   },
   {
-    "key": "game/7 - Work.rpy_L208_0",
+    "key": "game/7 - Work.rpy_L205_0",
     "original": "Current Rank: [rank], [rankn].",
-    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/7%20-%20Work.rpy#L208"
+    "translation": "当前等级：[rank], [rankn]。",
+    "stage": 3,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/7%20-%20Work.rpy#L205"
   },
   {
-    "key": "game/7 - Work.rpy_L208_1",
+    "key": "game/7 - Work.rpy_L205_1",
     "original": "Start Work",
-    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/7%20-%20Work.rpy#L208"
+    "translation": "开始干活",
+    "stage": 3,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/7%20-%20Work.rpy#L205"
   },
   {
-    "key": "game/7 - Work.rpy_L208_2",
+    "key": "game/7 - Work.rpy_L205_2",
     "original": "Bartender",
-    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/7%20-%20Work.rpy#L208"
+    "translation": "酒保",
+    "stage": 3,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/7%20-%20Work.rpy#L205"
   },
   {
-    "key": "game/7 - Work.rpy_L262_0",
+    "key": "game/7 - Work.rpy_L214_0",
+    "original": "[mel]",
+    "translation": "[mel]",
+    "stage": 3,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/7%20-%20Work.rpy#L214"
+  },
+  {
+    "key": "game/7 - Work.rpy_L214_1",
+    "original": "[sky]",
+    "translation": "[sky]",
+    "stage": 3,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/7%20-%20Work.rpy#L214"
+  },
+  {
+    "key": "game/7 - Work.rpy_L214_2",
+    "original": "Random",
+    "translation": "随机",
+    "stage": 3,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/7%20-%20Work.rpy#L214"
+  },
+  {
+    "key": "game/7 - Work.rpy_L321_0",
     "original": "[topic1]",
-    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/7%20-%20Work.rpy#L262"
+    "translation": "[topic1]",
+    "stage": 3,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/7%20-%20Work.rpy#L321"
   },
   {
-    "key": "game/7 - Work.rpy_L262_1",
+    "key": "game/7 - Work.rpy_L321_1",
     "original": "[topic2]",
-    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/7%20-%20Work.rpy#L262"
+    "translation": "[topic2]",
+    "stage": 3,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/7%20-%20Work.rpy#L321"
   },
   {
-    "key": "game/7 - Work.rpy_L262_2",
+    "key": "game/7 - Work.rpy_L321_2",
     "original": "[topic3]",
-    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/7%20-%20Work.rpy#L262"
+    "translation": "[topic3]",
+    "stage": 3,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/7%20-%20Work.rpy#L321"
   },
   {
-    "key": "game/7 - Work.rpy_L262_3",
+    "key": "game/7 - Work.rpy_L321_3",
     "original": "[topic4]",
-    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/7%20-%20Work.rpy#L262"
+    "translation": "[topic4]",
+    "stage": 3,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/7%20-%20Work.rpy#L321"
   },
   {
-    "key": "game/7 - Work.rpy_L288_0",
+    "key": "game/7 - Work.rpy_L347_0",
     "original": "[sexposition1]",
-    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/7%20-%20Work.rpy#L288"
+    "translation": "[sexposition1]",
+    "stage": 3,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/7%20-%20Work.rpy#L347"
   },
   {
-    "key": "game/7 - Work.rpy_L288_1",
+    "key": "game/7 - Work.rpy_L347_1",
     "original": "[sexposition2]",
-    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/7%20-%20Work.rpy#L288"
+    "translation": "[sexposition2]",
+    "stage": 3,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/7%20-%20Work.rpy#L347"
   },
   {
-    "key": "game/7 - Work.rpy_L288_2",
+    "key": "game/7 - Work.rpy_L347_2",
     "original": "[sexposition3]",
-    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/7%20-%20Work.rpy#L288"
+    "translation": "[sexposition3]",
+    "stage": 3,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/7%20-%20Work.rpy#L347"
   },
   {
-    "key": "game/7 - Work.rpy_L288_3",
+    "key": "game/7 - Work.rpy_L347_3",
     "original": "[sexposition4]",
-    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/7%20-%20Work.rpy#L288"
+    "translation": "[sexposition4]",
+    "stage": 3,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/7%20-%20Work.rpy#L347"
   },
   {
-    "key": "game/7 - Work.rpy_L401_0",
+    "key": "game/7 - Work.rpy_L499_0",
     "original": "Money: $[money] \\nBase Satisfaction: [basesatis] - Max Satisfaction: [maxsatis] - Bonus Tips: $[tipsbonusflat]",
-    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/7%20-%20Work.rpy#L401"
+    "translation": "金钱： $[money]\\n基础满意度：[basesatis] - 最大满意度：[maxsatis] - 额外小费：$[tipsbonusflat]",
+    "stage": 3,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/7%20-%20Work.rpy#L499"
   },
   {
-    "key": "game/7 - Work.rpy_L401_1",
+    "key": "game/7 - Work.rpy_L499_1",
     "original": "Ice Machine for Drinks ($40): {i}+20 Starting and Max Satisfaction",
-    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/7%20-%20Work.rpy#L401"
+    "translation": "饮料制冰机($40)：{i}+20起始和最高满意度",
+    "stage": 3,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/7%20-%20Work.rpy#L499"
   },
   {
-    "key": "game/7 - Work.rpy_L401_2",
+    "key": "game/7 - Work.rpy_L499_2",
     "original": "Fancy Cologne ($75): {i}+$12 Tips",
-    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/7%20-%20Work.rpy#L401"
+    "translation": "花式古龙水（$75）：{i} +$12 小费",
+    "stage": 3,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/7%20-%20Work.rpy#L499"
   },
   {
-    "key": "game/7 - Work.rpy_L401_3",
+    "key": "game/7 - Work.rpy_L499_3",
     "original": "Hosting Classes ($100): {i}+1 Choice of Conversation Topics",
-    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/7%20-%20Work.rpy#L401"
+    "translation": "招待课程($100)：{i}对话主题选项+1",
+    "stage": 3,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/7%20-%20Work.rpy#L499"
   },
   {
-    "key": "game/7 - Work.rpy_L401_4",
+    "key": "game/7 - Work.rpy_L499_4",
     "original": "Stronger Booze ($100): {i}+1 Choice of Sex Acts",
-    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/7%20-%20Work.rpy#L401"
+    "translation": "烈酒($100)：{i}性行为选项+1",
+    "stage": 3,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/7%20-%20Work.rpy#L499"
   },
   {
-    "key": "game/7 - Work.rpy_L401_5",
+    "key": "game/7 - Work.rpy_L499_5",
     "original": "Table Service ($125): {i}+30 Starting Satisfaction",
-    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/7%20-%20Work.rpy#L401"
+    "translation": "餐桌服务($125)：{i}+30起始满意度",
+    "stage": 3,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/7%20-%20Work.rpy#L499"
   },
   {
-    "key": "game/7 - Work.rpy_L401_6",
+    "key": "game/7 - Work.rpy_L499_6",
     "original": "Live Entertainment ($150): {i}+30 Max Satisfaction",
-    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/7%20-%20Work.rpy#L401"
+    "translation": "现场演出($150)：{i}+30最大满意度",
+    "stage": 3,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/7%20-%20Work.rpy#L499"
   },
   {
-    "key": "game/7 - Work.rpy_L401_7",
+    "key": "game/7 - Work.rpy_L499_7",
+    "original": "Premium Decor ($200): {i}Rank Increases 20% Faster",
+    "translation": "高级装饰  ($200): {i}等级提升速度提升20%",
+    "stage": 3,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/7%20-%20Work.rpy#L499"
+  },
+  {
+    "key": "game/7 - Work.rpy_L499_8",
+    "original": "Host with the Most ($250): {i}Working no longer takes up the entire night",
+    "translation": "最棒的男招待  ($250): {i}工作不再占据整夜",
+    "stage": 3,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/7%20-%20Work.rpy#L499"
+  },
+  {
+    "key": "game/7 - Work.rpy_L499_9",
+    "original": "Loyalty Program ($300): {i}Allows you to select a customer",
+    "translation": "忠诚计划  ($300): {i}允许您选择一位客户",
+    "stage": 3,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/7%20-%20Work.rpy#L499"
+  },
+  {
+    "key": "game/7 - Work.rpy_L499_10",
     "original": "More Upgrades Available at Rank [gen1]",
-    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/7%20-%20Work.rpy#L401"
+    "translation": "达到等级[gen1]可解锁更多升级",
+    "stage": 3,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/7%20-%20Work.rpy#L499"
   },
   {
-    "key": "game/7 - Work.rpy_L445_0",
+    "key": "game/7 - Work.rpy_L554_0",
     "original": "Ice Machine for Drinks: {i}+20 Base and Max Satisfaction",
-    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/7%20-%20Work.rpy#L445"
+    "translation": "饮料制冰机：{i}+20起始和最高满意度",
+    "stage": 3,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/7%20-%20Work.rpy#L554"
   },
   {
-    "key": "game/7 - Work.rpy_L445_1",
+    "key": "game/7 - Work.rpy_L554_1",
     "original": "Fancy Cologne: {i}+$12 Tips",
-    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/7%20-%20Work.rpy#L445"
+    "translation": "精致古龙水：{i}+ $12小费",
+    "stage": 3,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/7%20-%20Work.rpy#L554"
   },
   {
-    "key": "game/7 - Work.rpy_L445_2",
+    "key": "game/7 - Work.rpy_L554_2",
     "original": "Hosting Classes: {i}+1 Choice of Conversation Topics",
-    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/7%20-%20Work.rpy#L445"
+    "translation": "招待课程：{i}对话主题选项+1",
+    "stage": 3,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/7%20-%20Work.rpy#L554"
   },
   {
-    "key": "game/7 - Work.rpy_L445_3",
+    "key": "game/7 - Work.rpy_L554_3",
     "original": "Stronger Booze: {i}+1 Choice of Sex Acts",
-    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/7%20-%20Work.rpy#L445"
+    "translation": "烈酒：{i}性行为选项+1",
+    "stage": 3,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/7%20-%20Work.rpy#L554"
   },
   {
-    "key": "game/7 - Work.rpy_L445_4",
+    "key": "game/7 - Work.rpy_L554_4",
     "original": "Table Service: {i}+30 Starting Satisfaction",
-    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/7%20-%20Work.rpy#L445"
+    "translation": "餐桌服务：{i}+30起始满意度",
+    "stage": 3,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/7%20-%20Work.rpy#L554"
   },
   {
-    "key": "game/7 - Work.rpy_L445_5",
+    "key": "game/7 - Work.rpy_L554_5",
     "original": "Live Entertainment: {i}+30 Max Satisfaction",
-    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/7%20-%20Work.rpy#L445"
+    "translation": "现场演出：{i}+30最大满意度",
+    "stage": 3,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/7%20-%20Work.rpy#L554"
   },
   {
-    "key": "game/7 - Work.rpy_L466_0",
-    "original": "After you've hosted a girl, you can purchase information here on their preferences to improve your services the next time they visit.",
-    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/7%20-%20Work.rpy#L466"
+    "key": "game/7 - Work.rpy_L554_6",
+    "original": "Premium Decor: {i}Rank Increases 20% Faster",
+    "translation": "高级装饰: {i}等级提升速度加快20%",
+    "stage": 3,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/7%20-%20Work.rpy#L554"
   },
   {
-    "key": "game/7 - Work.rpy_L466_1",
-    "original": "Information on [mox] ($40)",
-    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/7%20-%20Work.rpy#L466"
+    "key": "game/7 - Work.rpy_L554_7",
+    "original": "Host with the Most: {i}Working no longer takes up the entire night",
+    "translation": "最棒的男招待: {i}工作不再占据整夜",
+    "stage": 3,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/7%20-%20Work.rpy#L554"
   },
   {
-    "key": "game/7 - Work.rpy_L466_2",
-    "original": "Information on [mox]",
-    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/7%20-%20Work.rpy#L466"
-  },
-  {
-    "key": "game/7 - Work.rpy_L466_3",
-    "original": "Information on [pen] ($60)",
-    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/7%20-%20Work.rpy#L466"
-  },
-  {
-    "key": "game/7 - Work.rpy_L466_4",
-    "original": "Information on [pen]",
-    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/7%20-%20Work.rpy#L466"
-  },
-  {
-    "key": "game/7 - Work.rpy_L466_5",
-    "original": "Information on [hon] ($80)",
-    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/7%20-%20Work.rpy#L466"
-  },
-  {
-    "key": "game/7 - Work.rpy_L466_6",
-    "original": "Information on [hon]",
-    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/7%20-%20Work.rpy#L466"
-  },
-  {
-    "key": "game/7 - Work.rpy_L466_7",
-    "original": "Information on [rub] ($80)",
-    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/7%20-%20Work.rpy#L466"
-  },
-  {
-    "key": "game/7 - Work.rpy_L466_8",
-    "original": "Information on [rub]",
-    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/7%20-%20Work.rpy#L466"
-  },
-  {
-    "key": "game/7 - Work.rpy_L466_9",
-    "original": "Information on [lil] ($100)",
-    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/7%20-%20Work.rpy#L466"
-  },
-  {
-    "key": "game/7 - Work.rpy_L466_10",
-    "original": "Information on [lil]",
-    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/7%20-%20Work.rpy#L466"
-  },
-  {
-    "key": "game/7 - Work.rpy_L560_0",
-    "original": "What is [mox]'s signature catchphrase?",
-    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/7%20-%20Work.rpy#L560"
-  },
-  {
-    "key": "game/7 - Work.rpy_L560_1",
-    "original": "All Powerful and Great!",
-    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/7%20-%20Work.rpy#L560"
-  },
-  {
-    "key": "game/7 - Work.rpy_L560_2",
-    "original": "The Great and Powerful [mox]!",
-    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/7%20-%20Work.rpy#L560"
-  },
-  {
-    "key": "game/7 - Work.rpy_L560_3",
-    "original": "Magic is Mine to Command!",
-    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/7%20-%20Work.rpy#L560"
-  },
-  {
-    "key": "game/7 - Work.rpy_L560_4",
-    "original": "I'm gonna Mox!",
-    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/7%20-%20Work.rpy#L560"
-  },
-  {
-    "key": "game/7 - Work.rpy_L571_0",
-    "original": "What was the first sexual act you could engage in with this [mox]?",
-    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/7%20-%20Work.rpy#L571"
-  },
-  {
-    "key": "game/7 - Work.rpy_L571_1",
-    "original": "Sixty-Nine",
-    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/7%20-%20Work.rpy#L571"
-  },
-  {
-    "key": "game/7 - Work.rpy_L571_2",
-    "original": "Missionary",
-    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/7%20-%20Work.rpy#L571"
+    "key": "game/7 - Work.rpy_L554_8",
+    "original": "Loyalty Program: {i}Allows you to select a customer",
+    "translation": "忠诚计划  : {i}允许您选择一位客户",
+    "stage": 3,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/7%20-%20Work.rpy#L554"
   },
   {
     "key": "game/7 - Work.rpy_L582_0",
-    "original": "What food did you eat together during your first day out?",
+    "original": "Money: $[money]\\nAfter you've hosted a girl, you can purchase information here on their preferences to improve your services the next time they visit.",
+    "translation": "钱：$[money]\\n接待完女宾后，可在此购买她们的偏好信息，以便下次她们光临时改进服务。",
+    "stage": 3,
     "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/7%20-%20Work.rpy#L582"
   },
   {
     "key": "game/7 - Work.rpy_L582_1",
-    "original": "Pasta",
+    "original": "Info on [mox] ($25)",
+    "translation": "[mox]的情报 ($25)",
+    "stage": 3,
     "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/7%20-%20Work.rpy#L582"
   },
   {
     "key": "game/7 - Work.rpy_L582_2",
-    "original": "Ice Cream",
+    "original": "Information on [mox]",
+    "translation": "[mox]的情报",
+    "stage": 3,
     "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/7%20-%20Work.rpy#L582"
   },
   {
     "key": "game/7 - Work.rpy_L582_3",
-    "original": "Pizza",
+    "original": "Info on [pen] ($50)",
+    "translation": "[pen]的情报（50块钱）",
+    "stage": 3,
     "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/7%20-%20Work.rpy#L582"
   },
   {
     "key": "game/7 - Work.rpy_L582_4",
-    "original": "Hay Burgers",
+    "original": "Info on [pen]",
+    "translation": "[pen]的情报",
+    "stage": 3,
     "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/7%20-%20Work.rpy#L582"
   },
   {
-    "key": "game/7 - Work.rpy_L593_0",
+    "key": "game/7 - Work.rpy_L582_5",
+    "original": "Info on [hon] ($50)",
+    "translation": "[hon]的情报 ($50)",
+    "stage": 3,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/7%20-%20Work.rpy#L582"
+  },
+  {
+    "key": "game/7 - Work.rpy_L582_6",
+    "original": "Info on [hon]",
+    "translation": "[hon]的情报",
+    "stage": 3,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/7%20-%20Work.rpy#L582"
+  },
+  {
+    "key": "game/7 - Work.rpy_L582_7",
+    "original": "Info on [rub] ($50)",
+    "translation": "[rub]的情报 ($50)",
+    "stage": 3,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/7%20-%20Work.rpy#L582"
+  },
+  {
+    "key": "game/7 - Work.rpy_L582_8",
+    "original": "Info on [rub]",
+    "translation": "[rub]的情报",
+    "stage": 3,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/7%20-%20Work.rpy#L582"
+  },
+  {
+    "key": "game/7 - Work.rpy_L582_9",
+    "original": "Info on [bla] ($50)",
+    "translation": "[bla]的情报 ($50)",
+    "stage": 3,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/7%20-%20Work.rpy#L582"
+  },
+  {
+    "key": "game/7 - Work.rpy_L582_10",
+    "original": "Info on [bla]",
+    "translation": "[bla]的情报",
+    "stage": 3,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/7%20-%20Work.rpy#L582"
+  },
+  {
+    "key": "game/7 - Work.rpy_L582_11",
+    "original": "Info on [sky] ($50)",
+    "translation": "[sky]的情报 ($50)",
+    "stage": 3,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/7%20-%20Work.rpy#L582"
+  },
+  {
+    "key": "game/7 - Work.rpy_L582_12",
+    "original": "Info on [sky]",
+    "translation": "[sky]的情报",
+    "stage": 3,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/7%20-%20Work.rpy#L582"
+  },
+  {
+    "key": "game/7 - Work.rpy_L582_13",
+    "original": "Info on [rik] ($50)",
+    "translation": "[rik]的情报 ($50)",
+    "stage": 3,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/7%20-%20Work.rpy#L582"
+  },
+  {
+    "key": "game/7 - Work.rpy_L582_14",
+    "original": "Info on [rik]",
+    "translation": "[rik]的情报",
+    "stage": 3,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/7%20-%20Work.rpy#L582"
+  },
+  {
+    "key": "game/7 - Work.rpy_L582_15",
+    "original": "Info on [mel] ($50)",
+    "translation": "[mel]的情报($50)",
+    "stage": 3,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/7%20-%20Work.rpy#L582"
+  },
+  {
+    "key": "game/7 - Work.rpy_L582_16",
+    "original": "Info on [mel]",
+    "translation": "[mel]的情报",
+    "stage": 3,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/7%20-%20Work.rpy#L582"
+  },
+  {
+    "key": "game/7 - Work.rpy_L582_17",
+    "original": "Info on [but] ($50)",
+    "translation": "[but]的情报($50)",
+    "stage": 3,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/7%20-%20Work.rpy#L582"
+  },
+  {
+    "key": "game/7 - Work.rpy_L582_18",
+    "original": "Info on [but]",
+    "translation": "[but]的情报",
+    "stage": 3,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/7%20-%20Work.rpy#L582"
+  },
+  {
+    "key": "game/7 - Work.rpy_L582_19",
+    "original": "Information on [lil] ($50)",
+    "translation": "[lil]的情报($50)",
+    "stage": 3,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/7%20-%20Work.rpy#L582"
+  },
+  {
+    "key": "game/7 - Work.rpy_L582_20",
+    "original": "Information on [lil]",
+    "translation": "[lil]的情报",
+    "stage": 3,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/7%20-%20Work.rpy#L582"
+  },
+  {
+    "key": "game/7 - Work.rpy_L738_0",
+    "original": "What is [mox]'s signature catchphrase?",
+    "translation": "[mox]的口头禅是什么?",
+    "stage": 3,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/7%20-%20Work.rpy#L738"
+  },
+  {
+    "key": "game/7 - Work.rpy_L738_1",
+    "original": "All Powerful and Great!",
+    "translation": "伟大与全能!",
+    "stage": 3,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/7%20-%20Work.rpy#L738"
+  },
+  {
+    "key": "game/7 - Work.rpy_L738_2",
+    "original": "The Great and Powerful [mox]!",
+    "translation": "伟大又全能的[mox]！",
+    "stage": 3,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/7%20-%20Work.rpy#L738"
+  },
+  {
+    "key": "game/7 - Work.rpy_L738_3",
+    "original": "Magic is Mine to Command!",
+    "translation": "魔法魔法。随我心灵，快快显灵！",
+    "stage": 3,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/7%20-%20Work.rpy#L738"
+  },
+  {
+    "key": "game/7 - Work.rpy_L738_4",
+    "original": "I'm gonna Mox!",
+    "translation": "焚我残躯，熊熊烈火!",
+    "stage": 3,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/7%20-%20Work.rpy#L738"
+  },
+  {
+    "key": "game/7 - Work.rpy_L749_0",
+    "original": "What was the first sexual act you could engage in with this [mox]?",
+    "translation": "你和[mox]享受的第一个体位是什么？",
+    "stage": 3,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/7%20-%20Work.rpy#L749"
+  },
+  {
+    "key": "game/7 - Work.rpy_L749_1",
+    "original": "Sixty-Nine",
+    "translation": "69",
+    "stage": 3,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/7%20-%20Work.rpy#L749"
+  },
+  {
+    "key": "game/7 - Work.rpy_L749_2",
+    "original": "Missionary",
+    "translation": "男上位",
+    "stage": 3,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/7%20-%20Work.rpy#L749"
+  },
+  {
+    "key": "game/7 - Work.rpy_L760_0",
+    "original": "What food did you eat together during your first day out?",
+    "translation": "你们外出的第一天一起吃了什么？",
+    "stage": 3,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/7%20-%20Work.rpy#L760"
+  },
+  {
+    "key": "game/7 - Work.rpy_L760_1",
+    "original": "Pasta",
+    "translation": "意面",
+    "stage": 3,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/7%20-%20Work.rpy#L760"
+  },
+  {
+    "key": "game/7 - Work.rpy_L760_2",
+    "original": "Ice Cream",
+    "translation": "冰淇淋",
+    "stage": 3,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/7%20-%20Work.rpy#L760"
+  },
+  {
+    "key": "game/7 - Work.rpy_L760_3",
+    "original": "Pizza",
+    "translation": "披萨",
+    "stage": 3,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/7%20-%20Work.rpy#L760"
+  },
+  {
+    "key": "game/7 - Work.rpy_L760_4",
+    "original": "Hay Burgers",
+    "translation": "汉堡",
+    "stage": 3,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/7%20-%20Work.rpy#L760"
+  },
+  {
+    "key": "game/7 - Work.rpy_L771_0",
     "original": "Who is the current owner of [mox]'s wagon?",
-    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/7%20-%20Work.rpy#L593"
+    "translation": "[mox]的篷车现在的主人是谁?",
+    "stage": 3,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/7%20-%20Work.rpy#L771"
   },
   {
-    "key": "game/7 - Work.rpy_L593_1",
-    "original": "[pen]",
-    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/7%20-%20Work.rpy#L593"
-  },
-  {
-    "key": "game/7 - Work.rpy_L593_2",
-    "original": "[mox]",
-    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/7%20-%20Work.rpy#L593"
-  },
-  {
-    "key": "game/7 - Work.rpy_L593_3",
+    "key": "game/7 - Work.rpy_L771_1",
     "original": "[chl]",
-    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/7%20-%20Work.rpy#L593"
+    "translation": "[chl]",
+    "stage": 3,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/7%20-%20Work.rpy#L771"
   },
   {
-    "key": "game/7 - Work.rpy_L604_0",
+    "key": "game/7 - Work.rpy_L782_0",
     "original": "Other than her pussy and clit, what is [mox]'s most sensitive body part?",
-    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/7%20-%20Work.rpy#L604"
+    "translation": "除了她的小穴和阴蒂，[mox]最敏感的身体部位是什么？",
+    "stage": 3,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/7%20-%20Work.rpy#L782"
   },
   {
-    "key": "game/7 - Work.rpy_L604_1",
+    "key": "game/7 - Work.rpy_L782_1",
     "original": "Breasts",
-    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/7%20-%20Work.rpy#L604"
+    "translation": "奶子",
+    "stage": 3,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/7%20-%20Work.rpy#L782"
   },
   {
-    "key": "game/7 - Work.rpy_L604_2",
+    "key": "game/7 - Work.rpy_L782_2",
     "original": "Nipples",
-    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/7%20-%20Work.rpy#L604"
+    "translation": "乳头",
+    "stage": 3,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/7%20-%20Work.rpy#L782"
   },
   {
-    "key": "game/7 - Work.rpy_L604_3",
+    "key": "game/7 - Work.rpy_L782_3",
     "original": "Tongue",
-    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/7%20-%20Work.rpy#L604"
+    "translation": "舌头",
+    "stage": 3,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/7%20-%20Work.rpy#L782"
   },
   {
-    "key": "game/7 - Work.rpy_L604_4",
+    "key": "game/7 - Work.rpy_L782_4",
     "original": "Ass",
-    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/7%20-%20Work.rpy#L604"
+    "translation": "屁股",
+    "stage": 3,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/7%20-%20Work.rpy#L782"
   },
   {
-    "key": "game/7 - Work.rpy_L615_0",
+    "key": "game/7 - Work.rpy_L793_0",
     "original": "How often does [mox] masturbate?",
-    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/7%20-%20Work.rpy#L615"
+    "translation": "[mox]自慰的频率是？",
+    "stage": 3,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/7%20-%20Work.rpy#L793"
   },
   {
-    "key": "game/7 - Work.rpy_L615_1",
+    "key": "game/7 - Work.rpy_L793_1",
     "original": "Once a Week",
-    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/7%20-%20Work.rpy#L615"
+    "translation": "每周一次",
+    "stage": 3,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/7%20-%20Work.rpy#L793"
   },
   {
-    "key": "game/7 - Work.rpy_L615_2",
+    "key": "game/7 - Work.rpy_L793_2",
     "original": "Once a Day",
-    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/7%20-%20Work.rpy#L615"
+    "translation": "每天一次",
+    "stage": 3,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/7%20-%20Work.rpy#L793"
   },
   {
-    "key": "game/7 - Work.rpy_L615_3",
+    "key": "game/7 - Work.rpy_L793_3",
     "original": "3 Times a Day",
-    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/7%20-%20Work.rpy#L615"
+    "translation": "每天三次",
+    "stage": 3,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/7%20-%20Work.rpy#L793"
   },
   {
-    "key": "game/7 - Work.rpy_L615_4",
+    "key": "game/7 - Work.rpy_L793_4",
     "original": "Never when I'm around 8)",
-    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/7%20-%20Work.rpy#L615"
+    "translation": "我在他就不会自慰=)",
+    "stage": 3,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/7%20-%20Work.rpy#L793"
   },
   {
-    "key": "game/7 - Work.rpy_L626_0",
+    "key": "game/7 - Work.rpy_L804_0",
     "original": "Out of the following, which would turn [mox] on the most?",
-    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/7%20-%20Work.rpy#L626"
+    "translation": "在下列选项中，哪一个最能使[mox]兴奋？",
+    "stage": 3,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/7%20-%20Work.rpy#L804"
   },
   {
-    "key": "game/7 - Work.rpy_L626_1",
+    "key": "game/7 - Work.rpy_L804_1",
     "original": "Vanilla Loving Sex",
-    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/7%20-%20Work.rpy#L626"
+    "translation": "甜蜜的性爱",
+    "stage": 3,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/7%20-%20Work.rpy#L804"
   },
   {
-    "key": "game/7 - Work.rpy_L626_2",
+    "key": "game/7 - Work.rpy_L804_2",
     "original": "Rough Fucking",
-    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/7%20-%20Work.rpy#L626"
+    "translation": "粗暴的性交",
+    "stage": 3,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/7%20-%20Work.rpy#L804"
   },
   {
-    "key": "game/7 - Work.rpy_L626_3",
+    "key": "game/7 - Work.rpy_L804_3",
     "original": "Magical Experimentation Sex",
-    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/7%20-%20Work.rpy#L626"
+    "translation": "魔法性爱实验",
+    "stage": 3,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/7%20-%20Work.rpy#L804"
   },
   {
-    "key": "game/7 - Work.rpy_L626_4",
+    "key": "game/7 - Work.rpy_L804_4",
     "original": "Anal Sex",
-    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/7%20-%20Work.rpy#L626"
+    "translation": "肛交",
+    "stage": 3,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/7%20-%20Work.rpy#L804"
   },
   {
-    "key": "game/7 - Work.rpy_L639_0",
+    "key": "game/7 - Work.rpy_L817_0",
     "original": "What was [pen]'s species in the other universe?",
-    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/7%20-%20Work.rpy#L639"
+    "translation": "[pen]在另一个宇宙中是什么物种?",
+    "stage": 3,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/7%20-%20Work.rpy#L817"
   },
   {
-    "key": "game/7 - Work.rpy_L639_1",
+    "key": "game/7 - Work.rpy_L817_1",
     "original": "Unicorn",
-    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/7%20-%20Work.rpy#L639"
+    "translation": "角马",
+    "stage": 3,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/7%20-%20Work.rpy#L817"
   },
   {
-    "key": "game/7 - Work.rpy_L639_2",
+    "key": "game/7 - Work.rpy_L817_2",
     "original": "Bug",
-    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/7%20-%20Work.rpy#L639"
+    "translation": "虫子",
+    "stage": 3,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/7%20-%20Work.rpy#L817"
   },
   {
-    "key": "game/7 - Work.rpy_L639_3",
+    "key": "game/7 - Work.rpy_L817_3",
     "original": "Morphling",
-    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/7%20-%20Work.rpy#L639"
+    "translation": "幻形灵",
+    "stage": 3,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/7%20-%20Work.rpy#L817"
   },
   {
-    "key": "game/7 - Work.rpy_L639_4",
+    "key": "game/7 - Work.rpy_L817_4",
     "original": "Baneling",
-    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/7%20-%20Work.rpy#L639"
+    "translation": "爆虫",
+    "stage": 3,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/7%20-%20Work.rpy#L817"
   },
   {
-    "key": "game/7 - Work.rpy_L650_0",
+    "key": "game/7 - Work.rpy_L828_0",
     "original": "What was the first sexual act you could engage in with [pen]?",
-    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/7%20-%20Work.rpy#L650"
+    "translation": "你第一次和[pen]进行的性行为是什么?",
+    "stage": 3,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/7%20-%20Work.rpy#L828"
   },
   {
-    "key": "game/7 - Work.rpy_L650_1",
-    "original": "Paizuri",
-    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/7%20-%20Work.rpy#L650"
-  },
-  {
-    "key": "game/7 - Work.rpy_L650_2",
+    "key": "game/7 - Work.rpy_L828_1",
     "original": "Tied-Up",
-    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/7%20-%20Work.rpy#L650"
+    "translation": "绳缚",
+    "stage": 3,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/7%20-%20Work.rpy#L828"
   },
   {
-    "key": "game/7 - Work.rpy_L661_0",
+    "key": "game/7 - Work.rpy_L839_0",
     "original": "What is [pen] studying?",
-    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/7%20-%20Work.rpy#L661"
+    "translation": "[pen]在研究什么？",
+    "stage": 3,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/7%20-%20Work.rpy#L839"
   },
   {
-    "key": "game/7 - Work.rpy_L661_1",
+    "key": "game/7 - Work.rpy_L839_1",
     "original": "Magic",
-    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/7%20-%20Work.rpy#L661"
+    "translation": "魔法",
+    "stage": 3,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/7%20-%20Work.rpy#L839"
   },
   {
-    "key": "game/7 - Work.rpy_L661_2",
+    "key": "game/7 - Work.rpy_L839_2",
     "original": "Infusion",
-    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/7%20-%20Work.rpy#L661"
+    "translation": "药剂",
+    "stage": 3,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/7%20-%20Work.rpy#L839"
   },
   {
-    "key": "game/7 - Work.rpy_L661_3",
+    "key": "game/7 - Work.rpy_L839_3",
     "original": "Enchantments",
-    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/7%20-%20Work.rpy#L661"
+    "translation": "附魔术",
+    "stage": 3,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/7%20-%20Work.rpy#L839"
   },
   {
-    "key": "game/7 - Work.rpy_L661_4",
+    "key": "game/7 - Work.rpy_L839_4",
     "original": "Imbuements",
-    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/7%20-%20Work.rpy#L661"
+    "translation": "魔力灌注",
+    "stage": 3,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/7%20-%20Work.rpy#L839"
   },
   {
-    "key": "game/7 - Work.rpy_L672_0",
+    "key": "game/7 - Work.rpy_L850_0",
     "original": "Which instrument can [pen] play?",
-    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/7%20-%20Work.rpy#L672"
+    "translation": "[pen]会演奏哪一种乐器?",
+    "stage": 3,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/7%20-%20Work.rpy#L850"
   },
   {
-    "key": "game/7 - Work.rpy_L672_1",
+    "key": "game/7 - Work.rpy_L850_1",
     "original": "Drums",
-    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/7%20-%20Work.rpy#L672"
+    "translation": "鼓",
+    "stage": 3,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/7%20-%20Work.rpy#L850"
   },
   {
-    "key": "game/7 - Work.rpy_L672_2",
+    "key": "game/7 - Work.rpy_L850_2",
     "original": "Harmonica",
-    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/7%20-%20Work.rpy#L672"
+    "translation": "口琴",
+    "stage": 3,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/7%20-%20Work.rpy#L850"
   },
   {
-    "key": "game/7 - Work.rpy_L672_3",
+    "key": "game/7 - Work.rpy_L850_3",
     "original": "Bass",
-    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/7%20-%20Work.rpy#L672"
+    "translation": "贝斯",
+    "stage": 3,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/7%20-%20Work.rpy#L850"
   },
   {
-    "key": "game/7 - Work.rpy_L672_4",
+    "key": "game/7 - Work.rpy_L850_4",
     "original": "None",
-    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/7%20-%20Work.rpy#L672"
+    "translation": "无",
+    "stage": 3,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/7%20-%20Work.rpy#L850"
   },
   {
-    "key": "game/7 - Work.rpy_L683_0",
+    "key": "game/7 - Work.rpy_L861_0",
     "original": "What of the following would turn [pen] on the most?",
-    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/7%20-%20Work.rpy#L683"
+    "translation": "下列哪一项最能引起[pen]的兴趣?",
+    "stage": 3,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/7%20-%20Work.rpy#L861"
   },
   {
-    "key": "game/7 - Work.rpy_L683_1",
+    "key": "game/7 - Work.rpy_L861_1",
     "original": "Taking a Bath Together",
-    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/7%20-%20Work.rpy#L683"
+    "translation": "一起洗澡",
+    "stage": 3,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/7%20-%20Work.rpy#L861"
   },
   {
-    "key": "game/7 - Work.rpy_L683_2",
+    "key": "game/7 - Work.rpy_L861_2",
     "original": "Being Choked",
-    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/7%20-%20Work.rpy#L683"
+    "translation": "被掐住",
+    "stage": 3,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/7%20-%20Work.rpy#L861"
   },
   {
-    "key": "game/7 - Work.rpy_L683_3",
+    "key": "game/7 - Work.rpy_L861_3",
     "original": "Kissing",
-    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/7%20-%20Work.rpy#L683"
+    "translation": "亲吻",
+    "stage": 3,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/7%20-%20Work.rpy#L861"
   },
   {
-    "key": "game/7 - Work.rpy_L683_4",
+    "key": "game/7 - Work.rpy_L861_4",
     "original": "Romantic Gestures",
-    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/7%20-%20Work.rpy#L683"
+    "translation": "浪漫的姿势",
+    "stage": 3,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/7%20-%20Work.rpy#L861"
   },
   {
-    "key": "game/7 - Work.rpy_L694_0",
+    "key": "game/7 - Work.rpy_L872_0",
     "original": "How often does [pen] masturbate?",
-    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/7%20-%20Work.rpy#L694"
+    "translation": "[pen]多久自慰一次?",
+    "stage": 3,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/7%20-%20Work.rpy#L872"
   },
   {
-    "key": "game/7 - Work.rpy_L694_1",
+    "key": "game/7 - Work.rpy_L872_1",
     "original": "Twice a Day",
-    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/7%20-%20Work.rpy#L694"
+    "translation": "一天两次",
+    "stage": 3,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/7%20-%20Work.rpy#L872"
   },
   {
-    "key": "game/7 - Work.rpy_L694_2",
+    "key": "game/7 - Work.rpy_L872_2",
     "original": "Thrice a Day",
-    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/7%20-%20Work.rpy#L694"
+    "translation": "一天三次",
+    "stage": 3,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/7%20-%20Work.rpy#L872"
   },
   {
-    "key": "game/7 - Work.rpy_L694_3",
+    "key": "game/7 - Work.rpy_L872_3",
     "original": "Quice a Day?",
-    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/7%20-%20Work.rpy#L694"
+    "translation": "一天四次？",
+    "stage": 3,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/7%20-%20Work.rpy#L872"
   },
   {
-    "key": "game/7 - Work.rpy_L705_0",
+    "key": "game/7 - Work.rpy_L883_0",
     "original": "What is [pen]'s favourite genre of music?",
-    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/7%20-%20Work.rpy#L705"
+    "translation": "[pen]最喜欢的音乐类型是什么？",
+    "stage": 3,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/7%20-%20Work.rpy#L883"
   },
   {
-    "key": "game/7 - Work.rpy_L705_1",
+    "key": "game/7 - Work.rpy_L883_1",
     "original": "Metal",
-    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/7%20-%20Work.rpy#L705"
+    "translation": "重金属",
+    "stage": 3,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/7%20-%20Work.rpy#L883"
   },
   {
-    "key": "game/7 - Work.rpy_L705_2",
+    "key": "game/7 - Work.rpy_L883_2",
     "original": "Pop",
-    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/7%20-%20Work.rpy#L705"
+    "translation": "流行音乐",
+    "stage": 3,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/7%20-%20Work.rpy#L883"
   },
   {
-    "key": "game/7 - Work.rpy_L705_3",
+    "key": "game/7 - Work.rpy_L883_3",
     "original": "EDM",
-    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/7%20-%20Work.rpy#L705"
+    "translation": "电音",
+    "stage": 3,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/7%20-%20Work.rpy#L883"
   },
   {
-    "key": "game/7 - Work.rpy_L705_4",
+    "key": "game/7 - Work.rpy_L883_4",
     "original": "Indie",
-    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/7%20-%20Work.rpy#L705"
+    "translation": "碎核",
+    "stage": 3,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/7%20-%20Work.rpy#L883"
   },
   {
-    "key": "game/7 - Work.rpy_L718_0",
+    "key": "game/7 - Work.rpy_L896_0",
     "original": "What produce is [hon] most famous for producing?",
-    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/7%20-%20Work.rpy#L718"
+    "translation": "[hon]最出名的产品是什么？",
+    "stage": 3,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/7%20-%20Work.rpy#L896"
   },
   {
-    "key": "game/7 - Work.rpy_L718_1",
+    "key": "game/7 - Work.rpy_L896_1",
     "original": "Wheat",
-    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/7%20-%20Work.rpy#L718"
+    "translation": "小麦",
+    "stage": 3,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/7%20-%20Work.rpy#L896"
   },
   {
-    "key": "game/7 - Work.rpy_L718_2",
+    "key": "game/7 - Work.rpy_L896_2",
     "original": "Ass Kicking",
-    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/7%20-%20Work.rpy#L718"
+    "translation": "踢屁股",
+    "stage": 3,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/7%20-%20Work.rpy#L896"
   },
   {
-    "key": "game/7 - Work.rpy_L718_3",
+    "key": "game/7 - Work.rpy_L896_3",
     "original": "Apples",
-    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/7%20-%20Work.rpy#L718"
+    "translation": "苹果",
+    "stage": 3,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/7%20-%20Work.rpy#L896"
   },
   {
-    "key": "game/7 - Work.rpy_L718_4",
+    "key": "game/7 - Work.rpy_L896_4",
     "original": "Potatoes",
-    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/7%20-%20Work.rpy#L718"
+    "translation": "土豆",
+    "stage": 3,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/7%20-%20Work.rpy#L896"
   },
   {
-    "key": "game/7 - Work.rpy_L729_0",
+    "key": "game/7 - Work.rpy_L907_0",
     "original": "What was the first sexual act you could engage in with [hon]?",
-    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/7%20-%20Work.rpy#L729"
+    "translation": "你第一次和[hon]进行的性行为是什么？",
+    "stage": 3,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/7%20-%20Work.rpy#L907"
   },
   {
-    "key": "game/7 - Work.rpy_L740_0",
+    "key": "game/7 - Work.rpy_L918_0",
     "original": "What Virtue is [hon] within the Virtues of Concord?",
-    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/7%20-%20Work.rpy#L740"
+    "translation": "[hon]是哪个谐律的代表？",
+    "stage": 3,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/7%20-%20Work.rpy#L918"
   },
   {
-    "key": "game/7 - Work.rpy_L740_1",
-    "original": "Compassion",
-    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/7%20-%20Work.rpy#L740"
-  },
-  {
-    "key": "game/7 - Work.rpy_L740_2",
+    "key": "game/7 - Work.rpy_L918_1",
     "original": "Pride",
-    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/7%20-%20Work.rpy#L740"
+    "translation": "自尊",
+    "stage": 3,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/7%20-%20Work.rpy#L918"
   },
   {
-    "key": "game/7 - Work.rpy_L740_3",
-    "original": "Loyalty",
-    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/7%20-%20Work.rpy#L740"
+    "key": "game/7 - Work.rpy_L918_2",
+    "original": "Honesty",
+    "translation": "诚实",
+    "stage": 3,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/7%20-%20Work.rpy#L918"
   },
   {
-    "key": "game/7 - Work.rpy_L740_4",
+    "key": "game/7 - Work.rpy_L918_3",
     "original": "Bravery",
-    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/7%20-%20Work.rpy#L740"
+    "translation": "勇气",
+    "stage": 3,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/7%20-%20Work.rpy#L918"
   },
   {
-    "key": "game/7 - Work.rpy_L751_0",
+    "key": "game/7 - Work.rpy_L929_0",
     "original": "How did [hon] break her hand in your original universe?",
-    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/7%20-%20Work.rpy#L751"
+    "translation": "在你原来的世界里[hon]是怎么弄伤她的脚的？",
+    "stage": 3,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/7%20-%20Work.rpy#L929"
   },
   {
-    "key": "game/7 - Work.rpy_L751_1",
+    "key": "game/7 - Work.rpy_L929_1",
     "original": "Punching a Tree",
-    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/7%20-%20Work.rpy#L751"
+    "translation": "踢一棵树",
+    "stage": 3,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/7%20-%20Work.rpy#L929"
   },
   {
-    "key": "game/7 - Work.rpy_L751_2",
+    "key": "game/7 - Work.rpy_L929_2",
     "original": "Equipment Injury",
-    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/7%20-%20Work.rpy#L751"
+    "translation": "安全事故",
+    "stage": 3,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/7%20-%20Work.rpy#L929"
   },
   {
-    "key": "game/7 - Work.rpy_L751_3",
+    "key": "game/7 - Work.rpy_L929_3",
     "original": "Wolf Attack",
-    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/7%20-%20Work.rpy#L751"
+    "translation": "狼群袭击",
+    "stage": 3,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/7%20-%20Work.rpy#L929"
   },
   {
-    "key": "game/7 - Work.rpy_L751_4",
+    "key": "game/7 - Work.rpy_L929_4",
     "original": "Excessive Masturbation",
-    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/7%20-%20Work.rpy#L751"
+    "translation": "过度手淫",
+    "stage": 3,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/7%20-%20Work.rpy#L929"
   },
   {
-    "key": "game/7 - Work.rpy_L762_0",
+    "key": "game/7 - Work.rpy_L940_0",
     "original": "What of the following would turn [hon] on the most?",
-    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/7%20-%20Work.rpy#L762"
+    "translation": "下列哪一项最能引起[hon]的兴趣？",
+    "stage": 3,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/7%20-%20Work.rpy#L940"
   },
   {
-    "key": "game/7 - Work.rpy_L762_1",
+    "key": "game/7 - Work.rpy_L940_1",
     "original": "Cowgirl Position",
-    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/7%20-%20Work.rpy#L762"
+    "translation": "女上位",
+    "stage": 3,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/7%20-%20Work.rpy#L940"
   },
   {
-    "key": "game/7 - Work.rpy_L762_2",
+    "key": "game/7 - Work.rpy_L940_2",
     "original": "Milking her Tits",
-    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/7%20-%20Work.rpy#L762"
+    "translation": "挤她的奶",
+    "stage": 3,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/7%20-%20Work.rpy#L940"
   },
   {
-    "key": "game/7 - Work.rpy_L762_3",
+    "key": "game/7 - Work.rpy_L940_3",
     "original": "Spanking her Butt",
-    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/7%20-%20Work.rpy#L762"
+    "translation": "打她屁股",
+    "stage": 3,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/7%20-%20Work.rpy#L940"
   },
   {
-    "key": "game/7 - Work.rpy_L762_4",
+    "key": "game/7 - Work.rpy_L940_4",
     "original": "Exhibitionism",
-    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/7%20-%20Work.rpy#L762"
+    "translation": "暴露狂",
+    "stage": 3,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/7%20-%20Work.rpy#L940"
   },
   {
-    "key": "game/7 - Work.rpy_L773_0",
+    "key": "game/7 - Work.rpy_L951_0",
     "original": "What is the name of [hon]'s hat?",
-    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/7%20-%20Work.rpy#L773"
+    "translation": "[hon]的帽子叫什么？",
+    "stage": 3,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/7%20-%20Work.rpy#L951"
   },
   {
-    "key": "game/7 - Work.rpy_L773_1",
+    "key": "game/7 - Work.rpy_L951_1",
     "original": "Talia",
-    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/7%20-%20Work.rpy#L773"
+    "translation": "Talia",
+    "stage": 3,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/7%20-%20Work.rpy#L951"
   },
   {
-    "key": "game/7 - Work.rpy_L773_2",
+    "key": "game/7 - Work.rpy_L951_2",
     "original": "Dalilah",
-    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/7%20-%20Work.rpy#L773"
+    "translation": "Dalilah",
+    "stage": 3,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/7%20-%20Work.rpy#L951"
   },
   {
-    "key": "game/7 - Work.rpy_L773_3",
+    "key": "game/7 - Work.rpy_L951_3",
     "original": "Talluhah",
-    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/7%20-%20Work.rpy#L773"
+    "translation": "Talluhah",
+    "stage": 3,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/7%20-%20Work.rpy#L951"
   },
   {
-    "key": "game/7 - Work.rpy_L773_4",
+    "key": "game/7 - Work.rpy_L951_4",
     "original": "Wut? She named it?",
-    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/7%20-%20Work.rpy#L773"
+    "translation": "什么？她给它起了名字？",
+    "stage": 3,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/7%20-%20Work.rpy#L951"
   },
   {
-    "key": "game/7 - Work.rpy_L784_0",
+    "key": "game/7 - Work.rpy_L962_0",
     "original": "Which of the following is one [hon]'s absolute favourite food?",
-    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/7%20-%20Work.rpy#L784"
+    "translation": "以下哪一种是[hon]最喜欢的食物？",
+    "stage": 3,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/7%20-%20Work.rpy#L962"
   },
   {
-    "key": "game/7 - Work.rpy_L784_1",
+    "key": "game/7 - Work.rpy_L962_1",
     "original": "Oranges",
-    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/7%20-%20Work.rpy#L784"
+    "translation": "橘子",
+    "stage": 3,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/7%20-%20Work.rpy#L962"
   },
   {
-    "key": "game/7 - Work.rpy_L784_2",
+    "key": "game/7 - Work.rpy_L962_2",
     "original": "Caramel Apples",
-    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/7%20-%20Work.rpy#L784"
+    "translation": "焦糖苹果",
+    "stage": 3,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/7%20-%20Work.rpy#L962"
   },
   {
-    "key": "game/7 - Work.rpy_L784_3",
+    "key": "game/7 - Work.rpy_L962_3",
     "original": "Apple Pie",
-    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/7%20-%20Work.rpy#L784"
+    "translation": "苹果派",
+    "stage": 3,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/7%20-%20Work.rpy#L962"
   },
   {
-    "key": "game/7 - Work.rpy_L784_4",
+    "key": "game/7 - Work.rpy_L962_4",
     "original": "Apple Fritters",
-    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/7%20-%20Work.rpy#L784"
+    "translation": "苹果馅饼",
+    "stage": 3,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/7%20-%20Work.rpy#L962"
   },
   {
-    "key": "game/7 - Work.rpy_L797_0",
+    "key": "game/7 - Work.rpy_L975_0",
     "original": "Which of the following is a true fun fact about [rub]?",
-    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/7%20-%20Work.rpy#L797"
+    "translation": "以下哪一项是关于[rub]有趣的的事实？",
+    "stage": 3,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/7%20-%20Work.rpy#L975"
   },
   {
-    "key": "game/7 - Work.rpy_L797_1",
+    "key": "game/7 - Work.rpy_L975_1",
     "original": "Can Perform a Standing Flip",
-    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/7%20-%20Work.rpy#L797"
+    "translation": "能表演倒立",
+    "stage": 3,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/7%20-%20Work.rpy#L975"
   },
   {
-    "key": "game/7 - Work.rpy_L797_2",
+    "key": "game/7 - Work.rpy_L975_2",
     "original": "Once Won a Hotdog Eating Contest",
-    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/7%20-%20Work.rpy#L797"
+    "translation": "曾经赢得过吃热狗比赛",
+    "stage": 3,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/7%20-%20Work.rpy#L975"
   },
   {
-    "key": "game/7 - Work.rpy_L797_3",
+    "key": "game/7 - Work.rpy_L975_3",
     "original": "Has a Glasses Prescription",
-    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/7%20-%20Work.rpy#L797"
+    "translation": "有一副眼镜",
+    "stage": 3,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/7%20-%20Work.rpy#L975"
   },
   {
-    "key": "game/7 - Work.rpy_L797_4",
+    "key": "game/7 - Work.rpy_L975_4",
     "original": "Was Once a Ballerina",
-    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/7%20-%20Work.rpy#L797"
+    "translation": "曾经是芭蕾舞演员",
+    "stage": 3,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/7%20-%20Work.rpy#L975"
   },
   {
-    "key": "game/7 - Work.rpy_L808_0",
+    "key": "game/7 - Work.rpy_L986_0",
     "original": "What was the first sexual act you could engage in with [rub]?",
-    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/7%20-%20Work.rpy#L808"
+    "translation": "你第一次和[rub]进行的性行为是什么?",
+    "stage": 3,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/7%20-%20Work.rpy#L986"
   },
   {
-    "key": "game/7 - Work.rpy_L808_1",
+    "key": "game/7 - Work.rpy_L986_1",
     "original": "Intercural Sex",
-    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/7%20-%20Work.rpy#L808"
+    "translation": "足交",
+    "stage": 3,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/7%20-%20Work.rpy#L986"
   },
   {
-    "key": "game/7 - Work.rpy_L808_2",
+    "key": "game/7 - Work.rpy_L986_2",
     "original": "Oral Sex",
-    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/7%20-%20Work.rpy#L808"
+    "translation": "口交",
+    "stage": 3,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/7%20-%20Work.rpy#L986"
   },
   {
-    "key": "game/7 - Work.rpy_L808_3",
+    "key": "game/7 - Work.rpy_L986_3",
     "original": "Vaginal Sex",
-    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/7%20-%20Work.rpy#L808"
+    "translation": "阴道性爱",
+    "stage": 3,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/7%20-%20Work.rpy#L986"
   },
   {
-    "key": "game/7 - Work.rpy_L819_0",
+    "key": "game/7 - Work.rpy_L997_0",
     "original": "Which animal does [rub] like the most?",
-    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/7%20-%20Work.rpy#L819"
+    "translation": "[rub]最喜欢哪一种动物？",
+    "stage": 3,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/7%20-%20Work.rpy#L997"
   },
   {
-    "key": "game/7 - Work.rpy_L819_1",
+    "key": "game/7 - Work.rpy_L997_1",
     "original": "Snakes",
-    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/7%20-%20Work.rpy#L819"
+    "translation": "蛇",
+    "stage": 3,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/7%20-%20Work.rpy#L997"
   },
   {
-    "key": "game/7 - Work.rpy_L819_2",
+    "key": "game/7 - Work.rpy_L997_2",
     "original": "Pandas",
-    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/7%20-%20Work.rpy#L819"
+    "translation": "熊猫",
+    "stage": 3,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/7%20-%20Work.rpy#L997"
   },
   {
-    "key": "game/7 - Work.rpy_L819_3",
+    "key": "game/7 - Work.rpy_L997_3",
     "original": "Cats",
-    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/7%20-%20Work.rpy#L819"
+    "translation": "猫",
+    "stage": 3,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/7%20-%20Work.rpy#L997"
   },
   {
-    "key": "game/7 - Work.rpy_L819_4",
+    "key": "game/7 - Work.rpy_L997_4",
     "original": "Dogs",
-    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/7%20-%20Work.rpy#L819"
+    "translation": "狗",
+    "stage": 3,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/7%20-%20Work.rpy#L997"
   },
   {
-    "key": "game/7 - Work.rpy_L830_0",
+    "key": "game/7 - Work.rpy_L1008_0",
     "original": "What species does [rub] secretly have a crush on?",
-    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/7%20-%20Work.rpy#L830"
+    "translation": "[rub]暗恋的是什么物种？",
+    "stage": 3,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/7%20-%20Work.rpy#L1008"
   },
   {
-    "key": "game/7 - Work.rpy_L830_1",
+    "key": "game/7 - Work.rpy_L1008_1",
     "original": "Dragons",
-    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/7%20-%20Work.rpy#L830"
+    "translation": "龙",
+    "stage": 3,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/7%20-%20Work.rpy#L1008"
   },
   {
-    "key": "game/7 - Work.rpy_L830_2",
+    "key": "game/7 - Work.rpy_L1008_2",
     "original": "Cat Boys",
-    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/7%20-%20Work.rpy#L830"
+    "translation": "猫男",
+    "stage": 3,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/7%20-%20Work.rpy#L1008"
   },
   {
-    "key": "game/7 - Work.rpy_L830_3",
+    "key": "game/7 - Work.rpy_L1008_3",
     "original": "Wolf Men",
-    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/7%20-%20Work.rpy#L830"
+    "translation": "狼人",
+    "stage": 3,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/7%20-%20Work.rpy#L1008"
   },
   {
-    "key": "game/7 - Work.rpy_L830_4",
+    "key": "game/7 - Work.rpy_L1008_4",
     "original": "Minotaurs",
-    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/7%20-%20Work.rpy#L830"
+    "translation": "牛头人",
+    "stage": 3,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/7%20-%20Work.rpy#L1008"
   },
   {
-    "key": "game/7 - Work.rpy_L841_0",
+    "key": "game/7 - Work.rpy_L1019_0",
     "original": "What of the following would turn [rub] on the most?",
-    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/7%20-%20Work.rpy#L841"
+    "translation": "下列哪一项最能引起[rub]的兴趣？",
+    "stage": 3,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/7%20-%20Work.rpy#L1019"
   },
   {
-    "key": "game/7 - Work.rpy_L841_1",
+    "key": "game/7 - Work.rpy_L1019_1",
     "original": "Outdoor Sex",
-    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/7%20-%20Work.rpy#L841"
+    "translation": "户外性交",
+    "stage": 3,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/7%20-%20Work.rpy#L1019"
   },
   {
-    "key": "game/7 - Work.rpy_L841_2",
+    "key": "game/7 - Work.rpy_L1019_2",
     "original": "Nurse Roleplay",
-    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/7%20-%20Work.rpy#L841"
+    "translation": "护士角色扮演",
+    "stage": 3,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/7%20-%20Work.rpy#L1019"
   },
   {
-    "key": "game/7 - Work.rpy_L841_3",
+    "key": "game/7 - Work.rpy_L1019_3",
     "original": "Receving Pain",
-    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/7%20-%20Work.rpy#L841"
+    "translation": "SM",
+    "stage": 3,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/7%20-%20Work.rpy#L1019"
   },
   {
-    "key": "game/7 - Work.rpy_L852_0",
+    "key": "game/7 - Work.rpy_L1030_0",
     "original": "What is [rub]'s safe word?",
-    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/7%20-%20Work.rpy#L852"
+    "translation": "[rub]的安全词是什么？",
+    "stage": 3,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/7%20-%20Work.rpy#L1030"
   },
   {
-    "key": "game/7 - Work.rpy_L852_1",
+    "key": "game/7 - Work.rpy_L1030_1",
     "original": "Tangerine",
-    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/7%20-%20Work.rpy#L852"
+    "translation": "柑橘",
+    "stage": 3,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/7%20-%20Work.rpy#L1030"
   },
   {
-    "key": "game/7 - Work.rpy_L852_2",
+    "key": "game/7 - Work.rpy_L1030_2",
     "original": "Watermelon",
-    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/7%20-%20Work.rpy#L852"
+    "translation": "西瓜",
+    "stage": 3,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/7%20-%20Work.rpy#L1030"
   },
   {
-    "key": "game/7 - Work.rpy_L852_3",
+    "key": "game/7 - Work.rpy_L1030_3",
     "original": "Opal",
-    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/7%20-%20Work.rpy#L852"
+    "translation": "欧珀",
+    "stage": 3,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/7%20-%20Work.rpy#L1030"
   },
   {
-    "key": "game/7 - Work.rpy_L852_4",
+    "key": "game/7 - Work.rpy_L1030_4",
     "original": "Diamond",
-    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/7%20-%20Work.rpy#L852"
+    "translation": "钻石",
+    "stage": 3,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/7%20-%20Work.rpy#L1030"
   },
   {
-    "key": "game/7 - Work.rpy_L863_0",
+    "key": "game/7 - Work.rpy_L1041_0",
     "original": "[rub] was once abducted by...?",
-    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/7%20-%20Work.rpy#L863"
+    "translation": "[rub]曾经被谁绑架？",
+    "stage": 3,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/7%20-%20Work.rpy#L1041"
   },
   {
-    "key": "game/7 - Work.rpy_L863_1",
+    "key": "game/7 - Work.rpy_L1041_1",
     "original": "It was [but]",
-    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/7%20-%20Work.rpy#L863"
+    "translation": "[but]",
+    "stage": 3,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/7%20-%20Work.rpy#L1041"
   },
   {
-    "key": "game/7 - Work.rpy_L863_2",
+    "key": "game/7 - Work.rpy_L1041_2",
     "original": "Slime Girls",
-    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/7%20-%20Work.rpy#L863"
+    "translation": "史莱姆娘",
+    "stage": 3,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/7%20-%20Work.rpy#L1041"
   },
   {
-    "key": "game/7 - Work.rpy_L863_3",
+    "key": "game/7 - Work.rpy_L1041_3",
     "original": "Mining Minotaurs",
-    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/7%20-%20Work.rpy#L863"
+    "translation": "牛头人矿工",
+    "stage": 3,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/7%20-%20Work.rpy#L1041"
   },
   {
-    "key": "game/7 - Work.rpy_L863_4",
+    "key": "game/7 - Work.rpy_L1041_4",
     "original": "Gemstone Dogs",
-    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/7%20-%20Work.rpy#L863"
+    "translation": "宝石狗",
+    "stage": 3,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/7%20-%20Work.rpy#L1041"
   },
   {
-    "key": "game/7 - Work.rpy_L876_0",
-    "original": "What specific phobia does [lil] have?",
-    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/7%20-%20Work.rpy#L876"
+    "key": "game/7 - Work.rpy_L1054_0",
+    "original": "Which type of music does [bla] like the most?",
+    "translation": "[rub]最喜欢的音乐类型是什么？",
+    "stage": 3,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/7%20-%20Work.rpy#L1054"
   },
   {
-    "key": "game/7 - Work.rpy_L876_1",
-    "original": "Fear of Spiders",
-    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/7%20-%20Work.rpy#L876"
+    "key": "game/7 - Work.rpy_L1054_1",
+    "original": "Rock and/or Roll",
+    "translation": "摇滚乐",
+    "stage": 3,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/7%20-%20Work.rpy#L1054"
   },
   {
-    "key": "game/7 - Work.rpy_L876_2",
-    "original": "Fear of Dogs",
-    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/7%20-%20Work.rpy#L876"
+    "key": "game/7 - Work.rpy_L1054_2",
+    "original": "Electronic/Techno",
+    "translation": "电子音乐",
+    "stage": 3,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/7%20-%20Work.rpy#L1054"
   },
   {
-    "key": "game/7 - Work.rpy_L876_3",
-    "original": "Fear of Snakes",
-    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/7%20-%20Work.rpy#L876"
+    "key": "game/7 - Work.rpy_L1054_3",
+    "original": "Folk",
+    "translation": "民谣",
+    "stage": 3,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/7%20-%20Work.rpy#L1054"
   },
   {
-    "key": "game/7 - Work.rpy_L876_4",
-    "original": "Fear of Bears",
-    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/7%20-%20Work.rpy#L876"
+    "key": "game/7 - Work.rpy_L1065_0",
+    "original": "What was the first sexual act you could engage in with [bla]?",
+    "translation": "你第一次和[bla]进行的性行为是什么?",
+    "stage": 3,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/7%20-%20Work.rpy#L1065"
   },
   {
-    "key": "game/7 - Work.rpy_L887_0",
-    "original": "What was the first sexual act you could engage in with [lil]?",
-    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/7%20-%20Work.rpy#L887"
+    "key": "game/7 - Work.rpy_L1065_1",
+    "original": "Doggy Style",
+    "translation": "后入式",
+    "stage": 3,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/7%20-%20Work.rpy#L1065"
   },
   {
-    "key": "game/7 - Work.rpy_L887_1",
-    "original": "Intense Eye Contact",
-    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/7%20-%20Work.rpy#L887"
+    "key": "game/7 - Work.rpy_L1065_2",
+    "original": "Cunnilingus",
+    "translation": "舔阴性交",
+    "stage": 3,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/7%20-%20Work.rpy#L1065"
   },
   {
-    "key": "game/7 - Work.rpy_L898_0",
-    "original": "Where did [lil] get her bow from?",
-    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/7%20-%20Work.rpy#L898"
+    "key": "game/7 - Work.rpy_L1076_0",
+    "original": "Which of the following would be [bla]'s favourite pet?",
+    "translation": "以下哪一种是[bla]最喜欢的宠物？",
+    "stage": 3,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/7%20-%20Work.rpy#L1076"
   },
   {
-    "key": "game/7 - Work.rpy_L898_1",
-    "original": "Her Mother",
-    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/7%20-%20Work.rpy#L898"
+    "key": "game/7 - Work.rpy_L1076_1",
+    "original": "Dog",
+    "translation": "狗",
+    "stage": 3,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/7%20-%20Work.rpy#L1076"
   },
   {
-    "key": "game/7 - Work.rpy_L898_2",
-    "original": "The Queen",
-    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/7%20-%20Work.rpy#L898"
+    "key": "game/7 - Work.rpy_L1076_2",
+    "original": "Cat",
+    "translation": "猫",
+    "stage": 3,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/7%20-%20Work.rpy#L1076"
   },
   {
-    "key": "game/7 - Work.rpy_L909_0",
-    "original": "What genre of video games is [lil]'s favourite?",
-    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/7%20-%20Work.rpy#L909"
+    "key": "game/7 - Work.rpy_L1076_3",
+    "original": "Alligator",
+    "translation": "鳄鱼",
+    "stage": 3,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/7%20-%20Work.rpy#L1076"
   },
   {
-    "key": "game/7 - Work.rpy_L909_1",
-    "original": "Turn-Based Strategy",
-    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/7%20-%20Work.rpy#L909"
+    "key": "game/7 - Work.rpy_L1076_4",
+    "original": "Shrew",
+    "translation": "鼩鼱",
+    "stage": 3,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/7%20-%20Work.rpy#L1076"
   },
   {
-    "key": "game/7 - Work.rpy_L909_2",
-    "original": "First Person Shooters",
-    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/7%20-%20Work.rpy#L909"
+    "key": "game/7 - Work.rpy_L1087_0",
+    "original": "What does [bla] think the world is?",
+    "translation": "[bla]认为世界是什么？",
+    "stage": 3,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/7%20-%20Work.rpy#L1087"
   },
   {
-    "key": "game/7 - Work.rpy_L909_3",
-    "original": "Multiplayer Battle Arenas",
-    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/7%20-%20Work.rpy#L909"
+    "key": "game/7 - Work.rpy_L1087_1",
+    "original": "A Simulation",
+    "translation": "一场模拟",
+    "stage": 3,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/7%20-%20Work.rpy#L1087"
   },
   {
-    "key": "game/7 - Work.rpy_L909_4",
-    "original": "Rougelikes",
-    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/7%20-%20Work.rpy#L909"
+    "key": "game/7 - Work.rpy_L1087_2",
+    "original": "A Game",
+    "translation": "一场游戏",
+    "stage": 3,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/7%20-%20Work.rpy#L1087"
   },
   {
-    "key": "game/7 - Work.rpy_L920_0",
-    "original": "What of the following would turn [lil] on the most?",
-    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/7%20-%20Work.rpy#L920"
+    "key": "game/7 - Work.rpy_L1087_3",
+    "original": "A Storybook",
+    "translation": "一本故事书",
+    "stage": 3,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/7%20-%20Work.rpy#L1087"
   },
   {
-    "key": "game/7 - Work.rpy_L920_1",
-    "original": "Getting cucked a clone",
-    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/7%20-%20Work.rpy#L920"
+    "key": "game/7 - Work.rpy_L1087_4",
+    "original": "Nothing Special",
+    "translation": "没什么特别的看法",
+    "stage": 3,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/7%20-%20Work.rpy#L1087"
   },
   {
-    "key": "game/7 - Work.rpy_L920_2",
-    "original": "Getting filled with fertile, interspecies cum",
-    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/7%20-%20Work.rpy#L920"
+    "key": "game/7 - Work.rpy_L1098_0",
+    "original": "What of the following would turn [bla] on the most?",
+    "translation": "下列哪一项最能引起[bla]的兴趣？",
+    "stage": 3,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/7%20-%20Work.rpy#L1098"
   },
   {
-    "key": "game/7 - Work.rpy_L920_3",
-    "original": "Experimenting with magic",
-    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/7%20-%20Work.rpy#L920"
+    "key": "game/7 - Work.rpy_L1098_1",
+    "original": "Erotic Massage",
+    "translation": "情色按摩",
+    "stage": 3,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/7%20-%20Work.rpy#L1098"
   },
   {
-    "key": "game/7 - Work.rpy_L920_4",
-    "original": "Secretly getting corrupted",
-    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/7%20-%20Work.rpy#L920"
+    "key": "game/7 - Work.rpy_L1098_2",
+    "original": "Group Sex",
+    "translation": "群交",
+    "stage": 3,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/7%20-%20Work.rpy#L1098"
   },
   {
-    "key": "game/7 - Work.rpy_L931_0",
-    "original": "What colour is [lil]'s dildo?",
-    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/7%20-%20Work.rpy#L931"
+    "key": "game/7 - Work.rpy_L1098_3",
+    "original": "Cuckoldry",
+    "translation": "绿帽",
+    "stage": 3,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/7%20-%20Work.rpy#L1098"
   },
   {
-    "key": "game/7 - Work.rpy_L931_1",
-    "original": "Blue",
-    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/7%20-%20Work.rpy#L931"
+    "key": "game/7 - Work.rpy_L1098_4",
+    "original": "Sex Toys",
+    "translation": "色情玩具",
+    "stage": 3,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/7%20-%20Work.rpy#L1098"
   },
   {
-    "key": "game/7 - Work.rpy_L931_2",
-    "original": "Purple",
-    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/7%20-%20Work.rpy#L931"
+    "key": "game/7 - Work.rpy_L1111_0",
+    "original": "Which one of the following does [sky] do as a hobby?",
+    "translation": "下列哪个是 [sky] 作为爱好所做的事情？",
+    "stage": 3,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/7%20-%20Work.rpy#L1111"
   },
   {
-    "key": "game/7 - Work.rpy_L931_3",
-    "original": "Pink",
-    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/7%20-%20Work.rpy#L931"
+    "key": "game/7 - Work.rpy_L1111_1",
+    "original": "Belly Dancing",
+    "translation": "肚皮舞",
+    "stage": 3,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/7%20-%20Work.rpy#L1111"
   },
   {
-    "key": "game/7 - Work.rpy_L931_4",
+    "key": "game/7 - Work.rpy_L1111_2",
+    "original": "Plays Guitar",
+    "translation": "弹吉他",
+    "stage": 3,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/7%20-%20Work.rpy#L1111"
+  },
+  {
+    "key": "game/7 - Work.rpy_L1111_3",
+    "original": "Skateboarding",
+    "translation": "滑板运动",
+    "stage": 3,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/7%20-%20Work.rpy#L1111"
+  },
+  {
+    "key": "game/7 - Work.rpy_L1111_4",
+    "original": "Card Games",
+    "translation": "卡牌游戏",
+    "stage": 3,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/7%20-%20Work.rpy#L1111"
+  },
+  {
+    "key": "game/7 - Work.rpy_L1122_0",
+    "original": "What was the first sexual act you could engage in with [sky]?",
+    "translation": "你第一次和 [sky] 进行的性行为是什么?",
+    "stage": 3,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/7%20-%20Work.rpy#L1122"
+  },
+  {
+    "key": "game/7 - Work.rpy_L1122_1",
+    "original": "Anal Reverse Cowgirl",
+    "translation": "肛交反向女上位",
+    "stage": 3,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/7%20-%20Work.rpy#L1122"
+  },
+  {
+    "key": "game/7 - Work.rpy_L1122_2",
+    "original": "Spooning",
+    "translation": "相拥入眠",
+    "stage": 3,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/7%20-%20Work.rpy#L1122"
+  },
+  {
+    "key": "game/7 - Work.rpy_L1122_3",
+    "original": "Threesome",
+    "translation": "3P",
+    "stage": 3,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/7%20-%20Work.rpy#L1122"
+  },
+  {
+    "key": "game/7 - Work.rpy_L1133_0",
+    "original": "What animal is [sky] sometimes compared to?",
+    "translation": "[sky] 有时会被比作什么动物？",
+    "stage": 3,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/7%20-%20Work.rpy#L1133"
+  },
+  {
+    "key": "game/7 - Work.rpy_L1133_1",
+    "original": "Sparrow",
+    "translation": "麻雀",
+    "stage": 3,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/7%20-%20Work.rpy#L1133"
+  },
+  {
+    "key": "game/7 - Work.rpy_L1133_2",
+    "original": "Chicken",
+    "translation": "鸡",
+    "stage": 3,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/7%20-%20Work.rpy#L1133"
+  },
+  {
+    "key": "game/7 - Work.rpy_L1133_3",
+    "original": "Slimes",
+    "translation": "史莱姆",
+    "stage": 3,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/7%20-%20Work.rpy#L1133"
+  },
+  {
+    "key": "game/7 - Work.rpy_L1144_0",
+    "original": "What is the relationship between [sky] and [rik]?",
+    "translation": "[sky] 与 [rik] 之间是什么关系？",
+    "stage": 3,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/7%20-%20Work.rpy#L1144"
+  },
+  {
+    "key": "game/7 - Work.rpy_L1144_1",
+    "original": "Fan and Idol",
+    "translation": "粉丝与偶像",
+    "stage": 3,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/7%20-%20Work.rpy#L1144"
+  },
+  {
+    "key": "game/7 - Work.rpy_L1144_2",
+    "original": "Role Model",
+    "translation": "榜样",
+    "stage": 3,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/7%20-%20Work.rpy#L1144"
+  },
+  {
+    "key": "game/7 - Work.rpy_L1144_3",
+    "original": "Sibling",
+    "translation": "兄弟姐妹",
+    "stage": 3,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/7%20-%20Work.rpy#L1144"
+  },
+  {
+    "key": "game/7 - Work.rpy_L1144_4",
+    "original": "Mentor",
+    "translation": "导师",
+    "stage": 3,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/7%20-%20Work.rpy#L1144"
+  },
+  {
+    "key": "game/7 - Work.rpy_L1155_0",
+    "original": "What is a surprising talent that [sky] possesses?",
+    "translation": "[sky] 拥有什么令人惊讶的才能？",
+    "stage": 3,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/7%20-%20Work.rpy#L1155"
+  },
+  {
+    "key": "game/7 - Work.rpy_L1155_1",
+    "original": "Juggling",
+    "translation": "魔术",
+    "stage": 3,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/7%20-%20Work.rpy#L1155"
+  },
+  {
+    "key": "game/7 - Work.rpy_L1155_2",
+    "original": "Singing",
+    "translation": "唱歌",
+    "stage": 3,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/7%20-%20Work.rpy#L1155"
+  },
+  {
+    "key": "game/7 - Work.rpy_L1155_3",
+    "original": "Knitting",
+    "translation": "编织",
+    "stage": 3,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/7%20-%20Work.rpy#L1155"
+  },
+  {
+    "key": "game/7 - Work.rpy_L1155_4",
+    "original": "Deep Throating",
+    "translation": "深喉",
+    "stage": 3,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/7%20-%20Work.rpy#L1155"
+  },
+  {
+    "key": "game/7 - Work.rpy_L1168_0",
+    "original": "Which aspect of Concord does [rik] embody?",
+    "translation": "[rik]代表了谐律的哪一面？",
+    "stage": 3,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/7%20-%20Work.rpy#L1168"
+  },
+  {
+    "key": "game/7 - Work.rpy_L1168_1",
+    "original": "Passion",
+    "translation": "激情",
+    "stage": 3,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/7%20-%20Work.rpy#L1168"
+  },
+  {
+    "key": "game/7 - Work.rpy_L1168_2",
+    "original": "Strength",
+    "translation": "力量",
+    "stage": 3,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/7%20-%20Work.rpy#L1168"
+  },
+  {
+    "key": "game/7 - Work.rpy_L1168_3",
+    "original": "Loyalty",
+    "translation": "忠诚",
+    "stage": 3,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/7%20-%20Work.rpy#L1168"
+  },
+  {
+    "key": "game/7 - Work.rpy_L1168_4",
+    "original": "Speed",
+    "translation": "速度",
+    "stage": 3,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/7%20-%20Work.rpy#L1168"
+  },
+  {
+    "key": "game/7 - Work.rpy_L1179_0",
+    "original": "What is the name of [rik]'s team?",
+    "translation": "[rik]所在团队的名称是什么？",
+    "stage": 3,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/7%20-%20Work.rpy#L1179"
+  },
+  {
+    "key": "game/7 - Work.rpy_L1179_1",
+    "original": "Storm Chasers",
+    "translation": "Storm Chasers",
+    "stage": 3,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/7%20-%20Work.rpy#L1179"
+  },
+  {
+    "key": "game/7 - Work.rpy_L1179_2",
+    "original": "Thunder Bolts",
+    "translation": "Thunder Bolts",
+    "stage": 3,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/7%20-%20Work.rpy#L1179"
+  },
+  {
+    "key": "game/7 - Work.rpy_L1179_3",
+    "original": "Cloud Racers",
+    "translation": "Cloud Racers",
+    "stage": 3,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/7%20-%20Work.rpy#L1179"
+  },
+  {
+    "key": "game/7 - Work.rpy_L1179_4",
+    "original": "Fast as Fuck Bois",
+    "translation": "Fast as Fuck Bois",
+    "stage": 3,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/7%20-%20Work.rpy#L1179"
+  },
+  {
+    "key": "game/7 - Work.rpy_L1190_0",
+    "original": "What is [rik]'s most famous trick?",
+    "translation": "[rik] 最著名的把戏是什么？",
+    "stage": 3,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/7%20-%20Work.rpy#L1190"
+  },
+  {
+    "key": "game/7 - Work.rpy_L1190_1",
+    "original": "Eating an Entire Pizza to herself",
+    "translation": "独自吃掉整张披萨",
+    "stage": 3,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/7%20-%20Work.rpy#L1190"
+  },
+  {
+    "key": "game/7 - Work.rpy_L1190_2",
+    "original": "Barrel Roll",
+    "translation": "桶滚翻转",
+    "stage": 3,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/7%20-%20Work.rpy#L1190"
+  },
+  {
+    "key": "game/7 - Work.rpy_L1190_3",
+    "original": "Breaking the Sound Barrier",
+    "translation": "彩虹音爆",
+    "stage": 3,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/7%20-%20Work.rpy#L1190"
+  },
+  {
+    "key": "game/7 - Work.rpy_L1201_0",
+    "original": "What pet does [rik] have?",
+    "translation": "[rik] 养了什么宠物？",
+    "stage": 3,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/7%20-%20Work.rpy#L1201"
+  },
+  {
+    "key": "game/7 - Work.rpy_L1201_1",
+    "original": "Rabbit",
+    "translation": "兔子",
+    "stage": 3,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/7%20-%20Work.rpy#L1201"
+  },
+  {
+    "key": "game/7 - Work.rpy_L1201_2",
+    "original": "Parrot",
+    "translation": "鹦鹉",
+    "stage": 3,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/7%20-%20Work.rpy#L1201"
+  },
+  {
+    "key": "game/7 - Work.rpy_L1201_3",
+    "original": "Gerbil",
+    "translation": "沙鼠",
+    "stage": 3,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/7%20-%20Work.rpy#L1201"
+  },
+  {
+    "key": "game/7 - Work.rpy_L1201_4",
+    "original": "Turtle",
+    "translation": "龟",
+    "stage": 3,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/7%20-%20Work.rpy#L1201"
+  },
+  {
+    "key": "game/7 - Work.rpy_L1212_0",
+    "original": "What is [rik]'s favourite sex act?",
+    "translation": "[rik] 最喜欢的性行为是什么？",
+    "stage": 3,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/7%20-%20Work.rpy#L1212"
+  },
+  {
+    "key": "game/7 - Work.rpy_L1212_1",
+    "original": "BDSM",
+    "translation": "BDSM",
+    "stage": 3,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/7%20-%20Work.rpy#L1212"
+  },
+  {
+    "key": "game/7 - Work.rpy_L1212_2",
+    "original": "Roleplay",
+    "translation": "角色扮演",
+    "stage": 3,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/7%20-%20Work.rpy#L1212"
+  },
+  {
+    "key": "game/7 - Work.rpy_L1212_3",
+    "original": "Foot Fetish",
+    "translation": "足控",
+    "stage": 3,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/7%20-%20Work.rpy#L1212"
+  },
+  {
+    "key": "game/7 - Work.rpy_L1225_0",
+    "original": "Which is [mel]'s ultimate boundary in bed?",
+    "translation": "[mel] 在性事上的最后底线是什么？",
+    "stage": 3,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/7%20-%20Work.rpy#L1225"
+  },
+  {
+    "key": "game/7 - Work.rpy_L1225_1",
+    "original": "No Feet",
+    "translation": "拒绝足",
+    "stage": 3,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/7%20-%20Work.rpy#L1225"
+  },
+  {
+    "key": "game/7 - Work.rpy_L1225_2",
+    "original": "Refuses to Sub",
+    "translation": "拒绝替补",
+    "stage": 3,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/7%20-%20Work.rpy#L1225"
+  },
+  {
+    "key": "game/7 - Work.rpy_L1225_3",
+    "original": "Refuses to Share You",
+    "translation": "拒绝分享你",
+    "stage": 3,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/7%20-%20Work.rpy#L1225"
+  },
+  {
+    "key": "game/7 - Work.rpy_L1234_0",
+    "original": "How much of [mel] is cybernetic?",
+    "translation": "[mel]的义体化程度是多少？",
+    "stage": 3,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/7%20-%20Work.rpy#L1234"
+  },
+  {
+    "key": "game/7 - Work.rpy_L1234_1",
+    "original": "50%",
+    "translation": "50%",
+    "stage": 3,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/7%20-%20Work.rpy#L1234"
+  },
+  {
+    "key": "game/7 - Work.rpy_L1234_2",
+    "original": "Arms and Face",
+    "translation": "双手双臂和脸部",
+    "stage": 3,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/7%20-%20Work.rpy#L1234"
+  },
+  {
+    "key": "game/7 - Work.rpy_L1234_3",
+    "original": "90%",
+    "translation": "90%",
+    "stage": 3,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/7%20-%20Work.rpy#L1234"
+  },
+  {
+    "key": "game/7 - Work.rpy_L1243_0",
+    "original": "What instrument(s) does [mel] play?",
+    "translation": "[mel] 会演奏什么乐器？",
+    "stage": 3,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/7%20-%20Work.rpy#L1243"
+  },
+  {
+    "key": "game/7 - Work.rpy_L1243_1",
+    "original": "Bass, Piano",
+    "translation": "贝斯，钢琴",
+    "stage": 3,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/7%20-%20Work.rpy#L1243"
+  },
+  {
+    "key": "game/7 - Work.rpy_L1243_2",
+    "original": "Guitar, Vocals",
+    "translation": "吉他，人声",
+    "stage": 3,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/7%20-%20Work.rpy#L1243"
+  },
+  {
+    "key": "game/7 - Work.rpy_L1252_0",
+    "original": "If given the choice, how would [mel] prefer to spend her night?",
+    "translation": "如果可以选择，[mel] 会更喜欢如何度过她的夜晚？",
+    "stage": 3,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/7%20-%20Work.rpy#L1252"
+  },
+  {
+    "key": "game/7 - Work.rpy_L1252_1",
+    "original": "Stargazing",
+    "translation": "仰望星空",
+    "stage": 3,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/7%20-%20Work.rpy#L1252"
+  },
+  {
+    "key": "game/7 - Work.rpy_L1252_2",
+    "original": "Gaming",
+    "translation": "玩游戏",
+    "stage": 3,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/7%20-%20Work.rpy#L1252"
+  },
+  {
+    "key": "game/7 - Work.rpy_L1252_3",
+    "original": "Reading",
+    "translation": "阅读",
+    "stage": 3,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/7%20-%20Work.rpy#L1252"
+  },
+  {
+    "key": "game/7 - Work.rpy_L1261_0",
+    "original": "What is [mel]'s favourite color?",
+    "translation": "[mel] 最喜欢的颜色是什么？",
+    "stage": 3,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/7%20-%20Work.rpy#L1261"
+  },
+  {
+    "key": "game/7 - Work.rpy_L1261_1",
     "original": "Black",
-    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/7%20-%20Work.rpy#L931"
+    "translation": "黑色",
+    "stage": 3,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/7%20-%20Work.rpy#L1261"
   },
   {
-    "key": "game/7 - Work.rpy_L942_0",
+    "key": "game/7 - Work.rpy_L1261_2",
+    "original": "Pink",
+    "translation": "“很酷的”粉色",
+    "stage": 3,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/7%20-%20Work.rpy#L1261"
+  },
+  {
+    "key": "game/7 - Work.rpy_L1261_3",
+    "original": "Blue",
+    "translation": "蓝色",
+    "stage": 3,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/7%20-%20Work.rpy#L1261"
+  },
+  {
+    "key": "game/7 - Work.rpy_L1272_0",
+    "original": "What is [but]'s job?",
+    "translation": "[but] 的职业是什么？",
+    "stage": 3,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/7%20-%20Work.rpy#L1272"
+  },
+  {
+    "key": "game/7 - Work.rpy_L1272_1",
+    "original": "Alchemist",
+    "translation": "炼金术士",
+    "stage": 3,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/7%20-%20Work.rpy#L1272"
+  },
+  {
+    "key": "game/7 - Work.rpy_L1272_2",
+    "original": "Hunter",
+    "translation": "猎人",
+    "stage": 3,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/7%20-%20Work.rpy#L1272"
+  },
+  {
+    "key": "game/7 - Work.rpy_L1272_3",
+    "original": "Witch",
+    "translation": "女巫",
+    "stage": 3,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/7%20-%20Work.rpy#L1272"
+  },
+  {
+    "key": "game/7 - Work.rpy_L1281_0",
+    "original": "What was your first sexual experience with [but]?",
+    "translation": "你第一次和[but]进行的性行为是什么?",
+    "stage": 3,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/7%20-%20Work.rpy#L1281"
+  },
+  {
+    "key": "game/7 - Work.rpy_L1281_1",
+    "original": "Tailjob",
+    "translation": "尾交",
+    "stage": 3,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/7%20-%20Work.rpy#L1281"
+  },
+  {
+    "key": "game/7 - Work.rpy_L1292_0",
+    "original": "How old is [but]?",
+    "translation": "[but] 年龄多大？",
+    "stage": 3,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/7%20-%20Work.rpy#L1292"
+  },
+  {
+    "key": "game/7 - Work.rpy_L1292_1",
+    "original": "71",
+    "translation": "71",
+    "stage": 3,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/7%20-%20Work.rpy#L1292"
+  },
+  {
+    "key": "game/7 - Work.rpy_L1292_2",
+    "original": "21",
+    "translation": "21",
+    "stage": 3,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/7%20-%20Work.rpy#L1292"
+  },
+  {
+    "key": "game/7 - Work.rpy_L1292_3",
+    "original": "26",
+    "translation": "26",
+    "stage": 3,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/7%20-%20Work.rpy#L1292"
+  },
+  {
+    "key": "game/7 - Work.rpy_L1292_4",
+    "original": "126",
+    "translation": "126",
+    "stage": 3,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/7%20-%20Work.rpy#L1292"
+  },
+  {
+    "key": "game/7 - Work.rpy_L1303_0",
+    "original": "What is [but]'s favourite animal?",
+    "translation": "[but] 最喜欢的动物是什么？",
+    "stage": 3,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/7%20-%20Work.rpy#L1303"
+  },
+  {
+    "key": "game/7 - Work.rpy_L1303_1",
+    "original": "Squirrels",
+    "translation": "松鼠",
+    "stage": 3,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/7%20-%20Work.rpy#L1303"
+  },
+  {
+    "key": "game/7 - Work.rpy_L1303_2",
+    "original": "Bears",
+    "translation": "熊",
+    "stage": 3,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/7%20-%20Work.rpy#L1303"
+  },
+  {
+    "key": "game/7 - Work.rpy_L1303_3",
+    "original": "Bunnies",
+    "translation": "小兔子",
+    "stage": 3,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/7%20-%20Work.rpy#L1303"
+  },
+  {
+    "key": "game/7 - Work.rpy_L1303_4",
+    "original": "Oh, goodness me, I simply couldn't choose!",
+    "translation": "哦天哪，我实在难以选择！",
+    "stage": 3,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/7%20-%20Work.rpy#L1303"
+  },
+  {
+    "key": "game/7 - Work.rpy_L1314_0",
+    "original": "What is [but]'s least favor chore around the house?",
+    "translation": "[but] 最不喜欢做家务中的哪项？",
+    "stage": 3,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/7%20-%20Work.rpy#L1314"
+  },
+  {
+    "key": "game/7 - Work.rpy_L1314_1",
+    "original": "Washing Potion Bottles",
+    "translation": "清洗药瓶",
+    "stage": 3,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/7%20-%20Work.rpy#L1314"
+  },
+  {
+    "key": "game/7 - Work.rpy_L1314_2",
+    "original": "Watering Magic Plants",
+    "translation": "给魔法植物浇水",
+    "stage": 3,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/7%20-%20Work.rpy#L1314"
+  },
+  {
+    "key": "game/7 - Work.rpy_L1314_3",
+    "original": "Dusting her Cauldron",
+    "translation": "擦拭她的坩埚",
+    "stage": 3,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/7%20-%20Work.rpy#L1314"
+  },
+  {
+    "key": "game/7 - Work.rpy_L1314_4",
+    "original": "Taking out the Trash",
+    "translation": "倒垃圾",
+    "stage": 3,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/7%20-%20Work.rpy#L1314"
+  },
+  {
+    "key": "game/7 - Work.rpy_L1327_0",
+    "original": "What specific phobia does [lil] have?",
+    "translation": "[lil]特别害怕什么？",
+    "stage": 3,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/7%20-%20Work.rpy#L1327"
+  },
+  {
+    "key": "game/7 - Work.rpy_L1327_1",
+    "original": "Fear of Spiders",
+    "translation": "害怕蜘蛛",
+    "stage": 3,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/7%20-%20Work.rpy#L1327"
+  },
+  {
+    "key": "game/7 - Work.rpy_L1327_2",
+    "original": "Fear of Dogs",
+    "translation": "害怕狗",
+    "stage": 3,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/7%20-%20Work.rpy#L1327"
+  },
+  {
+    "key": "game/7 - Work.rpy_L1327_3",
+    "original": "Fear of Snakes",
+    "translation": "害怕蛇",
+    "stage": 3,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/7%20-%20Work.rpy#L1327"
+  },
+  {
+    "key": "game/7 - Work.rpy_L1327_4",
+    "original": "Fear of Bears",
+    "translation": "害怕蛇",
+    "stage": 3,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/7%20-%20Work.rpy#L1327"
+  },
+  {
+    "key": "game/7 - Work.rpy_L1338_0",
+    "original": "What was the first sexual act you could engage in with [lil]?",
+    "translation": "你第一次和[lil]进行的性行为是什么？",
+    "stage": 3,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/7%20-%20Work.rpy#L1338"
+  },
+  {
+    "key": "game/7 - Work.rpy_L1338_1",
+    "original": "Intense Eye Contact",
+    "translation": "眼神接触",
+    "stage": 3,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/7%20-%20Work.rpy#L1338"
+  },
+  {
+    "key": "game/7 - Work.rpy_L1349_0",
+    "original": "Where did [lil] get her bow from?",
+    "translation": "[lil]的蝴蝶结是从哪儿得到的？",
+    "stage": 3,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/7%20-%20Work.rpy#L1349"
+  },
+  {
+    "key": "game/7 - Work.rpy_L1349_1",
+    "original": "Her Mother",
+    "translation": "[lil]的蝴蝶结是从哪儿得到的？",
+    "stage": 3,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/7%20-%20Work.rpy#L1349"
+  },
+  {
+    "key": "game/7 - Work.rpy_L1349_2",
+    "original": "The Queen",
+    "translation": "女王",
+    "stage": 3,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/7%20-%20Work.rpy#L1349"
+  },
+  {
+    "key": "game/7 - Work.rpy_L1360_0",
+    "original": "What genre of video games is [lil]'s favourite?",
+    "translation": "[lil]最喜欢哪种类型的电子游戏？",
+    "stage": 3,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/7%20-%20Work.rpy#L1360"
+  },
+  {
+    "key": "game/7 - Work.rpy_L1360_1",
+    "original": "Turn-Based Strategy",
+    "translation": "回合制策略游戏",
+    "stage": 3,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/7%20-%20Work.rpy#L1360"
+  },
+  {
+    "key": "game/7 - Work.rpy_L1360_2",
+    "original": "First Person Shooters",
+    "translation": "FPS",
+    "stage": 3,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/7%20-%20Work.rpy#L1360"
+  },
+  {
+    "key": "game/7 - Work.rpy_L1360_3",
+    "original": "Multiplayer Battle Arenas",
+    "translation": "多人竞技游戏",
+    "stage": 3,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/7%20-%20Work.rpy#L1360"
+  },
+  {
+    "key": "game/7 - Work.rpy_L1360_4",
+    "original": "Rougelikes",
+    "translation": "肉鸽游戏",
+    "stage": 3,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/7%20-%20Work.rpy#L1360"
+  },
+  {
+    "key": "game/7 - Work.rpy_L1371_0",
+    "original": "What of the following would turn [lil] on the most?",
+    "translation": "下列哪一项最能引起[lil]的兴趣？",
+    "stage": 3,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/7%20-%20Work.rpy#L1371"
+  },
+  {
+    "key": "game/7 - Work.rpy_L1371_1",
+    "original": "Getting cucked a clone",
+    "translation": "被克隆体NTR",
+    "stage": 3,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/7%20-%20Work.rpy#L1371"
+  },
+  {
+    "key": "game/7 - Work.rpy_L1371_2",
+    "original": "Getting filled with fertile, interspecies cum",
+    "translation": "被不同物种的浓厚精液灌满",
+    "stage": 3,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/7%20-%20Work.rpy#L1371"
+  },
+  {
+    "key": "game/7 - Work.rpy_L1371_3",
+    "original": "Experimenting with magic",
+    "translation": "魔法性爱",
+    "stage": 3,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/7%20-%20Work.rpy#L1371"
+  },
+  {
+    "key": "game/7 - Work.rpy_L1371_4",
+    "original": "Secretly getting corrupted",
+    "translation": "精神崩溃",
+    "stage": 3,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/7%20-%20Work.rpy#L1371"
+  },
+  {
+    "key": "game/7 - Work.rpy_L1382_0",
+    "original": "What colour is [lil]'s dildo?",
+    "translation": "[lil]的假阳具是什么颜色的？",
+    "stage": 3,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/7%20-%20Work.rpy#L1382"
+  },
+  {
+    "key": "game/7 - Work.rpy_L1382_1",
+    "original": "Purple",
+    "translation": "紫色",
+    "stage": 3,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/7%20-%20Work.rpy#L1382"
+  },
+  {
+    "key": "game/7 - Work.rpy_L1393_0",
     "original": "As unhealthy as it might be, what is [lil] addicted to?",
-    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/7%20-%20Work.rpy#L942"
+    "translation": "可能有点不健康，[lil]沉迷于什么？",
+    "stage": 3,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/7%20-%20Work.rpy#L1393"
   },
   {
-    "key": "game/7 - Work.rpy_L942_1",
+    "key": "game/7 - Work.rpy_L1393_1",
     "original": "Chocolate",
-    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/7%20-%20Work.rpy#L942"
+    "translation": "巧克力",
+    "stage": 3,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/7%20-%20Work.rpy#L1393"
   },
   {
-    "key": "game/7 - Work.rpy_L942_2",
+    "key": "game/7 - Work.rpy_L1393_2",
     "original": "Alcohol",
-    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/7%20-%20Work.rpy#L942"
+    "translation": "喝酒",
+    "stage": 3,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/7%20-%20Work.rpy#L1393"
   },
   {
-    "key": "game/7 - Work.rpy_L942_3",
+    "key": "game/7 - Work.rpy_L1393_3",
     "original": "Dr. Bebba",
-    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/7%20-%20Work.rpy#L942"
+    "translation": "青椒博士",
+    "stage": 3,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/7%20-%20Work.rpy#L1393"
   },
   {
-    "key": "game/7 - Work.rpy_L942_4",
+    "key": "game/7 - Work.rpy_L1393_4",
     "original": "Munster Cok Energy Drinks",
-    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/7%20-%20Work.rpy#L942"
+    "translation": "“利爪”能量饮料",
+    "stage": 3,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/7%20-%20Work.rpy#L1393"
   }
 ]

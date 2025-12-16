@@ -1,0 +1,30 @@
+[
+  {
+    "key": "game/4.9 - Misc.rpy_L104_0",
+    "original": "Ohhh yeah!",
+    "translation": "哦——耶！",
+    "stage": 3,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.9%20-%20Misc.rpy#L104"
+  },
+  {
+    "key": "game/4.9 - Misc.rpy_L104_1",
+    "original": "H-Hang on. Don't you think we're going too far?",
+    "translation": "等-等一下。你不觉得我们做得有点上头了吗？",
+    "stage": 3,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.9%20-%20Misc.rpy#L104"
+  },
+  {
+    "key": "game/4.9 - Misc.rpy_L405_0",
+    "original": "Accept the Terms",
+    "translation": "接受这些条款哟～",
+    "stage": 3,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.9%20-%20Misc.rpy#L405"
+  },
+  {
+    "key": "game/4.9 - Misc.rpy_L405_1",
+    "original": "Refuse, Obviously",
+    "translation": "拒绝！",
+    "stage": 3,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.9%20-%20Misc.rpy#L405"
+  }
+]

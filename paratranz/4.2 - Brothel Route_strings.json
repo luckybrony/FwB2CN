@@ -2,401 +2,729 @@
   {
     "key": "game/4.2 - Brothel Route.rpy_L9_0",
     "original": "Work (Ask [rub] for an Interview)",
+    "translation": "工作（请求[rub]给你面试）",
+    "stage": 3,
     "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.2%20-%20Brothel%20Route.rpy#L9"
   },
   {
     "key": "game/4.2 - Brothel Route.rpy_L9_1",
-    "original": "Work",
+    "original": "Visit [sky], [mel] and [blo] (Brothel 4)",
+    "translation": "拜访[sky]，[mel]和[blo]（夜店4）",
+    "stage": 3,
     "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.2%20-%20Brothel%20Route.rpy#L9"
   },
   {
     "key": "game/4.2 - Brothel Route.rpy_L9_2",
-    "original": "Choose a Hostess",
+    "original": "Work",
+    "translation": "工作",
+    "stage": 3,
     "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.2%20-%20Brothel%20Route.rpy#L9"
   },
   {
     "key": "game/4.2 - Brothel Route.rpy_L9_3",
-    "original": "Visit [rub]",
+    "original": "Choose a Hostess",
+    "translation": "选择女招待",
+    "stage": 3,
     "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.2%20-%20Brothel%20Route.rpy#L9"
   },
   {
     "key": "game/4.2 - Brothel Route.rpy_L9_4",
-    "original": "Visit [mel]",
+    "original": "Visit [rub]",
+    "translation": "拜访[rub]",
+    "stage": 3,
     "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.2%20-%20Brothel%20Route.rpy#L9"
   },
   {
     "key": "game/4.2 - Brothel Route.rpy_L9_5",
+    "original": "Visit [mel]",
+    "translation": "拜访[mel]",
+    "stage": 3,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.2%20-%20Brothel%20Route.rpy#L9"
+  },
+  {
+    "key": "game/4.2 - Brothel Route.rpy_L9_6",
     "original": "Check on [mel]",
+    "translation": "去看看[mel]",
+    "stage": 3,
     "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.2%20-%20Brothel%20Route.rpy#L9"
   },
   {
     "key": "game/4.2 - Brothel Route.rpy_L11_0",
     "original": "(Go to [rub] now?)",
+    "translation": "（去[rub]那？）",
+    "stage": 3,
     "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.2%20-%20Brothel%20Route.rpy#L11"
   },
   {
     "key": "game/4.2 - Brothel Route.rpy_L11_1",
     "original": "(Back)",
+    "translation": "（回去）",
+    "stage": 3,
     "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.2%20-%20Brothel%20Route.rpy#L11"
   },
   {
-    "key": "game/4.2 - Brothel Route.rpy_L22_0",
+    "key": "game/4.2 - Brothel Route.rpy_L24_0",
     "original": "Grey Mare",
-    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.2%20-%20Brothel%20Route.rpy#L22"
+    "translation": "灰色雌驹",
+    "stage": 3,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.2%20-%20Brothel%20Route.rpy#L24"
   },
   {
-    "key": "game/4.2 - Brothel Route.rpy_L22_1",
+    "key": "game/4.2 - Brothel Route.rpy_L24_1",
     "original": "[cla]",
-    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.2%20-%20Brothel%20Route.rpy#L22"
+    "translation": "[cla]",
+    "stage": 3,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.2%20-%20Brothel%20Route.rpy#L24"
   },
   {
-    "key": "game/4.2 - Brothel Route.rpy_L22_2",
+    "key": "game/4.2 - Brothel Route.rpy_L24_2",
     "original": "Dog Girl",
-    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.2%20-%20Brothel%20Route.rpy#L22"
+    "translation": "犬娘",
+    "stage": 3,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.2%20-%20Brothel%20Route.rpy#L24"
   },
   {
-    "key": "game/4.2 - Brothel Route.rpy_L22_3",
+    "key": "game/4.2 - Brothel Route.rpy_L24_3",
     "original": "[ros]",
-    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.2%20-%20Brothel%20Route.rpy#L22"
+    "translation": "[ros]",
+    "stage": 3,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.2%20-%20Brothel%20Route.rpy#L24"
   },
   {
-    "key": "game/4.2 - Brothel Route.rpy_L22_4",
+    "key": "game/4.2 - Brothel Route.rpy_L24_4",
+    "original": "Wolf Girl",
+    "translation": "狼娘",
+    "stage": 3,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.2%20-%20Brothel%20Route.rpy#L24"
+  },
+  {
+    "key": "game/4.2 - Brothel Route.rpy_L24_5",
     "original": "[hil]",
-    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.2%20-%20Brothel%20Route.rpy#L22"
+    "translation": "[hil]",
+    "stage": 3,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.2%20-%20Brothel%20Route.rpy#L24"
   },
   {
-    "key": "game/4.2 - Brothel Route.rpy_L22_5",
+    "key": "game/4.2 - Brothel Route.rpy_L24_6",
+    "original": "Cat Girl",
+    "translation": "猫娘",
+    "stage": 3,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.2%20-%20Brothel%20Route.rpy#L24"
+  },
+  {
+    "key": "game/4.2 - Brothel Route.rpy_L24_7",
     "original": "[bas]",
-    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.2%20-%20Brothel%20Route.rpy#L22"
+    "translation": "[bas]",
+    "stage": 3,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.2%20-%20Brothel%20Route.rpy#L24"
   },
   {
-    "key": "game/4.2 - Brothel Route.rpy_L108_0",
+    "key": "game/4.2 - Brothel Route.rpy_L99_0",
     "original": "Pay for [cla]'s services $400",
-    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.2%20-%20Brothel%20Route.rpy#L108"
+    "translation": "为[cla]的服务支付$400",
+    "stage": 3,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.2%20-%20Brothel%20Route.rpy#L99"
   },
   {
-    "key": "game/4.2 - Brothel Route.rpy_L108_1",
+    "key": "game/4.2 - Brothel Route.rpy_L99_1",
     "original": "Pay for [cla]'s services $100",
-    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.2%20-%20Brothel%20Route.rpy#L108"
+    "translation": "为[cla]的服务支付$100",
+    "stage": 3,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.2%20-%20Brothel%20Route.rpy#L99"
   },
   {
-    "key": "game/4.2 - Brothel Route.rpy_L202_0",
+    "key": "game/4.2 - Brothel Route.rpy_L193_0",
     "original": "I'll help ([rosa] will become loyal to you)",
-    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.2%20-%20Brothel%20Route.rpy#L202"
+    "translation": "我会帮你的（[rosa]会变得衷心地爱你）",
+    "stage": 3,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.2%20-%20Brothel%20Route.rpy#L193"
   },
   {
-    "key": "game/4.2 - Brothel Route.rpy_L202_1",
+    "key": "game/4.2 - Brothel Route.rpy_L193_1",
     "original": "Sorry, my hands are full ([rosa] will slip and start regularly fucking clients)",
-    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.2%20-%20Brothel%20Route.rpy#L202"
+    "translation": "对不起，我没有空（[rosa]会失足并开始频繁地与客人做爱）",
+    "stage": 3,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.2%20-%20Brothel%20Route.rpy#L193"
   },
   {
-    "key": "game/4.2 - Brothel Route.rpy_L219_0",
+    "key": "game/4.2 - Brothel Route.rpy_L210_0",
     "original": "Missionary Quickie (Free)",
-    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.2%20-%20Brothel%20Route.rpy#L219"
+    "translation": "简化男上位（免费）",
+    "stage": 3,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.2%20-%20Brothel%20Route.rpy#L210"
   },
   {
-    "key": "game/4.2 - Brothel Route.rpy_L219_1",
+    "key": "game/4.2 - Brothel Route.rpy_L210_1",
     "original": "Hire Professionally ($50)",
-    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.2%20-%20Brothel%20Route.rpy#L219"
+    "translation": "专业雇佣（$50）",
+    "stage": 3,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.2%20-%20Brothel%20Route.rpy#L210"
   },
   {
-    "key": "game/4.2 - Brothel Route.rpy_L219_2",
+    "key": "game/4.2 - Brothel Route.rpy_L210_2",
     "original": "Hire Professionally ($12)",
-    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.2%20-%20Brothel%20Route.rpy#L219"
+    "translation": "专业雇佣（$12）",
+    "stage": 3,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.2%20-%20Brothel%20Route.rpy#L210"
   },
   {
-    "key": "game/4.2 - Brothel Route.rpy_L299_0",
-    "original": "Sex In Development",
-    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.2%20-%20Brothel%20Route.rpy#L299"
+    "key": "game/4.2 - Brothel Route.rpy_L306_0",
+    "original": "Hire [hil] - $50",
+    "translation": "雇佣[hil] - $50",
+    "stage": 1,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.2%20-%20Brothel%20Route.rpy#L306"
   },
   {
-    "key": "game/4.2 - Brothel Route.rpy_L398_0",
+    "key": "game/4.2 - Brothel Route.rpy_L306_1",
+    "original": "Hire [hil] - $10",
+    "translation": "雇佣[hil] - $10",
+    "stage": 1,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.2%20-%20Brothel%20Route.rpy#L306"
+  },
+  {
+    "key": "game/4.2 - Brothel Route.rpy_L306_2",
+    "original": "Hire [hil] and [bas] - (Locked)",
+    "translation": "雇佣[hil]和[bas] - （需解锁）",
+    "stage": 1,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.2%20-%20Brothel%20Route.rpy#L306"
+  },
+  {
+    "key": "game/4.2 - Brothel Route.rpy_L306_3",
+    "original": "Hire [hil] and [bas] - $200",
+    "translation": "雇佣[hil]和[bas] - $200",
+    "stage": 1,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.2%20-%20Brothel%20Route.rpy#L306"
+  },
+  {
+    "key": "game/4.2 - Brothel Route.rpy_L306_4",
+    "original": "Hire [hil] and [bas] - Free",
+    "translation": "雇佣[hil]和[bas] - 免费",
+    "stage": 1,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.2%20-%20Brothel%20Route.rpy#L306"
+  },
+  {
+    "key": "game/4.2 - Brothel Route.rpy_L421_0",
+    "original": "Hire [bas]'s - $200",
+    "translation": "雇佣[bas]的服务 - $200",
+    "stage": 1,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.2%20-%20Brothel%20Route.rpy#L421"
+  },
+  {
+    "key": "game/4.2 - Brothel Route.rpy_L421_1",
+    "original": "Free [bas] service",
+    "translation": "免费的[bas]服务",
+    "stage": 1,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.2%20-%20Brothel%20Route.rpy#L421"
+  },
+  {
+    "key": "game/4.2 - Brothel Route.rpy_L456_0",
     "original": "Interview",
-    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.2%20-%20Brothel%20Route.rpy#L398"
+    "translation": "面试",
+    "stage": 1,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.2%20-%20Brothel%20Route.rpy#L456"
   },
   {
-    "key": "game/4.2 - Brothel Route.rpy_L404_0",
+    "key": "game/4.2 - Brothel Route.rpy_L456_1",
+    "original": "[rub] has something on her mind...",
+    "translation": "[rub]心里有些事.....",
+    "stage": 1,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.2%20-%20Brothel%20Route.rpy#L456"
+  },
+  {
+    "key": "game/4.2 - Brothel Route.rpy_L456_2",
+    "original": "Leave Brothel",
+    "translation": "离开妓院",
+    "stage": 1,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.2%20-%20Brothel%20Route.rpy#L456"
+  },
+  {
+    "key": "game/4.2 - Brothel Route.rpy_L467_0",
+    "original": "Dress Style 1",
+    "translation": "着装风格1",
+    "stage": 1,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.2%20-%20Brothel%20Route.rpy#L467"
+  },
+  {
+    "key": "game/4.2 - Brothel Route.rpy_L467_1",
+    "original": "Dress Style 2",
+    "translation": "着装风格2",
+    "stage": 1,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.2%20-%20Brothel%20Route.rpy#L467"
+  },
+  {
+    "key": "game/4.2 - Brothel Route.rpy_L467_2",
+    "original": "Lingerie Style 1",
+    "translation": "蕾丝内衣风格1",
+    "stage": 1,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.2%20-%20Brothel%20Route.rpy#L467"
+  },
+  {
+    "key": "game/4.2 - Brothel Route.rpy_L467_3",
+    "original": "Lingerie Style 2",
+    "translation": "蕾丝内衣风格2",
+    "stage": 1,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.2%20-%20Brothel%20Route.rpy#L467"
+  },
+  {
+    "key": "game/4.2 - Brothel Route.rpy_L467_4",
+    "original": "Gown Lingerie",
+    "translation": "长袍蕾丝内衣",
+    "stage": 1,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.2%20-%20Brothel%20Route.rpy#L467"
+  },
+  {
+    "key": "game/4.2 - Brothel Route.rpy_L504_0",
     "original": "Thighjob",
-    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.2%20-%20Brothel%20Route.rpy#L404"
+    "translation": "腿交",
+    "stage": 1,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.2%20-%20Brothel%20Route.rpy#L504"
   },
   {
-    "key": "game/4.2 - Brothel Route.rpy_L404_1",
-    "original": "Couch Missionary",
-    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.2%20-%20Brothel%20Route.rpy#L404"
+    "key": "game/4.2 - Brothel Route.rpy_L504_1",
+    "original": "Table Missionary",
+    "translation": "桌上男上位",
+    "stage": 1,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.2%20-%20Brothel%20Route.rpy#L504"
   },
   {
-    "key": "game/4.2 - Brothel Route.rpy_L404_2",
+    "key": "game/4.2 - Brothel Route.rpy_L504_2",
     "original": "From Behind",
-    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.2%20-%20Brothel%20Route.rpy#L404"
+    "translation": "后入式",
+    "stage": 1,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.2%20-%20Brothel%20Route.rpy#L504"
   },
   {
-    "key": "game/4.2 - Brothel Route.rpy_L404_3",
+    "key": "game/4.2 - Brothel Route.rpy_L504_3",
     "original": "Legs-Up",
-    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.2%20-%20Brothel%20Route.rpy#L404"
+    "translation": "抬腿式",
+    "stage": 1,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.2%20-%20Brothel%20Route.rpy#L504"
   },
   {
-    "key": "game/4.2 - Brothel Route.rpy_L457_0",
+    "key": "game/4.2 - Brothel Route.rpy_L504_4",
+    "original": "[rik] Threesome",
+    "translation": "[rik]三人行",
+    "stage": 1,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.2%20-%20Brothel%20Route.rpy#L504"
+  },
+  {
+    "key": "game/4.2 - Brothel Route.rpy_L504_5",
+    "original": "Facesitting Orgasm Denial (/w Penetration option)",
+    "translation": "骑脸式高潮控制（/w 插入选项）",
+    "stage": 1,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.2%20-%20Brothel%20Route.rpy#L504"
+  },
+  {
+    "key": "game/4.2 - Brothel Route.rpy_L608_0",
     "original": "Booth Footjob",
-    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.2%20-%20Brothel%20Route.rpy#L457"
+    "translation": "在隔间里足交",
+    "stage": 1,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.2%20-%20Brothel%20Route.rpy#L608"
   },
   {
-    "key": "game/4.2 - Brothel Route.rpy_L457_1",
+    "key": "game/4.2 - Brothel Route.rpy_L608_1",
     "original": "Booth Blowjob",
-    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.2%20-%20Brothel%20Route.rpy#L457"
+    "translation": "在隔间里口交",
+    "stage": 1,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.2%20-%20Brothel%20Route.rpy#L608"
   },
   {
-    "key": "game/4.2 - Brothel Route.rpy_L457_2",
+    "key": "game/4.2 - Brothel Route.rpy_L608_2",
     "original": "Handjob/Leaning Forward Cowgirl",
-    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.2%20-%20Brothel%20Route.rpy#L457"
+    "translation": "手冲/半躺式女上位",
+    "stage": 1,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.2%20-%20Brothel%20Route.rpy#L608"
   },
   {
-    "key": "game/4.2 - Brothel Route.rpy_L457_3",
+    "key": "game/4.2 - Brothel Route.rpy_L608_3",
     "original": "Leaning Back Cowgirl",
-    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.2%20-%20Brothel%20Route.rpy#L457"
+    "translation": "半躺式女上位",
+    "stage": 1,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.2%20-%20Brothel%20Route.rpy#L608"
   },
   {
-    "key": "game/4.2 - Brothel Route.rpy_L457_4",
+    "key": "game/4.2 - Brothel Route.rpy_L608_4",
     "original": "Reverse Cowgirl",
-    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.2%20-%20Brothel%20Route.rpy#L457"
+    "translation": "反式女上位",
+    "stage": 1,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.2%20-%20Brothel%20Route.rpy#L608"
   },
   {
-    "key": "game/4.2 - Brothel Route.rpy_L457_5",
+    "key": "game/4.2 - Brothel Route.rpy_L608_5",
     "original": "Legs Up",
-    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.2%20-%20Brothel%20Route.rpy#L457"
+    "translation": "抬腿式",
+    "stage": 1,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.2%20-%20Brothel%20Route.rpy#L608"
   },
   {
-    "key": "game/4.2 - Brothel Route.rpy_L493_0",
+    "key": "game/4.2 - Brothel Route.rpy_L608_6",
+    "original": "[blo] Threesome",
+    "translation": "[blo]三人行",
+    "stage": 1,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.2%20-%20Brothel%20Route.rpy#L608"
+  },
+  {
+    "key": "game/4.2 - Brothel Route.rpy_L608_7",
+    "original": "[sky] & [mel] Foursome",
+    "translation": "[sky]和[mel]四人行",
+    "stage": 1,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.2%20-%20Brothel%20Route.rpy#L608"
+  },
+  {
+    "key": "game/4.2 - Brothel Route.rpy_L648_0",
     "original": "Brothel Visit 1",
-    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.2%20-%20Brothel%20Route.rpy#L493"
+    "translation": "妓院 第一次拜访",
+    "stage": 1,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.2%20-%20Brothel%20Route.rpy#L648"
   },
   {
-    "key": "game/4.2 - Brothel Route.rpy_L493_1",
+    "key": "game/4.2 - Brothel Route.rpy_L648_1",
     "original": "Brothel Visit 2",
-    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.2%20-%20Brothel%20Route.rpy#L493"
+    "translation": "妓院 第二次拜访",
+    "stage": 1,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.2%20-%20Brothel%20Route.rpy#L648"
   },
   {
-    "key": "game/4.2 - Brothel Route.rpy_L493_2",
+    "key": "game/4.2 - Brothel Route.rpy_L648_2",
     "original": "Brothel Visit 3",
-    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.2%20-%20Brothel%20Route.rpy#L493"
+    "translation": "妓院 第三次拜访",
+    "stage": 1,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.2%20-%20Brothel%20Route.rpy#L648"
   },
   {
-    "key": "game/4.2 - Brothel Route.rpy_L631_0",
+    "key": "game/4.2 - Brothel Route.rpy_L648_3",
+    "original": "Brothel Visit 4",
+    "translation": "妓院 第四次拜访",
+    "stage": 1,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.2%20-%20Brothel%20Route.rpy#L648"
+  },
+  {
+    "key": "game/4.2 - Brothel Route.rpy_L648_4",
+    "original": "[rub] Secret.",
+    "translation": "[rub]的秘密",
+    "stage": 1,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.2%20-%20Brothel%20Route.rpy#L648"
+  },
+  {
+    "key": "game/4.2 - Brothel Route.rpy_L798_0",
     "original": "What about your boutique business?",
-    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.2%20-%20Brothel%20Route.rpy#L631"
+    "translation": "你的精品店生意怎么样?",
+    "stage": 1,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.2%20-%20Brothel%20Route.rpy#L798"
   },
   {
-    "key": "game/4.2 - Brothel Route.rpy_L631_1",
+    "key": "game/4.2 - Brothel Route.rpy_L798_1",
     "original": "Were you a webcam model once?",
-    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.2%20-%20Brothel%20Route.rpy#L631"
+    "translation": "你曾经做过福利姬吗?",
+    "stage": 1,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.2%20-%20Brothel%20Route.rpy#L798"
   },
   {
-    "key": "game/4.2 - Brothel Route.rpy_L631_2",
+    "key": "game/4.2 - Brothel Route.rpy_L798_2",
     "original": "Why did you start this brothel?",
-    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.2%20-%20Brothel%20Route.rpy#L631"
+    "translation": "你为什么开这家妓院?",
+    "stage": 1,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.2%20-%20Brothel%20Route.rpy#L798"
   },
   {
-    "key": "game/4.2 - Brothel Route.rpy_L730_0",
+    "key": "game/4.2 - Brothel Route.rpy_L897_0",
     "original": "I disagree, I’d love to augment my body.",
-    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.2%20-%20Brothel%20Route.rpy#L730"
+    "translation": "我不同意，我想增强我的身体。",
+    "stage": 1,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.2%20-%20Brothel%20Route.rpy#L897"
   },
   {
-    "key": "game/4.2 - Brothel Route.rpy_L730_1",
+    "key": "game/4.2 - Brothel Route.rpy_L897_1",
     "original": "I agree; it’s important not to lose yourself.",
-    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.2%20-%20Brothel%20Route.rpy#L730"
+    "translation": "我同意;重要的是不要迷失自我。",
+    "stage": 1,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.2%20-%20Brothel%20Route.rpy#L897"
   },
   {
-    "key": "game/4.2 - Brothel Route.rpy_L843_0",
+    "key": "game/4.2 - Brothel Route.rpy_L1010_0",
     "original": "{i}Allow her to continue{/i}",
-    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.2%20-%20Brothel%20Route.rpy#L843"
+    "translation": "{i}让她继续{/i}",
+    "stage": 1,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.2%20-%20Brothel%20Route.rpy#L1010"
   },
   {
-    "key": "game/4.2 - Brothel Route.rpy_L843_1",
+    "key": "game/4.2 - Brothel Route.rpy_L1010_1",
     "original": "Hang on, you’re not going to use your feet, are you?",
-    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.2%20-%20Brothel%20Route.rpy#L843"
+    "translation": "等一下，你不会要用你的脚吧?",
+    "stage": 1,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.2%20-%20Brothel%20Route.rpy#L1010"
   },
   {
-    "key": "game/4.2 - Brothel Route.rpy_L851_0",
+    "key": "game/4.2 - Brothel Route.rpy_L1018_0",
     "original": "{i}Accept her advancements{/i}",
-    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.2%20-%20Brothel%20Route.rpy#L851"
+    "translation": "{i}让她继续{/i}",
+    "stage": 1,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.2%20-%20Brothel%20Route.rpy#L1018"
   },
   {
-    "key": "game/4.2 - Brothel Route.rpy_L851_1",
+    "key": "game/4.2 - Brothel Route.rpy_L1018_1",
     "original": "{i}Decline her advancements{/i}",
-    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.2%20-%20Brothel%20Route.rpy#L851"
+    "translation": "{i}不让她继续{/i}",
+    "stage": 1,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.2%20-%20Brothel%20Route.rpy#L1018"
   },
   {
-    "key": "game/4.2 - Brothel Route.rpy_L1038_0",
+    "key": "game/4.2 - Brothel Route.rpy_L1198_0",
     "original": "I’m not sure.",
-    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.2%20-%20Brothel%20Route.rpy#L1038"
+    "translation": "我不知道。",
+    "stage": 1,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.2%20-%20Brothel%20Route.rpy#L1198"
   },
   {
-    "key": "game/4.2 - Brothel Route.rpy_L1038_1",
+    "key": "game/4.2 - Brothel Route.rpy_L1198_1",
     "original": "What am I supposed to be learning?",
-    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.2%20-%20Brothel%20Route.rpy#L1038"
+    "translation": "我该学些什么?",
+    "stage": 1,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.2%20-%20Brothel%20Route.rpy#L1198"
   },
   {
-    "key": "game/4.2 - Brothel Route.rpy_L1038_2",
+    "key": "game/4.2 - Brothel Route.rpy_L1198_2",
     "original": "She doesn’t like the brothel",
-    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.2%20-%20Brothel%20Route.rpy#L1038"
+    "translation": "她不喜欢这家妓院",
+    "stage": 1,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.2%20-%20Brothel%20Route.rpy#L1198"
   },
   {
-    "key": "game/4.2 - Brothel Route.rpy_L1038_3",
+    "key": "game/4.2 - Brothel Route.rpy_L1198_3",
     "original": "She’s half cyborg, but that doesn’t mean she isn’t the same person.",
-    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.2%20-%20Brothel%20Route.rpy#L1038"
+    "translation": "她是半机械人，但这并不意味着她不是一个人。",
+    "stage": 1,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.2%20-%20Brothel%20Route.rpy#L1198"
   },
   {
-    "key": "game/4.2 - Brothel Route.rpy_L1038_4",
+    "key": "game/4.2 - Brothel Route.rpy_L1198_4",
     "original": "Our identities are ever evolving",
-    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.2%20-%20Brothel%20Route.rpy#L1038"
+    "translation": "我们的身份一直在演变",
+    "stage": 1,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.2%20-%20Brothel%20Route.rpy#L1198"
   },
   {
-    "key": "game/4.2 - Brothel Route.rpy_L1038_5",
+    "key": "game/4.2 - Brothel Route.rpy_L1198_5",
     "original": "With a new universe, there’s potential for new experiences",
-    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.2%20-%20Brothel%20Route.rpy#L1038"
+    "translation": "在一个新的宇宙，就有可能有新的经历",
+    "stage": 1,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.2%20-%20Brothel%20Route.rpy#L1198"
   },
   {
-    "key": "game/4.2 - Brothel Route.rpy_L1144_0",
+    "key": "game/4.2 - Brothel Route.rpy_L1304_0",
     "original": "{i}Pursue More{/i}",
-    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.2%20-%20Brothel%20Route.rpy#L1144"
+    "translation": "{i}追寻更多{/i}",
+    "stage": 1,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.2%20-%20Brothel%20Route.rpy#L1304"
   },
   {
-    "key": "game/4.2 - Brothel Route.rpy_L1144_1",
+    "key": "game/4.2 - Brothel Route.rpy_L1304_1",
     "original": "{i}Back Out{/i}",
-    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.2%20-%20Brothel%20Route.rpy#L1144"
+    "translation": "{i} 退缩{/i}",
+    "stage": 1,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.2%20-%20Brothel%20Route.rpy#L1304"
   },
   {
-    "key": "game/4.2 - Brothel Route.rpy_L1150_0",
+    "key": "game/4.2 - Brothel Route.rpy_L1310_0",
     "original": "Fine, I can’t resist you.",
-    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.2%20-%20Brothel%20Route.rpy#L1150"
+    "translation": "好吧，我无法拒绝你。",
+    "stage": 1,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.2%20-%20Brothel%20Route.rpy#L1310"
   },
   {
-    "key": "game/4.2 - Brothel Route.rpy_L1150_1",
+    "key": "game/4.2 - Brothel Route.rpy_L1310_1",
     "original": "Another time for sure.",
-    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.2%20-%20Brothel%20Route.rpy#L1150"
+    "translation": "下次再说吧。",
+    "stage": 1,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.2%20-%20Brothel%20Route.rpy#L1310"
   },
   {
-    "key": "game/4.2 - Brothel Route.rpy_L1231_0",
+    "key": "game/4.2 - Brothel Route.rpy_L1391_0",
     "original": "I appreciate the offer.",
-    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.2%20-%20Brothel%20Route.rpy#L1231"
+    "translation": "感谢你的录用。",
+    "stage": 1,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.2%20-%20Brothel%20Route.rpy#L1391"
   },
   {
-    "key": "game/4.2 - Brothel Route.rpy_L1231_1",
+    "key": "game/4.2 - Brothel Route.rpy_L1391_1",
     "original": "I’ll think about it.",
-    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.2%20-%20Brothel%20Route.rpy#L1231"
+    "translation": "我会考虑的。",
+    "stage": 1,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.2%20-%20Brothel%20Route.rpy#L1391"
   },
   {
-    "key": "game/4.2 - Brothel Route.rpy_L1231_2",
+    "key": "game/4.2 - Brothel Route.rpy_L1391_2",
     "original": "I don’t think so.",
-    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.2%20-%20Brothel%20Route.rpy#L1231"
+    "translation": "我不这么想。",
+    "stage": 1,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.2%20-%20Brothel%20Route.rpy#L1391"
   },
   {
-    "key": "game/4.2 - Brothel Route.rpy_L1279_0",
+    "key": "game/4.2 - Brothel Route.rpy_L1439_0",
     "original": "Knock on her Door",
-    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.2%20-%20Brothel%20Route.rpy#L1279"
+    "translation": "敲她的门",
+    "stage": 1,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.2%20-%20Brothel%20Route.rpy#L1439"
   },
   {
-    "key": "game/4.2 - Brothel Route.rpy_L1283_0",
+    "key": "game/4.2 - Brothel Route.rpy_L1443_0",
     "original": "You’re a nerd!",
-    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.2%20-%20Brothel%20Route.rpy#L1283"
+    "translation": "你是个呆子！",
+    "stage": 1,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.2%20-%20Brothel%20Route.rpy#L1443"
   },
   {
-    "key": "game/4.2 - Brothel Route.rpy_L1283_1",
+    "key": "game/4.2 - Brothel Route.rpy_L1443_1",
     "original": "Sorry!",
-    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.2%20-%20Brothel%20Route.rpy#L1283"
+    "translation": "对不起！",
+    "stage": 1,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.2%20-%20Brothel%20Route.rpy#L1443"
   },
   {
-    "key": "game/4.2 - Brothel Route.rpy_L1363_0",
+    "key": "game/4.2 - Brothel Route.rpy_L1523_0",
     "original": "The grey mare",
-    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.2%20-%20Brothel%20Route.rpy#L1363"
+    "translation": "灰色母马",
+    "stage": 1,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.2%20-%20Brothel%20Route.rpy#L1523"
   },
   {
-    "key": "game/4.2 - Brothel Route.rpy_L1363_1",
+    "key": "game/4.2 - Brothel Route.rpy_L1523_1",
     "original": "The dog girl",
-    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.2%20-%20Brothel%20Route.rpy#L1363"
+    "translation": "犬娘",
+    "stage": 1,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.2%20-%20Brothel%20Route.rpy#L1523"
   },
   {
-    "key": "game/4.2 - Brothel Route.rpy_L1363_2",
+    "key": "game/4.2 - Brothel Route.rpy_L1523_2",
     "original": "The wolf girl",
-    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.2%20-%20Brothel%20Route.rpy#L1363"
+    "translation": "狼女",
+    "stage": 1,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.2%20-%20Brothel%20Route.rpy#L1523"
   },
   {
-    "key": "game/4.2 - Brothel Route.rpy_L1363_3",
+    "key": "game/4.2 - Brothel Route.rpy_L1523_3",
     "original": "The cat girl",
-    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.2%20-%20Brothel%20Route.rpy#L1363"
+    "translation": "猫娘",
+    "stage": 1,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.2%20-%20Brothel%20Route.rpy#L1523"
   },
   {
-    "key": "game/4.2 - Brothel Route.rpy_L1363_4",
+    "key": "game/4.2 - Brothel Route.rpy_L1523_4",
     "original": "The men of the brothel",
-    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.2%20-%20Brothel%20Route.rpy#L1363"
+    "translation": "妓院的男人们",
+    "stage": 1,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.2%20-%20Brothel%20Route.rpy#L1523"
   },
   {
-    "key": "game/4.2 - Brothel Route.rpy_L1548_0",
+    "key": "game/4.2 - Brothel Route.rpy_L1703_0",
     "original": "I’m definitely interested",
-    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.2%20-%20Brothel%20Route.rpy#L1548"
+    "translation": "我超级感兴趣",
+    "stage": 1,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.2%20-%20Brothel%20Route.rpy#L1703"
   },
   {
-    "key": "game/4.2 - Brothel Route.rpy_L1548_1",
+    "key": "game/4.2 - Brothel Route.rpy_L1703_1",
     "original": "No thanks",
-    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.2%20-%20Brothel%20Route.rpy#L1548"
+    "translation": "不了，谢谢",
+    "stage": 1,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.2%20-%20Brothel%20Route.rpy#L1703"
   },
   {
-    "key": "game/4.2 - Brothel Route.rpy_L1548_2",
+    "key": "game/4.2 - Brothel Route.rpy_L1703_2",
     "original": "What’s non-con?",
-    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.2%20-%20Brothel%20Route.rpy#L1548"
+    "translation": "什么是“非自愿”？",
+    "stage": 1,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.2%20-%20Brothel%20Route.rpy#L1703"
   },
   {
-    "key": "game/4.2 - Brothel Route.rpy_L1816_0",
+    "key": "game/4.2 - Brothel Route.rpy_L1957_0",
     "original": "Cooking (35 Points)",
-    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.2%20-%20Brothel%20Route.rpy#L1816"
+    "translation": "烹饪（35 分）",
+    "stage": 1,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.2%20-%20Brothel%20Route.rpy#L1957"
   },
   {
-    "key": "game/4.2 - Brothel Route.rpy_L1816_1",
+    "key": "game/4.2 - Brothel Route.rpy_L1957_1",
     "original": "Travel (10 Points)",
-    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.2%20-%20Brothel%20Route.rpy#L1816"
+    "translation": "旅行（10 分）",
+    "stage": 1,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.2%20-%20Brothel%20Route.rpy#L1957"
   },
   {
-    "key": "game/4.2 - Brothel Route.rpy_L1816_2",
+    "key": "game/4.2 - Brothel Route.rpy_L1957_2",
     "original": "Hobbies (10 Points)",
-    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.2%20-%20Brothel%20Route.rpy#L1816"
+    "translation": "爱好（10 分）",
+    "stage": 1,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.2%20-%20Brothel%20Route.rpy#L1957"
   },
   {
-    "key": "game/4.2 - Brothel Route.rpy_L1825_0",
+    "key": "game/4.2 - Brothel Route.rpy_L1966_0",
     "original": "What is [mox]'s eye color?",
-    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.2%20-%20Brothel%20Route.rpy#L1825"
+    "translation": "[mox]的眼睛是什么颜色?",
+    "stage": 1,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.2%20-%20Brothel%20Route.rpy#L1966"
   },
   {
-    "key": "game/4.2 - Brothel Route.rpy_L1825_1",
+    "key": "game/4.2 - Brothel Route.rpy_L1966_1",
     "original": "Purple (Duh)",
-    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.2%20-%20Brothel%20Route.rpy#L1825"
+    "translation": "紫色(咄)",
+    "stage": 1,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.2%20-%20Brothel%20Route.rpy#L1966"
   },
   {
-    "key": "game/4.2 - Brothel Route.rpy_L1831_0",
+    "key": "game/4.2 - Brothel Route.rpy_L1972_0",
     "original": "Missionary (35 Points)",
-    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.2%20-%20Brothel%20Route.rpy#L1831"
+    "translation": "正常位（35 分）",
+    "stage": 1,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.2%20-%20Brothel%20Route.rpy#L1972"
   },
   {
-    "key": "game/4.2 - Brothel Route.rpy_L1831_1",
+    "key": "game/4.2 - Brothel Route.rpy_L1972_1",
     "original": "Pet Play (5 Points)",
-    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.2%20-%20Brothel%20Route.rpy#L1831"
+    "translation": "宠物Play （5 分）",
+    "stage": 1,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.2%20-%20Brothel%20Route.rpy#L1972"
   },
   {
-    "key": "game/4.2 - Brothel Route.rpy_L1831_2",
+    "key": "game/4.2 - Brothel Route.rpy_L1972_2",
     "original": "Non-Con (0 Points)",
-    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.2%20-%20Brothel%20Route.rpy#L1831"
+    "translation": "非自愿 （0 分）",
+    "stage": 1,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.2%20-%20Brothel%20Route.rpy#L1972"
   },
   {
-    "key": "game/4.2 - Brothel Route.rpy_L2021_0",
+    "key": "game/4.2 - Brothel Route.rpy_L2162_0",
     "original": "I don’t know…",
-    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.2%20-%20Brothel%20Route.rpy#L2021"
+    "translation": "我不知道…",
+    "stage": 1,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.2%20-%20Brothel%20Route.rpy#L2162"
   },
   {
-    "key": "game/4.2 - Brothel Route.rpy_L2267_0",
+    "key": "game/4.2 - Brothel Route.rpy_L2394_0",
     "original": "Alright, you won me over.",
-    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.2%20-%20Brothel%20Route.rpy#L2267"
+    "translation": "好吧，你说服了我。",
+    "stage": 1,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.2%20-%20Brothel%20Route.rpy#L2394"
   },
   {
-    "key": "game/4.2 - Brothel Route.rpy_L2267_1",
+    "key": "game/4.2 - Brothel Route.rpy_L2394_1",
     "original": "I’m just not in the mood.",
-    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.2%20-%20Brothel%20Route.rpy#L2267"
+    "translation": "我只是没那心情。",
+    "stage": 1,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.2%20-%20Brothel%20Route.rpy#L2394"
+  },
+  {
+    "key": "game/4.2 - Brothel Route.rpy_L3107_0",
+    "original": "Fuck. Yes.",
+    "translation": "太好了。真棒。",
+    "stage": 1,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.2%20-%20Brothel%20Route.rpy#L3107"
+  },
+  {
+    "key": "game/4.2 - Brothel Route.rpy_L3107_1",
+    "original": "Another time, perhaps?",
+    "translation": "也许下次？",
+    "stage": 1,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.2%20-%20Brothel%20Route.rpy#L3107"
   }
 ]

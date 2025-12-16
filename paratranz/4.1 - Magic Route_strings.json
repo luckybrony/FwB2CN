@@ -2,306 +2,491 @@
   {
     "key": "game/4.1 - Magic Route.rpy_L7_0",
     "original": "Visit [lil]",
+    "translation": "拜访[lil]",
+    "stage": 1,
     "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.1%20-%20Magic%20Route.rpy#L7"
   },
   {
     "key": "game/4.1 - Magic Route.rpy_L7_1",
     "original": "Visit [pen]",
+    "translation": "拜访[pen]",
+    "stage": 1,
     "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.1%20-%20Magic%20Route.rpy#L7"
   },
   {
     "key": "game/4.1 - Magic Route.rpy_L7_2",
+    "original": "Read a Book",
+    "translation": "阅读书籍",
+    "stage": 1,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.1%20-%20Magic%20Route.rpy#L7"
+  },
+  {
+    "key": "game/4.1 - Magic Route.rpy_L7_3",
     "original": "Leave",
+    "translation": "离开",
+    "stage": 1,
     "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.1%20-%20Magic%20Route.rpy#L7"
   },
   {
     "key": "game/4.1 - Magic Route.rpy_L27_0",
     "original": "Where's [lil] 2.0?",
+    "translation": "[lil]2.0在哪？",
+    "stage": 1,
     "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.1%20-%20Magic%20Route.rpy#L27"
   },
   {
     "key": "game/4.1 - Magic Route.rpy_L27_1",
     "original": "Get City Pass",
+    "translation": "获得城市通行证",
+    "stage": 1,
     "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.1%20-%20Magic%20Route.rpy#L27"
   },
   {
-    "key": "game/4.1 - Magic Route.rpy_L35_0",
+    "key": "game/4.1 - Magic Route.rpy_L27_2",
+    "original": "Go for a Walk",
+    "translation": "外出散步",
+    "stage": 1,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.1%20-%20Magic%20Route.rpy#L27"
+  },
+  {
+    "key": "game/4.1 - Magic Route.rpy_L27_3",
+    "original": "Leave Treehouse",
+    "translation": "离开树屋",
+    "stage": 1,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.1%20-%20Magic%20Route.rpy#L27"
+  },
+  {
+    "key": "game/4.1 - Magic Route.rpy_L40_0",
+    "original": "Glasses",
+    "translation": "眼镜",
+    "stage": 1,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.1%20-%20Magic%20Route.rpy#L40"
+  },
+  {
+    "key": "game/4.1 - Magic Route.rpy_L40_1",
+    "original": "Labcoat",
+    "translation": "实验服",
+    "stage": 1,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.1%20-%20Magic%20Route.rpy#L40"
+  },
+  {
+    "key": "game/4.1 - Magic Route.rpy_L67_0",
     "original": "Double Handjob",
-    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.1%20-%20Magic%20Route.rpy#L35"
+    "translation": "树屋",
+    "stage": 1,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.1%20-%20Magic%20Route.rpy#L67"
   },
   {
-    "key": "game/4.1 - Magic Route.rpy_L35_1",
+    "key": "game/4.1 - Magic Route.rpy_L67_1",
     "original": "Selfcest Threesome",
-    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.1%20-%20Magic%20Route.rpy#L35"
+    "translation": "自我复制3P",
+    "stage": 1,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.1%20-%20Magic%20Route.rpy#L67"
   },
   {
-    "key": "game/4.1 - Magic Route.rpy_L35_2",
+    "key": "game/4.1 - Magic Route.rpy_L67_2",
     "original": "On-Side Sex Leg-Up",
-    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.1%20-%20Magic%20Route.rpy#L35"
+    "translation": "抬腿侧身式",
+    "stage": 1,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.1%20-%20Magic%20Route.rpy#L67"
   },
   {
-    "key": "game/4.1 - Magic Route.rpy_L35_3",
+    "key": "game/4.1 - Magic Route.rpy_L67_3",
     "original": "On-Side Sex Leg-Down",
-    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.1%20-%20Magic%20Route.rpy#L35"
+    "translation": "并腿侧身式",
+    "stage": 1,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.1%20-%20Magic%20Route.rpy#L67"
   },
   {
-    "key": "game/4.1 - Magic Route.rpy_L115_0",
+    "key": "game/4.1 - Magic Route.rpy_L67_4",
+    "original": "In the Bushes",
+    "translation": "在灌木丛中",
+    "stage": 1,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.1%20-%20Magic%20Route.rpy#L67"
+  },
+  {
+    "key": "game/4.1 - Magic Route.rpy_L116_0",
     "original": "Break out the Wine!",
-    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.1%20-%20Magic%20Route.rpy#L115"
+    "translation": "开香槟！",
+    "stage": 1,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.1%20-%20Magic%20Route.rpy#L116"
   },
   {
-    "key": "game/4.1 - Magic Route.rpy_L115_1",
-    "original": "Toggle Collar",
-    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.1%20-%20Magic%20Route.rpy#L115"
-  },
-  {
-    "key": "game/4.1 - Magic Route.rpy_L115_2",
-    "original": "Change how [pen] addresses you",
-    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.1%20-%20Magic%20Route.rpy#L115"
-  },
-  {
-    "key": "game/4.1 - Magic Route.rpy_L121_0",
+    "key": "game/4.1 - Magic Route.rpy_L142_0",
     "original": "Cowgirl",
-    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.1%20-%20Magic%20Route.rpy#L121"
+    "translation": "女上位",
+    "stage": 1,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.1%20-%20Magic%20Route.rpy#L142"
   },
   {
-    "key": "game/4.1 - Magic Route.rpy_L121_1",
+    "key": "game/4.1 - Magic Route.rpy_L142_1",
     "original": "Pet-Play Boobjob",
-    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.1%20-%20Magic%20Route.rpy#L121"
+    "translation": "宠物Play乳交",
+    "stage": 1,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.1%20-%20Magic%20Route.rpy#L142"
   },
   {
-    "key": "game/4.1 - Magic Route.rpy_L121_2",
+    "key": "game/4.1 - Magic Route.rpy_L142_2",
     "original": "Tied-Up From Behind",
-    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.1%20-%20Magic%20Route.rpy#L121"
+    "translation": "绳缚-背后式",
+    "stage": 1,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.1%20-%20Magic%20Route.rpy#L142"
   },
   {
-    "key": "game/4.1 - Magic Route.rpy_L121_3",
+    "key": "game/4.1 - Magic Route.rpy_L142_3",
     "original": "[mox] and [pen] Marathon",
-    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.1%20-%20Magic%20Route.rpy#L121"
+    "translation": "和[mox]与[pen]车轮战",
+    "stage": 1,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.1%20-%20Magic%20Route.rpy#L142"
   },
   {
-    "key": "game/4.1 - Magic Route.rpy_L155_0",
+    "key": "game/4.1 - Magic Route.rpy_L142_4",
+    "original": "Choking Doggystyle",
+    "translation": "窒息性犬下式",
+    "stage": 1,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.1%20-%20Magic%20Route.rpy#L142"
+  },
+  {
+    "key": "game/4.1 - Magic Route.rpy_L170_0",
+    "original": "Toggle Collar",
+    "translation": "切换项圈",
+    "stage": 1,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.1%20-%20Magic%20Route.rpy#L170"
+  },
+  {
+    "key": "game/4.1 - Magic Route.rpy_L170_1",
+    "original": "Change how [pen] addresses you",
+    "translation": "改变[pen]对你的称呼",
+    "stage": 1,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.1%20-%20Magic%20Route.rpy#L170"
+  },
+  {
+    "key": "game/4.1 - Magic Route.rpy_L182_0",
     "original": "You can call me…",
-    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.1%20-%20Magic%20Route.rpy#L155"
+    "translation": "你可以叫我...",
+    "stage": 1,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.1%20-%20Magic%20Route.rpy#L182"
   },
   {
-    "key": "game/4.1 - Magic Route.rpy_L155_1",
+    "key": "game/4.1 - Magic Route.rpy_L182_1",
     "original": "Master",
-    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.1%20-%20Magic%20Route.rpy#L155"
+    "translation": "主人",
+    "stage": 1,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.1%20-%20Magic%20Route.rpy#L182"
   },
   {
-    "key": "game/4.1 - Magic Route.rpy_L155_2",
+    "key": "game/4.1 - Magic Route.rpy_L182_2",
     "original": "[mc]",
-    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.1%20-%20Magic%20Route.rpy#L155"
+    "translation": "[mc]",
+    "stage": 1,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.1%20-%20Magic%20Route.rpy#L182"
   },
   {
-    "key": "game/4.1 - Magic Route.rpy_L173_0",
+    "key": "game/4.1 - Magic Route.rpy_L205_0",
     "original": "Treehouse Visit 1",
-    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.1%20-%20Magic%20Route.rpy#L173"
+    "translation": "树屋 第一次拜访",
+    "stage": 1,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.1%20-%20Magic%20Route.rpy#L205"
   },
   {
-    "key": "game/4.1 - Magic Route.rpy_L173_1",
+    "key": "game/4.1 - Magic Route.rpy_L205_1",
     "original": "Treehouse Visit 2",
-    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.1%20-%20Magic%20Route.rpy#L173"
+    "translation": "树屋 第二次拜访",
+    "stage": 1,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.1%20-%20Magic%20Route.rpy#L205"
   },
   {
-    "key": "game/4.1 - Magic Route.rpy_L173_2",
+    "key": "game/4.1 - Magic Route.rpy_L205_2",
     "original": "Treehouse Visit 3",
-    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.1%20-%20Magic%20Route.rpy#L173"
+    "translation": "树屋 第三次拜访",
+    "stage": 1,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.1%20-%20Magic%20Route.rpy#L205"
   },
   {
-    "key": "game/4.1 - Magic Route.rpy_L221_0",
+    "key": "game/4.1 - Magic Route.rpy_L205_3",
+    "original": "[lil] Secret",
+    "translation": "[lil]的秘密",
+    "stage": 1,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.1%20-%20Magic%20Route.rpy#L205"
+  },
+  {
+    "key": "game/4.1 - Magic Route.rpy_L205_4",
+    "original": "[daw] Secret",
+    "translation": "[daw]的秘密",
+    "stage": 1,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.1%20-%20Magic%20Route.rpy#L205"
+  },
+  {
+    "key": "game/4.1 - Magic Route.rpy_L263_0",
     "original": "I’ve contacted [rub].",
-    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.1%20-%20Magic%20Route.rpy#L221"
+    "translation": "我已经联系了[rub]。",
+    "stage": 1,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.1%20-%20Magic%20Route.rpy#L263"
   },
   {
-    "key": "game/4.1 - Magic Route.rpy_L221_1",
+    "key": "game/4.1 - Magic Route.rpy_L263_1",
     "original": "I’ve contacted [hon]",
-    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.1%20-%20Magic%20Route.rpy#L221"
+    "translation": "我已经联系了[hon]。",
+    "stage": 1,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.1%20-%20Magic%20Route.rpy#L263"
   },
   {
-    "key": "game/4.1 - Magic Route.rpy_L221_2",
+    "key": "game/4.1 - Magic Route.rpy_L263_2",
     "original": "I’ve contacted [but]",
-    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.1%20-%20Magic%20Route.rpy#L221"
+    "translation": "我已经联系了[but]。",
+    "stage": 1,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.1%20-%20Magic%20Route.rpy#L263"
   },
   {
-    "key": "game/4.1 - Magic Route.rpy_L221_3",
+    "key": "game/4.1 - Magic Route.rpy_L263_3",
     "original": "I’ve befriended [rik]",
-    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.1%20-%20Magic%20Route.rpy#L221"
+    "translation": "我已经和[rik]成为朋友。",
+    "stage": 1,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.1%20-%20Magic%20Route.rpy#L263"
   },
   {
-    "key": "game/4.1 - Magic Route.rpy_L221_4",
+    "key": "game/4.1 - Magic Route.rpy_L263_4",
     "original": "I think I’ve found [cre]?",
-    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.1%20-%20Magic%20Route.rpy#L221"
+    "translation": "我觉得我找到了[cre]？",
+    "stage": 1,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.1%20-%20Magic%20Route.rpy#L263"
   },
   {
-    "key": "game/4.1 - Magic Route.rpy_L221_5",
+    "key": "game/4.1 - Magic Route.rpy_L263_5",
     "original": "I haven’t found anyone yet (Continue)",
-    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.1%20-%20Magic%20Route.rpy#L221"
+    "translation": "我还没找到任何人（继续）",
+    "stage": 1,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.1%20-%20Magic%20Route.rpy#L263"
   },
   {
-    "key": "game/4.1 - Magic Route.rpy_L221_6",
+    "key": "game/4.1 - Magic Route.rpy_L263_6",
     "original": "That’s everyone I’ve contacted (Continue)",
-    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.1%20-%20Magic%20Route.rpy#L221"
+    "translation": "这就是所有我已经联系上的人了（继续）",
+    "stage": 1,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.1%20-%20Magic%20Route.rpy#L263"
   },
   {
-    "key": "game/4.1 - Magic Route.rpy_L221_7",
+    "key": "game/4.1 - Magic Route.rpy_L263_7",
     "original": "Everyone is ready! (Continue)",
-    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.1%20-%20Magic%20Route.rpy#L221"
+    "translation": "每个人都准备好了！（继续）",
+    "stage": 1,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.1%20-%20Magic%20Route.rpy#L263"
   },
   {
-    "key": "game/4.1 - Magic Route.rpy_L282_0",
+    "key": "game/4.1 - Magic Route.rpy_L324_0",
     "original": "What do you study?",
-    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.1%20-%20Magic%20Route.rpy#L282"
+    "translation": "你在研究什么？",
+    "stage": 1,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.1%20-%20Magic%20Route.rpy#L324"
   },
   {
-    "key": "game/4.1 - Magic Route.rpy_L282_1",
+    "key": "game/4.1 - Magic Route.rpy_L324_1",
     "original": "What does it mean to be the Queen’s student?",
-    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.1%20-%20Magic%20Route.rpy#L282"
+    "translation": "成为女王的学生意味着什么?",
+    "stage": 1,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.1%20-%20Magic%20Route.rpy#L324"
   },
   {
-    "key": "game/4.1 - Magic Route.rpy_L282_2",
+    "key": "game/4.1 - Magic Route.rpy_L324_2",
     "original": "Do you have any fetishes?",
-    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.1%20-%20Magic%20Route.rpy#L282"
+    "translation": "你有什么性癖吗?",
+    "stage": 1,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.1%20-%20Magic%20Route.rpy#L324"
   },
   {
-    "key": "game/4.1 - Magic Route.rpy_L282_3",
+    "key": "game/4.1 - Magic Route.rpy_L324_3",
     "original": "How often do you masturbate?",
-    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.1%20-%20Magic%20Route.rpy#L282"
+    "translation": "你多久自慰一次?",
+    "stage": 1,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.1%20-%20Magic%20Route.rpy#L324"
   },
   {
-    "key": "game/4.1 - Magic Route.rpy_L282_4",
+    "key": "game/4.1 - Magic Route.rpy_L324_4",
     "original": "What’s your relationship with [pen]?",
-    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.1%20-%20Magic%20Route.rpy#L282"
+    "translation": "你和[pen]是什么关系?",
+    "stage": 1,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.1%20-%20Magic%20Route.rpy#L324"
   },
   {
-    "key": "game/4.1 - Magic Route.rpy_L282_5",
+    "key": "game/4.1 - Magic Route.rpy_L324_5",
     "original": "What’s your relationship with [mox]?",
-    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.1%20-%20Magic%20Route.rpy#L282"
+    "translation": "你和[mox]是什么关系?",
+    "stage": 1,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.1%20-%20Magic%20Route.rpy#L324"
   },
   {
-    "key": "game/4.1 - Magic Route.rpy_L297_0",
+    "key": "game/4.1 - Magic Route.rpy_L339_0",
     "original": "And what is she like?",
-    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.1%20-%20Magic%20Route.rpy#L297"
+    "translation": "然后，她是什么样的人呢?",
+    "stage": 1,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.1%20-%20Magic%20Route.rpy#L339"
   },
   {
-    "key": "game/4.1 - Magic Route.rpy_L297_1",
+    "key": "game/4.1 - Magic Route.rpy_L339_1",
     "original": "I had another question",
-    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.1%20-%20Magic%20Route.rpy#L297"
+    "translation": "我还有一个问题",
+    "stage": 1,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.1%20-%20Magic%20Route.rpy#L339"
   },
   {
-    "key": "game/4.1 - Magic Route.rpy_L355_0",
+    "key": "game/4.1 - Magic Route.rpy_L397_0",
     "original": "That’s the best part!",
-    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.1%20-%20Magic%20Route.rpy#L355"
+    "translation": "这是最棒的部分!",
+    "stage": 1,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.1%20-%20Magic%20Route.rpy#L397"
   },
   {
-    "key": "game/4.1 - Magic Route.rpy_L355_1",
+    "key": "game/4.1 - Magic Route.rpy_L397_1",
     "original": "Perhaps…",
-    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.1%20-%20Magic%20Route.rpy#L355"
+    "translation": "也许…",
+    "stage": 1,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.1%20-%20Magic%20Route.rpy#L397"
   },
   {
-    "key": "game/4.1 - Magic Route.rpy_L355_2",
+    "key": "game/4.1 - Magic Route.rpy_L397_2",
     "original": "I’ll pick and choose.",
-    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.1%20-%20Magic%20Route.rpy#L355"
+    "translation": "我会挑一挑的。",
+    "stage": 1,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.1%20-%20Magic%20Route.rpy#L397"
   },
   {
-    "key": "game/4.1 - Magic Route.rpy_L355_3",
+    "key": "game/4.1 - Magic Route.rpy_L397_3",
     "original": "You’re misunderstanding, we didn’t do anything.",
-    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.1%20-%20Magic%20Route.rpy#L355"
+    "translation": "你误会了，我们什么都没做。",
+    "stage": 1,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.1%20-%20Magic%20Route.rpy#L397"
   },
   {
-    "key": "game/4.1 - Magic Route.rpy_L468_0",
+    "key": "game/4.1 - Magic Route.rpy_L510_0",
     "original": "I’m ready to rock and roll!",
-    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.1%20-%20Magic%20Route.rpy#L468"
+    "translation": "我准备好摇滚了!",
+    "stage": 1,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.1%20-%20Magic%20Route.rpy#L510"
   },
   {
-    "key": "game/4.1 - Magic Route.rpy_L468_1",
+    "key": "game/4.1 - Magic Route.rpy_L510_1",
     "original": "No way, you two need to figure this out between yourselves.",
-    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.1%20-%20Magic%20Route.rpy#L468"
+    "translation": "不行，你们俩得自己想办法。",
+    "stage": 1,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.1%20-%20Magic%20Route.rpy#L510"
   },
   {
-    "key": "game/4.1 - Magic Route.rpy_L735_0",
+    "key": "game/4.1 - Magic Route.rpy_L763_0",
     "original": "Alright, fine.",
-    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.1%20-%20Magic%20Route.rpy#L735"
+    "translation": "好，就这样吧。",
+    "stage": 1,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.1%20-%20Magic%20Route.rpy#L763"
   },
   {
-    "key": "game/4.1 - Magic Route.rpy_L735_1",
+    "key": "game/4.1 - Magic Route.rpy_L763_1",
     "original": "This is too weird, even for me.",
-    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.1%20-%20Magic%20Route.rpy#L735"
+    "translation": "这甚至对我来说都太奇怪了。",
+    "stage": 1,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.1%20-%20Magic%20Route.rpy#L763"
   },
   {
-    "key": "game/4.1 - Magic Route.rpy_L843_0",
+    "key": "game/4.1 - Magic Route.rpy_L871_0",
     "original": "What is your role in this world? Just studying enchantments?",
-    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.1%20-%20Magic%20Route.rpy#L843"
+    "translation": "你在这个世界上的做些什么?只是在学习魔法?",
+    "stage": 1,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.1%20-%20Magic%20Route.rpy#L871"
   },
   {
-    "key": "game/4.1 - Magic Route.rpy_L843_1",
+    "key": "game/4.1 - Magic Route.rpy_L871_1",
     "original": "How did you become friends with [mox]?",
-    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.1%20-%20Magic%20Route.rpy#L843"
+    "translation": "你是怎么和[mox]成为朋友的?",
+    "stage": 1,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.1%20-%20Magic%20Route.rpy#L871"
   },
   {
-    "key": "game/4.1 - Magic Route.rpy_L843_2",
+    "key": "game/4.1 - Magic Route.rpy_L871_2",
     "original": "Why are you so horny?",
-    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.1%20-%20Magic%20Route.rpy#L843"
+    "translation": "你为什么这么饥渴?",
+    "stage": 1,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.1%20-%20Magic%20Route.rpy#L871"
   },
   {
-    "key": "game/4.1 - Magic Route.rpy_L843_3",
+    "key": "game/4.1 - Magic Route.rpy_L871_3",
     "original": "What was your past like? (Continue)",
-    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.1%20-%20Magic%20Route.rpy#L843"
+    "translation": "谈谈你的过去?(继续)",
+    "stage": 1,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.1%20-%20Magic%20Route.rpy#L871"
   },
   {
-    "key": "game/4.1 - Magic Route.rpy_L918_0",
+    "key": "game/4.1 - Magic Route.rpy_L946_0",
     "original": "Place the collar around her neck.",
-    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.1%20-%20Magic%20Route.rpy#L918"
+    "translation": "把项圈套在她的脖子上。",
+    "stage": 1,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.1%20-%20Magic%20Route.rpy#L946"
   },
   {
-    "key": "game/4.1 - Magic Route.rpy_L918_1",
+    "key": "game/4.1 - Magic Route.rpy_L946_1",
     "original": "Not my thing.",
-    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.1%20-%20Magic%20Route.rpy#L918"
+    "translation": "不关我事。",
+    "stage": 1,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.1%20-%20Magic%20Route.rpy#L946"
   },
   {
-    "key": "game/4.1 - Magic Route.rpy_L947_0",
+    "key": "game/4.1 - Magic Route.rpy_L975_0",
     "original": "Serve your master with your breasts, bitch.",
-    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.1%20-%20Magic%20Route.rpy#L947"
+    "translation": "用你的奶子服侍你的主人，小骚货。",
+    "stage": 1,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.1%20-%20Magic%20Route.rpy#L975"
   },
   {
-    "key": "game/4.1 - Magic Route.rpy_L947_1",
+    "key": "game/4.1 - Magic Route.rpy_L975_1",
     "original": "Service my cock with your breasts.",
-    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.1%20-%20Magic%20Route.rpy#L947"
+    "translation": "用你的奶子服侍我的肉棒。",
+    "stage": 1,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.1%20-%20Magic%20Route.rpy#L975"
   },
   {
-    "key": "game/4.1 - Magic Route.rpy_L947_2",
+    "key": "game/4.1 - Magic Route.rpy_L975_2",
     "original": "You’re getting distracted; we were supposed to be looking for a book.",
-    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.1%20-%20Magic%20Route.rpy#L947"
+    "translation": "你会分心的；我们应该去找一本书的。",
+    "stage": 1,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.1%20-%20Magic%20Route.rpy#L975"
   },
   {
-    "key": "game/4.1 - Magic Route.rpy_L955_0",
+    "key": "game/4.1 - Magic Route.rpy_L983_0",
     "original": "{i}Let her continue{/i}",
-    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.1%20-%20Magic%20Route.rpy#L955"
+    "translation": "{i}让她继续{/i}",
+    "stage": 1,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.1%20-%20Magic%20Route.rpy#L983"
   },
   {
-    "key": "game/4.1 - Magic Route.rpy_L955_1",
+    "key": "game/4.1 - Magic Route.rpy_L983_1",
     "original": "{i}Move away{/i}",
-    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.1%20-%20Magic%20Route.rpy#L955"
+    "translation": "{i}离开{/i}",
+    "stage": 1,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.1%20-%20Magic%20Route.rpy#L983"
   },
   {
-    "key": "game/4.1 - Magic Route.rpy_L1062_0",
+    "key": "game/4.1 - Magic Route.rpy_L1083_0",
     "original": "Tie her up! Tier her up! Tie her up!",
-    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.1%20-%20Magic%20Route.rpy#L1062"
+    "translation": "把她捆起来!把她捆起来!把她捆起来!",
+    "stage": 1,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.1%20-%20Magic%20Route.rpy#L1083"
   },
   {
-    "key": "game/4.1 - Magic Route.rpy_L1062_1",
+    "key": "game/4.1 - Magic Route.rpy_L1083_1",
     "original": "Not my kind of thing.",
-    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.1%20-%20Magic%20Route.rpy#L1062"
+    "translation": "不是我的菜。",
+    "stage": 1,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.1%20-%20Magic%20Route.rpy#L1083"
   },
   {
     "key": "game/4.1 - Magic Route.rpy_L1831_0",
     "original": "{i}Continue{/i}",
+    "translation": "{i}继续{/i}",
+    "stage": 1,
     "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.1%20-%20Magic%20Route.rpy#L1831"
   },
   {
     "key": "game/4.1 - Magic Route.rpy_L1831_1",
     "original": "{i}Decline{/i}",
+    "translation": "{i}拒绝{/i}",
+    "stage": 1,
     "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.1%20-%20Magic%20Route.rpy#L1831"
   }
 ]

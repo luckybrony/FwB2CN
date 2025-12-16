@@ -1,257 +1,478 @@
 [
   {
+    "key": "honmsg1_aa814aae",
+    "original": "Howdy stud! Got a little something for you... (Open Attachment)",
+    "translation": "你好啊！小种马！有样小东西要给你... (打开附件)",
+    "stage": 1,
+    "context": "说话人: hon \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/screens.rpy#L89"
+  },
+  {
+    "key": "honmsg1_23cd9a9c",
+    "original": "I admit i {i}may{/i} be sipping on some of that milk to make masturbating feel even better haha!",
+    "translation": "我承认我{i}可能{/ i}喝了一些牛奶来让自慰感觉更爽…哈哈!",
+    "stage": 1,
+    "context": "说话人: hon \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/screens.rpy#L97"
+  },
+  {
+    "key": "honmsg1_5588bc15",
+    "original": "Wish you were here~",
+    "translation": "愿你在此～",
+    "stage": 1,
+    "context": "说话人: hon \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/screens.rpy#L98"
+  },
+  {
+    "key": "honmsg1_e5851297",
+    "original": "{i}She's trying more of that milk? Judging by how wet she is, it's clearly working.{/i}",
+    "translation": "{i}她要再喝点牛奶吗？从她湿成这样来看，牛奶显然起作用了。{/i}",
+    "stage": 1,
+    "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/screens.rpy#L99"
+  },
+  {
     "key": "blomsg1_0ebdc204",
     "original": "hi i sent your letter to anna. and i have something for you too. (Open Attachment)",
-    "context": "说话人: blo \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/screens.rpy#L104"
+    "translation": "你好，我把你的信寄给anna了。我也有东西要给你。(打开附件)",
+    "stage": 1,
+    "context": "说话人: blo \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/screens.rpy#L117"
   },
   {
     "key": "blomsg1_444df4f8",
     "original": "{i}Sheesh! The last person I was expecting to get such a raunchy picture from was [blo]!{/i}",
-    "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/screens.rpy#L116"
+    "translation": "{i} 天哪!我最想不到会从[blo]那里收到这么瑟的照片！{/i}",
+    "stage": 1,
+    "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/screens.rpy#L129"
   },
   {
     "key": "blomsg1_3d9e4b60",
     "original": "{i}I guess she's someone that's more confident over text than in person. This has me excited to see what she has in store the next time we see each other.{/i}",
-    "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/screens.rpy#L117"
+    "translation": "{i}我猜她是那种发短信交流比当面交流更自信的马。这让我对于下次见面时她会为我们准备什么很兴奋。{/i}",
+    "stage": 1,
+    "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/screens.rpy#L130"
   },
   {
     "key": "blomsg1_b4b250a1",
     "original": "{i}Let me just save this picture for later...{/i}",
-    "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/screens.rpy#L118"
+    "translation": "{i}让我把这张照片存下来为以后作准备吧...{/i}",
+    "stage": 1,
+    "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/screens.rpy#L131"
   },
   {
     "key": "melmsg2_f81c04e9",
     "original": "Enjoying a beautiful spa day vacation! It was [rub]'s idea, but she got it from you.",
-    "context": "说话人: mel \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/screens.rpy#L139"
+    "translation": "享受一个美丽的水疗假期！这是[rub]的主意，但她是从你那儿听来的",
+    "stage": 1,
+    "context": "说话人: mel \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/screens.rpy#L150"
   },
   {
     "key": "melmsg2_07a978c4",
     "original": "Thank you... (ur still gross tho) Maybe next time I won't trick you, eh? Hehe.",
-    "context": "说话人: mel \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/screens.rpy#L140"
+    "translation": "谢谢你…(但你还是很恶心)也许下次我不会再骗你了，嗯？呵呵。",
+    "stage": 1,
+    "context": "说话人: mel \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/screens.rpy#L151"
   },
   {
     "key": "melmsg2_74ac199d",
     "original": "Look at her, pushing out her breasts and butt like that. She knows exactly what she's doing, and always has.",
-    "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/screens.rpy#L142"
+    "translation": "看她，像那样把胸脯和屁股暴露出来。她很清楚自己在做什么，而且一直都很清楚。",
+    "stage": 1,
+    "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/screens.rpy#L153"
   },
   {
     "key": "melmsg2_07d164a1",
     "original": "Oh wait, there're some more messages coming in now.",
-    "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/screens.rpy#L143"
+    "translation": "哦，等等，现在又有一些信息发过来了。",
+    "stage": 1,
+    "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/screens.rpy#L154"
   },
   {
     "key": "melmsg2_36463e26",
     "original": "You getting hard looking at my tits, pervy boy?",
-    "context": "说话人: mel \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/screens.rpy#L145"
+    "translation": "你在盯着我的大雷看吗，小变态？",
+    "stage": 1,
+    "context": "说话人: mel \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/screens.rpy#L156"
   },
   {
     "key": "melmsg2_a4c97395",
     "original": "Gonna jerk it to this pic? Imagine what it's like in my pussy? Shame you can only imagine XD",
-    "context": "说话人: mel \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/screens.rpy#L146"
+    "translation": "要对着这张照片射了吗？想象一下在我的阴道里是什么感觉吧，可惜你只能想象XD",
+    "stage": 1,
+    "context": "说话人: mel \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/screens.rpy#L157"
   },
   {
     "key": "melmsg2_b933c8eb",
     "original": "What a loser! Maybe I should just find some hot stud here instead. Who knows how long my virginity might last~?",
-    "context": "说话人: mel \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/screens.rpy#L147"
+    "translation": "真是个屌丝！也许我应该在这里另外找个帅哥。谁知道我的童贞能维持多久~?",
+    "stage": 1,
+    "context": "说话人: mel \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/screens.rpy#L158"
   },
   {
     "key": "melmsg2_070f0371",
     "original": "I quickly type up a reply...",
-    "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/screens.rpy#L148"
+    "translation": "我迅速地打字写出了一个回复...",
+    "stage": 1,
+    "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/screens.rpy#L159"
   },
   {
     "key": "melmsg2_84fd59ab",
     "original": "You're going to find a 'hot stud' at the... beauty spa?",
-    "context": "说话人: mc \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/screens.rpy#L149"
+    "translation": "你会在…美容水疗院找到一个'性感种马'?",
+    "stage": 1,
+    "context": "说话人: mc \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/screens.rpy#L160"
   },
   {
     "key": "melmsg2_b21002cf",
     "original": "... Good point. I'll see you soon >;)",
-    "context": "说话人: mel \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/screens.rpy#L150"
+    "translation": "…想法不错，晚点我再见你>;)",
+    "stage": 1,
+    "context": "说话人: mel \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/screens.rpy#L161"
   },
   {
     "key": "melmsg2_d2c1a3e3",
     "original": "(Click to finish appreciating)",
-    "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/screens.rpy#L152"
+    "translation": "(点击完成欣赏)",
+    "stage": 1,
+    "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/screens.rpy#L163"
   },
   {
     "key": "melmsg1_54dcb516",
     "original": "It was nice talking to someone that feels sane for once. Let's see if I can't win you back from my sister, hm?",
-    "context": "说话人: mel \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/screens.rpy#L164"
+    "translation": "能和一个感觉正常的人说话真好。看看我能不能把你从我姐姐那里赢回来，嗯？",
+    "stage": 1,
+    "context": "说话人: mel \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/screens.rpy#L175"
   },
   {
     "key": "melmsg1_12f75c3d",
     "original": "Also, you're the nerd.",
-    "context": "说话人: mel \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/screens.rpy#L166"
+    "translation": "而且，你是个书呆子。",
+    "stage": 1,
+    "context": "说话人: mel \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/screens.rpy#L177"
   },
   {
     "key": "rubmsg1_9389b6b6",
     "original": "A day away at a spa with [mel]. I {i}really{/i} needed this. I can't remember the last time I had a day to myself.",
-    "context": "说话人: rub \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/screens.rpy#L183"
+    "translation": "和[mel]去做一天水疗。我{i}真的{/ i}需要这个。我都不记得上次自己独处是什么时候了。",
+    "stage": 1,
+    "context": "说话人: rub \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/screens.rpy#L196"
   },
   {
     "key": "rubmsg1_b701f564",
     "original": "[mel] keeps asking about running the brothel with me, but I refuse to talk business until our break is over! xxx",
-    "context": "说话人: rub \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/screens.rpy#L184"
+    "translation": "[mel]一直问我要不要和我一起经营妓院，但我拒绝在我们休息结束前谈生意！xxx",
+    "stage": 1,
+    "context": "说话人: rub \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/screens.rpy#L197"
   },
   {
     "key": "rubmsg1_56fb14aa",
     "original": "Good lord, this lady doesn't send nudes, she sends whole-ass poster-worthy pinups.",
-    "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/screens.rpy#L186"
+    "translation": "天啊，这位女士没有寄裸照，她寄的是完全能上海报的美人画。",
+    "stage": 1,
+    "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/screens.rpy#L199"
   },
   {
     "key": "rubmsg1_d2c1a3e3",
     "original": "(Click to finish appreciating)",
-    "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/screens.rpy#L187"
+    "translation": "（点击以结束鉴赏）",
+    "stage": 1,
+    "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/screens.rpy#L200"
+  },
+  {
+    "key": "rikmsg1_f2c1d3bb",
+    "original": "Hey, if ur going 2 the bar, why don't you come 2 my place first? ;)",
+    "translation": "嘿，如果你要去酒吧，为什么不先去我家呢？;)",
+    "stage": 1,
+    "context": "说话人: rik \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/screens.rpy#L218"
+  },
+  {
+    "key": "rikmsg1_9ab18985",
+    "original": "Nice... I should follow up on this.",
+    "translation": "不赖…我应该跟上去。",
+    "stage": 1,
+    "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/screens.rpy#L220"
+  },
+  {
+    "key": "rikmsg1_4df601ea",
+    "original": "(You can now visit the Bar to begin Bar 4)",
+    "translation": "(你现在可以访问酒吧来开始酒吧4)",
+    "stage": 1,
+    "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/screens.rpy#L222"
+  },
+  {
+    "key": "skymsg1_6115af43",
+    "original": "Me and the girls are going to finally get back together. You should be there!",
+    "translation": "我和姑娘们终于要重归于好了，你应该也去！",
+    "stage": 1,
+    "context": "说话人: sky \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/screens.rpy#L241"
+  },
+  {
+    "key": "skymsg1_735480f0",
+    "original": "Looks like this picture was taken recently. Whoever took it knows [sky]'s good angle!",
+    "translation": "这张照片好像是最近拍的。拍这张照片的人知道从哪个角度拍[sky]最好！",
+    "stage": 1,
+    "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/screens.rpy#L242"
+  },
+  {
+    "key": "skymsg1_867285d2",
+    "original": "(You can now visit the Brothel to begin Brothel 4)",
+    "translation": "(你现在可以访问妓院开始妓院4)",
+    "stage": 1,
+    "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/screens.rpy#L244"
   },
   {
     "key": "butmsg1_d068530e",
     "original": "I want you to cum inside me, over, and over, and over... Don't you dare keep me waiting.",
-    "context": "说话人: but \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/screens.rpy#L205"
+    "translation": "我要你中出我，一遍，一遍，又一遍…别让我等。",
+    "stage": 1,
+    "context": "说话人: but \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/screens.rpy#L261"
   },
   {
     "key": "butmsg1_4161884f",
     "original": "She's absolutely soaked!",
-    "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/screens.rpy#L207"
+    "translation": "她下面完全湿透了！",
+    "stage": 1,
+    "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/screens.rpy#L263"
   },
   {
     "key": "butmsg1_08123baa",
     "original": "Does this mean the potion worked? I guess there's only one way to find out.",
-    "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/screens.rpy#L208"
+    "translation": "这是否意味着药剂起作用了？我想只有一个办法能知道。",
+    "stage": 1,
+    "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/screens.rpy#L264"
   },
   {
     "key": "lilmsg1_c306d93f",
     "original": "[lil] 1.0 can't keep me around forever, since it's a big strain on her magic. But before I'm gone, I wanted to share one last picture to commemorate our life together~",
-    "context": "说话人: lil2 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/screens.rpy#L225"
+    "translation": "[lil] 1.0不能把我永远留在身边，这会对她的魔法造成很大的压力。但在我离开之前，我想分享最后一张照片来纪念我们在一起的生活~",
+    "stage": 1,
+    "context": "说话人: lil2 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/screens.rpy#L281"
   },
   {
     "key": "lilmsg1_de68b5a8",
     "original": "Woah! What a sexy pic!",
-    "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/screens.rpy#L235"
+    "translation": "哇哦!多性感的照片啊！",
+    "stage": 1,
+    "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/screens.rpy#L291"
   },
   {
     "key": "lilmsg1_84fa41ff",
     "original": "Wasn't the language she was using a little dramatic, though?",
-    "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/screens.rpy#L236"
+    "translation": "她用的言辞是不是有点夸张了？",
+    "stage": 1,
+    "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/screens.rpy#L292"
   },
   {
     "key": "lilmsg1m_51c26ff0",
     "original": "(Click to continue)",
-    "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/screens.rpy#L241"
+    "translation": "(点击以继续)",
+    "stage": 1,
+    "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/screens.rpy#L297"
   },
   {
     "key": "lilmsg1m_51c26ff0_1",
     "original": "(Click to continue)",
-    "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/screens.rpy#L246"
+    "translation": "(点击以继续)",
+    "stage": 1,
+    "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/screens.rpy#L302"
   },
   {
     "key": "lilmsg1m_51c26ff0_2",
     "original": "(Click to continue)",
-    "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/screens.rpy#L251"
+    "translation": "(点击以继续)",
+    "stage": 1,
+    "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/screens.rpy#L307"
+  },
+  {
+    "key": "lilmsg2_0e1b57f2",
+    "original": "The onsen at the castle is currently undergoing reconstruction. When it's done, I'd like to formally invite everyone to break it in!",
+    "translation": "城堡里的温泉目前正在重建中。当它完成后，我想正式邀请大家一起享用它！",
+    "stage": 1,
+    "context": "说话人: lil \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/screens.rpy#L319"
+  },
+  {
+    "key": "lilmsg2_b521aec5",
+    "original": "Come to the castle during the evening if you'd like to check it out.",
+    "translation": "如果你想看的话，晚上来城堡吧。",
+    "stage": 1,
+    "context": "说话人: lil \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/screens.rpy#L320"
   },
   {
     "key": "penmsg2_0853d29c",
     "original": "Hey, man! I was wondering if [mox] and yourself would be interested in coming on over and sharing a bottle of wine with me?",
-    "context": "说话人: pen \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/screens.rpy#L271"
+    "translation": "嘿,老兄!我想知道[mox]和你是否有兴趣过来和我一起喝瓶酒？",
+    "stage": 1,
+    "context": "说话人: pen \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/screens.rpy#L337"
   },
   {
     "key": "penmsg2_315bbb35",
     "original": "And if that's not enough to sell you, how about this?",
-    "context": "说话人: pen \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/screens.rpy#L272"
+    "translation": "如果那些还不足以说服你，那这个怎么样？",
+    "stage": 1,
+    "context": "说话人: pen \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/screens.rpy#L338"
   },
   {
     "key": "penmsg2_fba4da8c",
     "original": "Oohhh, niiice! Another picture for the collection. {i}Saves{/i}",
-    "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/screens.rpy#L279"
+    "translation": "哦哦哦哦, 奈斯 !另一张收藏的照片。{i}保存{/i}",
+    "stage": 1,
+    "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/screens.rpy#L345"
   },
   {
     "key": "penmsg2_da6c9e3c",
     "original": "Hmm... Are pictures like this the equivalent of dick pics from my first universe? It's not like I can complain, I love mare pussy.",
-    "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/screens.rpy#L280"
+    "translation": "额…像这样的照片相当于我去的第一个平行宇宙的大肉棒照片吗？我没什么好抱怨的，我喜欢雌驹的小穴。",
+    "stage": 1,
+    "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/screens.rpy#L346"
   },
   {
     "key": "penmsg2_df9a99e3",
     "original": "I'll definitely take [pen] up on her offer if it means I can slide in there. I should visit when I get the chance.",
-    "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/screens.rpy#L281"
+    "translation": "如果我能溜进去，我肯定会接受 [pen] 的提议。有机会我应该去看看。",
+    "stage": 1,
+    "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/screens.rpy#L347"
   },
   {
     "key": "penmsg2_f952b404",
     "original": "(Click to finish admiring)",
-    "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/screens.rpy#L282"
+    "translation": "(点击完成欣赏)",
+    "stage": 1,
+    "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/screens.rpy#L348"
   },
   {
     "key": "penmsg1_d45d902d",
     "original": "Good evening! I was wondering if you wanted to give that threesome with [mox] and I another try? I'm free tonight, let me know if you're interested.",
-    "context": "说话人: pen \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/screens.rpy#L294"
+    "translation": "晚上好！我想知道你是否愿意再试一次和我与[mox]3P？我今晚有空，如果你感兴趣就告诉我。",
+    "stage": 1,
+    "context": "说话人: pen \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/screens.rpy#L360"
   },
   {
     "key": "penmsg1_7c88dccc",
     "original": "I'm too busy right now. I should wait until I have some free time. (You can only accept [pen]'s proposition from the world map.)",
-    "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/screens.rpy#L297"
+    "translation": "我现在太忙了。我应该等到有空闲时间再说。(你只能从世界地图上接受[pen]的求欢。)",
+    "stage": 1,
+    "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/screens.rpy#L363"
   },
   {
     "key": "penmsg1_8f5849cb",
     "original": "I send [pen] a reply saying yes, and within the hour, [mox] and I are in the treehouse with her.",
-    "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/screens.rpy#L300"
+    "translation": "我给了[pen]一个肯定的答复，不到一个小时，[mox]与我就和她在树屋里了。",
+    "stage": 1,
+    "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/screens.rpy#L366"
   },
   {
     "key": "penmsg1_fc0e3335",
     "original": "I'm so glad you could join us! Allow me to show you to my room.",
-    "context": "说话人: pen \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/screens.rpy#L307"
+    "translation": "我可太高兴你加入我们了！先带你看一下我的房间吧。",
+    "stage": 1,
+    "context": "说话人: pen \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/screens.rpy#L373"
   },
   {
     "key": "penmsg1_06470d6e",
     "original": "Some cleaning up later, and we're back home.",
-    "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/screens.rpy#L311"
+    "translation": "清理一下，我们就回家了。",
+    "stage": 1,
+    "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/screens.rpy#L377"
   },
   {
     "key": "moxmsg2_debd3c1d",
     "original": "Sorry to leave you alone in bed! I trust you not to trash the apartment while im gone ;) \\nIll be back later tonight good luck on your big quest! xx",
-    "context": "说话人: mox \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/screens.rpy#L330"
+    "translation": "抱歉把你一个人留在床上!我相信你不会在我走的时候把公寓弄得一团糟 ;)\\n我今晚晚些时候回来，祝你的大冒险好运!xx",
+    "stage": 1,
+    "context": "说话人: mox \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/screens.rpy#L394"
   },
   {
     "key": "moxmsg1_0f18c8c1",
     "original": "I popped ur msg cherry! :) \\nMaybe u can pop mine later too? xd",
-    "context": "说话人: mox \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/screens.rpy#L340"
+    "translation": "我赞了你帖子！:）\\n也许你也可以晚点给我的点赞？xd",
+    "stage": 1,
+    "context": "说话人: mox \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/screens.rpy#L404"
+  },
+  {
+    "key": "socialmenu_882768d1",
+    "original": "Never thought I'd find someone special. Life is full of surprises, eh?",
+    "translation": "我从没想到我会找到这么个特别的家伙，生活总是充满惊喜，不是吗？",
+    "stage": 1,
+    "context": "说话人: mel \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/screens.rpy#L1851"
+  },
+  {
+    "key": "socialmenu_9abda27a",
+    "original": "I've been more productive than ever lately! Waking up and sleeping at consistent times, getting more exercise, eating healthier. I don't know what came over me, but I hope this can be a new norm for me!",
+    "translation": "最近我比以往任何时候都更有活力！按时起床和睡觉，多做运动，吃得更健康。我不知道是什么促使了我的变化，但我希望这能成为我的新常态！",
+    "stage": 1,
+    "context": "说话人: lil \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/screens.rpy#L1853"
+  },
+  {
+    "key": "socialmenu_5ad3b2a1",
+    "original": "I'm selling potions for all needs, from boundless energy to unbreakable love. Write a message to this account if you're interested in a commission.",
+    "translation": "我出售各种药剂，效果从无限精力到坚不可摧的爱情都有。如果你有兴趣成为我的代理，请给这个账户留言。",
+    "stage": 1,
+    "context": "说话人: but \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/screens.rpy#L1855"
+  },
+  {
+    "key": "socialmenu_57115aac",
+    "original": "Oooh, ohhh! I checked your portfolio, and finally, a serious alchemist in town! I have so many ideas!",
+    "translation": "哦，哦！我看了你的作品集，终于找到一位专业的炼金术士了！我有好多想法呢！",
+    "stage": 1,
+    "context": "说话人: lil \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/screens.rpy#L1856"
+  },
+  {
+    "key": "socialmenu_44af330b",
+    "original": "[bla]'s bakery is now open once again! Come to cliffside for all your baked delights!",
+    "translation": "[bla]的烘焙坊现在又重新开张了！快来悬崖边品尝你的烘焙美食吧！",
+    "stage": 1,
+    "context": "说话人: bla \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/screens.rpy#L1858"
   },
   {
     "key": "socialmenu_126c3c40",
     "original": "RUBY's is now looking to hire male talent! You can send me your resumes directly by messaging this account.",
-    "context": "说话人: rub \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/screens.rpy#L922"
+    "translation": "RUBY的俱乐部现在正在寻找男性人才!你可以通过这个账号直接把简历发给我。",
+    "stage": 1,
+    "context": "说话人: rub \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/screens.rpy#L1860"
   },
   {
     "key": "socialmenu_d37f4ca7",
     "original": "{i}Rather than messaging [rub], I should visit her instead.{/i}",
-    "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/screens.rpy#L923"
+    "translation": "{i} 我应该去拜访[rub]，而不是给她发短信。{/i}",
+    "stage": 1,
+    "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/screens.rpy#L1861"
   },
   {
     "key": "socialmenu_6c04ea20",
     "original": "Thank you to everyone that saw my biggest show ever at the Grand Theatre!",
-    "context": "说话人: mox \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/screens.rpy#L926"
+    "translation": "感谢所有在大剧院看过我最盛大演出的人！",
+    "stage": 1,
+    "context": "说话人: mox \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/screens.rpy#L1863"
   },
   {
     "key": "socialmenu_ce5a3141",
     "original": "{i}There are hundreds of comments. Wow, it looks like [mox] is doing extremely well for herself.{/i}",
-    "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/screens.rpy#L927"
+    "translation": "{i} 有数百条评论。哇，看起来[mox]做得非常好。{/i}",
+    "stage": 1,
+    "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/screens.rpy#L1864"
   },
   {
     "key": "socialmenu_725b23dc",
     "original": "Anyone else miss those cherry flavoured ice cream pots they used to sell at MacDairies?",
-    "context": "说话人: pen \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/screens.rpy#L930"
+    "translation": "还有人怀念以前在麦当当卖的樱桃味冰淇淋吗？",
+    "stage": 1,
+    "context": "说话人: pen \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/screens.rpy#L1866"
   },
   {
     "key": "socialmenu_1e77b9ac",
     "original": "Oh yeah! Those were the bomb!",
-    "context": "说话人: mox \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/screens.rpy#L931"
+    "translation": "哦耶！那是真的屌！",
+    "stage": 1,
+    "context": "说话人: mox \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/screens.rpy#L1867"
   },
   {
     "key": "socialmenu_e141437e",
     "original": "Preach, sister.",
-    "context": "说话人: pen \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/screens.rpy#L932"
+    "translation": "说教，姐妹。",
+    "stage": 1,
+    "context": "说话人: pen \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/screens.rpy#L1868"
   },
   {
     "key": "socialmenu_7bb420a4",
     "original": "{i}I could go for some ice cream right now.{/i}",
-    "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/screens.rpy#L933"
+    "translation": "{i} 我现在就想去吃冰淇淋。{/i}",
+    "stage": 1,
+    "context": "说话人: 无 \n代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/screens.rpy#L1869"
   }
 ]

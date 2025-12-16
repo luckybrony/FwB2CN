@@ -1,157 +1,513 @@
 [
   {
     "key": "game/4.3 - Farm Route.rpy_L12_0",
-    "original": "Visit [hon]",
+    "original": "Check up on the Anna situation (Farm 2)",
+    "translation": "检查一下Anna的情况（农场 2）",
+    "stage": 3,
     "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.3%20-%20Farm%20Route.rpy#L12"
   },
   {
     "key": "game/4.3 - Farm Route.rpy_L12_1",
-    "original": "Visit [blo]",
+    "original": "Sounds like someone's in the barn (Farm 3)",
+    "translation": "听起来有谁在谷仓里（农场3）",
+    "stage": 3,
     "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.3%20-%20Farm%20Route.rpy#L12"
   },
   {
-    "key": "game/4.3 - Farm Route.rpy_L44_0",
-    "original": "Yeah, I got your message (In Development)",
-    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.3%20-%20Farm%20Route.rpy#L44"
+    "key": "game/4.3 - Farm Route.rpy_L12_2",
+    "original": "Let's work hard today! (Farm 4)",
+    "translation": "今天咱们好好干吧！(农场 4)",
+    "stage": 3,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.3%20-%20Farm%20Route.rpy#L12"
   },
   {
-    "key": "game/4.3 - Farm Route.rpy_L67_0",
+    "key": "game/4.3 - Farm Route.rpy_L12_3",
+    "original": "Visit [hon]",
+    "translation": "拜访[hon]",
+    "stage": 3,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.3%20-%20Farm%20Route.rpy#L12"
+  },
+  {
+    "key": "game/4.3 - Farm Route.rpy_L12_4",
+    "original": "Visit [blo]",
+    "translation": "拜访[blo]",
+    "stage": 3,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.3%20-%20Farm%20Route.rpy#L12"
+  },
+  {
+    "key": "game/4.3 - Farm Route.rpy_L26_0",
+    "original": "Spend time with [hon]",
+    "translation": "与[hon]共度时光",
+    "stage": 3,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.3%20-%20Farm%20Route.rpy#L26"
+  },
+  {
+    "key": "game/4.3 - Farm Route.rpy_L26_1",
+    "original": "Outfits",
+    "translation": "服装",
+    "stage": 3,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.3%20-%20Farm%20Route.rpy#L26"
+  },
+  {
+    "key": "game/4.3 - Farm Route.rpy_L26_2",
+    "original": "Leave Farm",
+    "translation": "离开农场",
+    "stage": 3,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.3%20-%20Farm%20Route.rpy#L26"
+  },
+  {
+    "key": "game/4.3 - Farm Route.rpy_L47_0",
+    "original": "Milk-Drunk Doggystyle",
+    "translation": "奶醉后入式",
+    "stage": 3,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.3%20-%20Farm%20Route.rpy#L47"
+  },
+  {
+    "key": "game/4.3 - Farm Route.rpy_L47_1",
+    "original": "Milk-Drunk Cowgirl",
+    "translation": "奶醉女上位",
+    "stage": 3,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.3%20-%20Farm%20Route.rpy#L47"
+  },
+  {
+    "key": "game/4.3 - Farm Route.rpy_L47_2",
+    "original": "Barn Milking (Locked Due to Choice in Farm 3)",
+    "translation": "谷仓挤奶（因农场3选择已锁定）",
+    "stage": 3,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.3%20-%20Farm%20Route.rpy#L47"
+  },
+  {
+    "key": "game/4.3 - Farm Route.rpy_L47_3",
+    "original": "Barn Milking",
+    "translation": "谷仓挤奶",
+    "stage": 3,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.3%20-%20Farm%20Route.rpy#L47"
+  },
+  {
+    "key": "game/4.3 - Farm Route.rpy_L47_4",
+    "original": "Barn Threesome",
+    "translation": "谷仓3P",
+    "stage": 3,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.3%20-%20Farm%20Route.rpy#L47"
+  },
+  {
+    "key": "game/4.3 - Farm Route.rpy_L47_5",
+    "original": "[but] Threesome",
+    "translation": "与 [but] 3P",
+    "stage": 3,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.3%20-%20Farm%20Route.rpy#L47"
+  },
+  {
+    "key": "game/4.3 - Farm Route.rpy_L47_6",
+    "original": "[hon] Lasso'd Cowgirl",
+    "translation": "[hon]套索女上位",
+    "stage": 3,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.3%20-%20Farm%20Route.rpy#L47"
+  },
+  {
+    "key": "game/4.3 - Farm Route.rpy_L77_0",
+    "original": "Breast Adjustment",
+    "translation": "胸部调整",
+    "stage": 3,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.3%20-%20Farm%20Route.rpy#L77"
+  },
+  {
+    "key": "game/4.3 - Farm Route.rpy_L77_1",
+    "original": "Gi",
+    "translation": "道服",
+    "stage": 3,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.3%20-%20Farm%20Route.rpy#L77"
+  },
+  {
+    "key": "game/4.3 - Farm Route.rpy_L119_0",
+    "original": "Risky Blowjob",
+    "translation": "危险的口交",
+    "stage": 3,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.3%20-%20Farm%20Route.rpy#L119"
+  },
+  {
+    "key": "game/4.3 - Farm Route.rpy_L119_1",
+    "original": "Risky Doggystyle",
+    "translation": "危险后入式",
+    "stage": 3,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.3%20-%20Farm%20Route.rpy#L119"
+  },
+  {
+    "key": "game/4.3 - Farm Route.rpy_L119_2",
+    "original": "[sky] Threesome",
+    "translation": "与 [sky] 3P",
+    "stage": 3,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.3%20-%20Farm%20Route.rpy#L119"
+  },
+  {
+    "key": "game/4.3 - Farm Route.rpy_L146_0",
     "original": "Farm Visit 1",
-    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.3%20-%20Farm%20Route.rpy#L67"
+    "translation": "农场 第一次拜访",
+    "stage": 3,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.3%20-%20Farm%20Route.rpy#L146"
   },
   {
-    "key": "game/4.3 - Farm Route.rpy_L168_0",
+    "key": "game/4.3 - Farm Route.rpy_L146_1",
+    "original": "Farm Visit 2",
+    "translation": "农场 第二次拜访",
+    "stage": 3,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.3%20-%20Farm%20Route.rpy#L146"
+  },
+  {
+    "key": "game/4.3 - Farm Route.rpy_L146_2",
+    "original": "Farm Visit 3",
+    "translation": "农场 第三次拜访",
+    "stage": 3,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.3%20-%20Farm%20Route.rpy#L146"
+  },
+  {
+    "key": "game/4.3 - Farm Route.rpy_L146_3",
+    "original": "Farm Visit 4",
+    "translation": "农场 第四次拜访",
+    "stage": 3,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.3%20-%20Farm%20Route.rpy#L146"
+  },
+  {
+    "key": "game/4.3 - Farm Route.rpy_L146_4",
+    "original": "[hon] Secret",
+    "translation": "[hon]的秘密",
+    "stage": 3,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.3%20-%20Farm%20Route.rpy#L146"
+  },
+  {
+    "key": "game/4.3 - Farm Route.rpy_L270_0",
     "original": "I enjoyed the view!",
-    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.3%20-%20Farm%20Route.rpy#L168"
+    "translation": "你下面绝美。",
+    "stage": 3,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.3%20-%20Farm%20Route.rpy#L270"
   },
   {
-    "key": "game/4.3 - Farm Route.rpy_L168_1",
+    "key": "game/4.3 - Farm Route.rpy_L270_1",
     "original": "That's quite alright.",
-    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.3%20-%20Farm%20Route.rpy#L168"
+    "translation": "问题不大。",
+    "stage": 3,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.3%20-%20Farm%20Route.rpy#L270"
   },
   {
-    "key": "game/4.3 - Farm Route.rpy_L168_2",
+    "key": "game/4.3 - Farm Route.rpy_L270_2",
     "original": "Next time, I'll flash you so we'll be even.",
-    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.3%20-%20Farm%20Route.rpy#L168"
+    "translation": "下次，我会给你看我的，这样我们就扯平了。",
+    "stage": 3,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.3%20-%20Farm%20Route.rpy#L270"
   },
   {
-    "key": "game/4.3 - Farm Route.rpy_L189_0",
+    "key": "game/4.3 - Farm Route.rpy_L291_0",
     "original": "Kicking it? But your butt was in such good shape!",
-    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.3%20-%20Farm%20Route.rpy#L189"
+    "translation": "踢你屁股？但你屁屁不挺好的嘛！",
+    "stage": 3,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.3%20-%20Farm%20Route.rpy#L291"
   },
   {
-    "key": "game/4.3 - Farm Route.rpy_L189_1",
+    "key": "game/4.3 - Farm Route.rpy_L291_1",
     "original": "Does it need a massage?",
-    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.3%20-%20Farm%20Route.rpy#L189"
+    "translation": "需要我按摩一下吗？",
+    "stage": 3,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.3%20-%20Farm%20Route.rpy#L291"
   },
   {
-    "key": "game/4.3 - Farm Route.rpy_L189_2",
+    "key": "game/4.3 - Farm Route.rpy_L291_2",
     "original": "Awh, bless you!",
-    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.3%20-%20Farm%20Route.rpy#L189"
+    "translation": "希望你没事。",
+    "stage": 3,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.3%20-%20Farm%20Route.rpy#L291"
   },
   {
-    "key": "game/4.3 - Farm Route.rpy_L206_0",
+    "key": "game/4.3 - Farm Route.rpy_L308_0",
     "original": "It was an amazing view!",
-    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.3%20-%20Farm%20Route.rpy#L206"
+    "translation": "毕竟它真的很性感。",
+    "stage": 3,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.3%20-%20Farm%20Route.rpy#L308"
   },
   {
-    "key": "game/4.3 - Farm Route.rpy_L206_1",
+    "key": "game/4.3 - Farm Route.rpy_L308_1",
     "original": "Relax, it's fine!",
-    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.3%20-%20Farm%20Route.rpy#L206"
+    "translation": "放松，没关系！",
+    "stage": 3,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.3%20-%20Farm%20Route.rpy#L308"
   },
   {
-    "key": "game/4.3 - Farm Route.rpy_L225_0",
+    "key": "game/4.3 - Farm Route.rpy_L327_0",
     "original": "I love your body type.",
-    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.3%20-%20Farm%20Route.rpy#L225"
+    "translation": "我喜欢你的身材。",
+    "stage": 3,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.3%20-%20Farm%20Route.rpy#L327"
   },
   {
-    "key": "game/4.3 - Farm Route.rpy_L225_1",
+    "key": "game/4.3 - Farm Route.rpy_L327_1",
     "original": "Big and voluptuous is better.",
-    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.3%20-%20Farm%20Route.rpy#L225"
+    "translation": "当然越大越好。",
+    "stage": 3,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.3%20-%20Farm%20Route.rpy#L327"
   },
   {
-    "key": "game/4.3 - Farm Route.rpy_L225_2",
+    "key": "game/4.3 - Farm Route.rpy_L327_2",
     "original": "All bodies are beautiful.",
-    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.3%20-%20Farm%20Route.rpy#L225"
+    "translation": "都各有千秋。",
+    "stage": 3,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.3%20-%20Farm%20Route.rpy#L327"
   },
   {
-    "key": "game/4.3 - Farm Route.rpy_L225_3",
+    "key": "game/4.3 - Farm Route.rpy_L327_3",
     "original": "In the wise words of [mel], who needs tits? You have a great ass!",
-    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.3%20-%20Farm%20Route.rpy#L225"
+    "translation": "用[mel]的话来说，谁需要奶子？你的屁股真棒！",
+    "stage": 3,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.3%20-%20Farm%20Route.rpy#L327"
   },
   {
-    "key": "game/4.3 - Farm Route.rpy_L247_0",
+    "key": "game/4.3 - Farm Route.rpy_L349_0",
     "original": "May I see your butt again?",
-    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.3%20-%20Farm%20Route.rpy#L247"
+    "translation": "我可以再看看你的屁股吗?",
+    "stage": 1,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.3%20-%20Farm%20Route.rpy#L349"
   },
   {
-    "key": "game/4.3 - Farm Route.rpy_L247_1",
+    "key": "game/4.3 - Farm Route.rpy_L349_1",
     "original": "Where can I find [hon]?",
-    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.3%20-%20Farm%20Route.rpy#L247"
+    "translation": "我得去哪儿找[hon]？",
+    "stage": 1,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.3%20-%20Farm%20Route.rpy#L349"
   },
   {
-    "key": "game/4.3 - Farm Route.rpy_L434_0",
+    "key": "game/4.3 - Farm Route.rpy_L536_0",
     "original": "You're my type too.",
-    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.3%20-%20Farm%20Route.rpy#L434"
+    "translation": "你也是我喜欢的类型。",
+    "stage": 1,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.3%20-%20Farm%20Route.rpy#L536"
   },
   {
-    "key": "game/4.3 - Farm Route.rpy_L434_1",
+    "key": "game/4.3 - Farm Route.rpy_L536_1",
     "original": "Are you trying to seduce me?",
-    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.3%20-%20Farm%20Route.rpy#L434"
+    "translation": "你在试图勾引我吗？",
+    "stage": 1,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.3%20-%20Farm%20Route.rpy#L536"
   },
   {
-    "key": "game/4.3 - Farm Route.rpy_L434_2",
+    "key": "game/4.3 - Farm Route.rpy_L536_2",
     "original": "Sorry, I already came all over your sister's ass.",
-    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.3%20-%20Farm%20Route.rpy#L434"
+    "translation": "抱歉，我已经全射在你妹妹的屁股上了。",
+    "stage": 1,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.3%20-%20Farm%20Route.rpy#L536"
   },
   {
-    "key": "game/4.3 - Farm Route.rpy_L434_3",
+    "key": "game/4.3 - Farm Route.rpy_L536_3",
     "original": "I guess I could work sometimes.",
-    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.3%20-%20Farm%20Route.rpy#L434"
+    "translation": "我想我有时可以来工作。",
+    "stage": 1,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.3%20-%20Farm%20Route.rpy#L536"
   },
   {
-    "key": "game/4.3 - Farm Route.rpy_L434_4",
+    "key": "game/4.3 - Farm Route.rpy_L536_4",
     "original": "Nah, I'm seriously busy.",
-    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.3%20-%20Farm%20Route.rpy#L434"
+    "translation": "不，我真的很忙。",
+    "stage": 1,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.3%20-%20Farm%20Route.rpy#L536"
   },
   {
-    "key": "game/4.3 - Farm Route.rpy_L472_0",
+    "key": "game/4.3 - Farm Route.rpy_L574_0",
     "original": "Employee benefits?",
-    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.3%20-%20Farm%20Route.rpy#L472"
+    "translation": "员工福利？",
+    "stage": 1,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.3%20-%20Farm%20Route.rpy#L574"
   },
   {
-    "key": "game/4.3 - Farm Route.rpy_L472_1",
+    "key": "game/4.3 - Farm Route.rpy_L574_1",
     "original": "{i}Kiss her{/i}",
-    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.3%20-%20Farm%20Route.rpy#L472"
+    "translation": "{i} 吻她{/i}",
+    "stage": 1,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.3%20-%20Farm%20Route.rpy#L574"
   },
   {
-    "key": "game/4.3 - Farm Route.rpy_L472_2",
+    "key": "game/4.3 - Farm Route.rpy_L574_2",
     "original": "Are you drunk?",
-    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.3%20-%20Farm%20Route.rpy#L472"
+    "translation": "你喝多了吗？",
+    "stage": 1,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.3%20-%20Farm%20Route.rpy#L574"
   },
   {
-    "key": "game/4.3 - Farm Route.rpy_L509_0",
+    "key": "game/4.3 - Farm Route.rpy_L611_0",
     "original": "{i}Squeeze her Butt!{/i}",
-    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.3%20-%20Farm%20Route.rpy#L509"
+    "translation": "{i} 捏她的屁股！{/i}",
+    "stage": 1,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.3%20-%20Farm%20Route.rpy#L611"
   },
   {
-    "key": "game/4.3 - Farm Route.rpy_L509_1",
+    "key": "game/4.3 - Farm Route.rpy_L611_1",
     "original": "{i}Turn her Down{/i}",
-    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.3%20-%20Farm%20Route.rpy#L509"
+    "translation": "{i} 拒绝她{/i}",
+    "stage": 1,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.3%20-%20Farm%20Route.rpy#L611"
   },
   {
-    "key": "game/4.3 - Farm Route.rpy_L612_0",
+    "key": "game/4.3 - Farm Route.rpy_L709_0",
     "original": "Yes please!",
-    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.3%20-%20Farm%20Route.rpy#L612"
+    "translation": "好啊~",
+    "stage": 1,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.3%20-%20Farm%20Route.rpy#L709"
   },
   {
-    "key": "game/4.3 - Farm Route.rpy_L612_1",
+    "key": "game/4.3 - Farm Route.rpy_L709_1",
     "original": "Damn, you're soaking wet!",
-    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.3%20-%20Farm%20Route.rpy#L612"
+    "translation": "天呐，你已经湿透了！",
+    "stage": 1,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.3%20-%20Farm%20Route.rpy#L709"
   },
   {
-    "key": "game/4.3 - Farm Route.rpy_L612_2",
+    "key": "game/4.3 - Farm Route.rpy_L709_2",
     "original": "Why me?",
-    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.3%20-%20Farm%20Route.rpy#L612"
+    "translation": "为什么选我？",
+    "stage": 1,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.3%20-%20Farm%20Route.rpy#L709"
+  },
+  {
+    "key": "game/4.3 - Farm Route.rpy_L1173_0",
+    "original": "I’m up for the challenge!",
+    "translation": "我接受挑战！",
+    "stage": 1,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.3%20-%20Farm%20Route.rpy#L1173"
+  },
+  {
+    "key": "game/4.3 - Farm Route.rpy_L1173_1",
+    "original": "{i}I’m in danger{/i}",
+    "translation": "{i} 我处境危险 {/i}",
+    "stage": 1,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.3%20-%20Farm%20Route.rpy#L1173"
+  },
+  {
+    "key": "game/4.3 - Farm Route.rpy_L1214_0",
+    "original": "{i}Agree – Drink the milk and I’ll take care of you{/i}",
+    "translation": "{i} 同意 – 喝下牛奶，我会照顾你 {/i}",
+    "stage": 1,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.3%20-%20Farm%20Route.rpy#L1214"
+  },
+  {
+    "key": "game/4.3 - Farm Route.rpy_L1214_1",
+    "original": "{i}Agree to do something, without milk{/i}",
+    "translation": "{i} 同意做某事，不喝牛奶 {/i}",
+    "stage": 1,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.3%20-%20Farm%20Route.rpy#L1214"
+  },
+  {
+    "key": "game/4.3 - Farm Route.rpy_L1428_0",
+    "original": "{i}Let her lead you upstairs{/i}",
+    "translation": "{i} 让她带你上楼 {/i}",
+    "stage": 1,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.3%20-%20Farm%20Route.rpy#L1428"
+  },
+  {
+    "key": "game/4.3 - Farm Route.rpy_L1499_0",
+    "original": "Minotaur",
+    "translation": "牛头怪",
+    "stage": 1,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.3%20-%20Farm%20Route.rpy#L1499"
+  },
+  {
+    "key": "game/4.3 - Farm Route.rpy_L1499_1",
+    "original": "Dragon",
+    "translation": "龙",
+    "stage": 1,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.3%20-%20Farm%20Route.rpy#L1499"
+  },
+  {
+    "key": "game/4.3 - Farm Route.rpy_L1499_2",
+    "original": "Wolf",
+    "translation": "狼",
+    "stage": 1,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.3%20-%20Farm%20Route.rpy#L1499"
+  },
+  {
+    "key": "game/4.3 - Farm Route.rpy_L1499_3",
+    "original": "Stallion",
+    "translation": "种马",
+    "stage": 1,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.3%20-%20Farm%20Route.rpy#L1499"
+  },
+  {
+    "key": "game/4.3 - Farm Route.rpy_L1499_4",
+    "original": "Big Cat (Lion/Tiger)",
+    "translation": "大型猫科动物（狮子/老虎）",
+    "stage": 1,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.3%20-%20Farm%20Route.rpy#L1499"
+  },
+  {
+    "key": "game/4.3 - Farm Route.rpy_L1499_5",
+    "original": "Fox",
+    "translation": "狐狸",
+    "stage": 1,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.3%20-%20Farm%20Route.rpy#L1499"
+  },
+  {
+    "key": "game/4.3 - Farm Route.rpy_L1499_6",
+    "original": "Something else!",
+    "translation": "其他选项！",
+    "stage": 1,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.3%20-%20Farm%20Route.rpy#L1499"
+  },
+  {
+    "key": "game/4.3 - Farm Route.rpy_L1665_0",
+    "original": "Go for it!",
+    "translation": "放手去做！",
+    "stage": 1,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.3%20-%20Farm%20Route.rpy#L1665"
+  },
+  {
+    "key": "game/4.3 - Farm Route.rpy_L1665_1",
+    "original": "I don’t think that’s a good idea.",
+    "translation": "我觉得这不是个好主意。",
+    "stage": 1,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.3%20-%20Farm%20Route.rpy#L1665"
+  },
+  {
+    "key": "game/4.3 - Farm Route.rpy_L1757_0",
+    "original": "{i}Move in behind them.{/i}",
+    "translation": "{i} 绕到她们身后。{/i}",
+    "stage": 1,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.3%20-%20Farm%20Route.rpy#L1757"
+  },
+  {
+    "key": "game/4.3 - Farm Route.rpy_L1757_1",
+    "original": "Thanks, but no thanks, girls.",
+    "translation": "谢了姑娘们，但还是不用了。",
+    "stage": 1,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.3%20-%20Farm%20Route.rpy#L1757"
+  },
+  {
+    "key": "game/4.3 - Farm Route.rpy_L2223_0",
+    "original": "Join In",
+    "translation": "加入",
+    "stage": 1,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.3%20-%20Farm%20Route.rpy#L2223"
+  },
+  {
+    "key": "game/4.3 - Farm Route.rpy_L2223_1",
+    "original": "I'm Happy Watching",
+    "translation": "我旁观就好",
+    "stage": 1,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.3%20-%20Farm%20Route.rpy#L2223"
+  },
+  {
+    "key": "game/4.3 - Farm Route.rpy_L2291_0",
+    "original": "Shower them in cum",
+    "translation": "让她们沐浴在精液中",
+    "stage": 1,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.3%20-%20Farm%20Route.rpy#L2291"
+  },
+  {
+    "key": "game/4.3 - Farm Route.rpy_L2291_1",
+    "original": "Finish on my own",
+    "translation": "自行解决",
+    "stage": 1,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.3%20-%20Farm%20Route.rpy#L2291"
+  },
+  {
+    "key": "game/4.3 - Farm Route.rpy_L2291_2",
+    "original": "Do nothing at all",
+    "translation": "什么都不做",
+    "stage": 1,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.3%20-%20Farm%20Route.rpy#L2291"
   }
 ]

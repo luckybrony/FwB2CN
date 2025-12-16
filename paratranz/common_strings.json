@@ -2,1486 +2,2080 @@
   {
     "key": "renpy/common/00accessibility.rpy_L28_0",
     "original": "Self-voicing disabled.",
+    "translation": "已禁用自动朗读功能。",
+    "stage": 1,
     "context": "代码: https://github.com/renpy/renpy/blob/master/renpy/common/00accessibility.rpy#L28"
   },
   {
     "key": "renpy/common/00accessibility.rpy_L29_0",
     "original": "Clipboard voicing enabled. ",
+    "translation": "剪贴板朗读已启用。",
+    "stage": 1,
     "context": "代码: https://github.com/renpy/renpy/blob/master/renpy/common/00accessibility.rpy#L29"
   },
   {
     "key": "renpy/common/00accessibility.rpy_L30_0",
     "original": "Self-voicing enabled. ",
+    "translation": "自动朗读功能启用。",
+    "stage": 1,
     "context": "代码: https://github.com/renpy/renpy/blob/master/renpy/common/00accessibility.rpy#L30"
   },
   {
     "key": "renpy/common/00accessibility.rpy_L32_0",
     "original": "bar",
+    "translation": "条目",
+    "stage": 1,
     "context": "代码: https://github.com/renpy/renpy/blob/master/renpy/common/00accessibility.rpy#L32"
   },
   {
     "key": "renpy/common/00accessibility.rpy_L33_0",
     "original": "selected",
+    "translation": "选中",
+    "stage": 1,
     "context": "代码: https://github.com/renpy/renpy/blob/master/renpy/common/00accessibility.rpy#L33"
   },
   {
     "key": "renpy/common/00accessibility.rpy_L34_0",
     "original": "viewport",
+    "translation": "视窗",
+    "stage": 1,
     "context": "代码: https://github.com/renpy/renpy/blob/master/renpy/common/00accessibility.rpy#L34"
   },
   {
     "key": "renpy/common/00accessibility.rpy_L35_0",
     "original": "horizontal scroll",
+    "translation": "水平滚动条",
+    "stage": 1,
     "context": "代码: https://github.com/renpy/renpy/blob/master/renpy/common/00accessibility.rpy#L35"
   },
   {
     "key": "renpy/common/00accessibility.rpy_L36_0",
     "original": "vertical scroll",
+    "translation": "垂直滚动条",
+    "stage": 1,
     "context": "代码: https://github.com/renpy/renpy/blob/master/renpy/common/00accessibility.rpy#L36"
   },
   {
     "key": "renpy/common/00accessibility.rpy_L37_0",
     "original": "activate",
+    "translation": "激活",
+    "stage": 1,
     "context": "代码: https://github.com/renpy/renpy/blob/master/renpy/common/00accessibility.rpy#L37"
   },
   {
     "key": "renpy/common/00accessibility.rpy_L38_0",
     "original": "deactivate",
+    "translation": "关闭",
+    "stage": 1,
     "context": "代码: https://github.com/renpy/renpy/blob/master/renpy/common/00accessibility.rpy#L38"
   },
   {
     "key": "renpy/common/00accessibility.rpy_L39_0",
     "original": "increase",
+    "translation": "增加",
+    "stage": 1,
     "context": "代码: https://github.com/renpy/renpy/blob/master/renpy/common/00accessibility.rpy#L39"
   },
   {
     "key": "renpy/common/00accessibility.rpy_L40_0",
     "original": "decrease",
+    "translation": "减少",
+    "stage": 1,
     "context": "代码: https://github.com/renpy/renpy/blob/master/renpy/common/00accessibility.rpy#L40"
   },
   {
     "key": "renpy/common/00accessibility.rpy_L120_0",
     "original": "Accessibility Menu. Use up and down arrows to navigate, and enter to activate buttons and bars.",
+    "translation": "辅助功能菜单。使用上下箭头进行导航，按回车键激活按钮和栏。",
+    "stage": 1,
     "context": "代码: https://github.com/renpy/renpy/blob/master/renpy/common/00accessibility.rpy#L120"
   },
   {
     "key": "renpy/common/00accessibility.rpy_L139_0",
     "original": "Font Override",
+    "translation": "字体替换",
+    "stage": 1,
     "context": "代码: https://github.com/renpy/renpy/blob/master/renpy/common/00accessibility.rpy#L139"
   },
   {
     "key": "renpy/common/00accessibility.rpy_L143_0",
     "original": "Default",
+    "translation": "默认",
+    "stage": 1,
     "context": "代码: https://github.com/renpy/renpy/blob/master/renpy/common/00accessibility.rpy#L143"
   },
   {
     "key": "renpy/common/00accessibility.rpy_L147_0",
     "original": "DejaVu Sans",
+    "translation": "DejaVu Sans字体",
+    "stage": 1,
     "context": "代码: https://github.com/renpy/renpy/blob/master/renpy/common/00accessibility.rpy#L147"
   },
   {
     "key": "renpy/common/00accessibility.rpy_L151_0",
     "original": "Opendyslexic",
+    "translation": "Opendyslexic字体",
+    "stage": 1,
     "context": "代码: https://github.com/renpy/renpy/blob/master/renpy/common/00accessibility.rpy#L151"
   },
   {
     "key": "renpy/common/00accessibility.rpy_L157_0",
     "original": "Text Size Scaling",
+    "translation": "文本大小缩放",
+    "stage": 1,
     "context": "代码: https://github.com/renpy/renpy/blob/master/renpy/common/00accessibility.rpy#L157"
   },
   {
     "key": "renpy/common/00accessibility.rpy_L163_0",
     "original": "Reset",
+    "translation": "重置",
+    "stage": 1,
     "context": "代码: https://github.com/renpy/renpy/blob/master/renpy/common/00accessibility.rpy#L163"
   },
   {
     "key": "renpy/common/00accessibility.rpy_L169_0",
     "original": "Line Spacing Scaling",
+    "translation": "行间距缩放",
+    "stage": 1,
     "context": "代码: https://github.com/renpy/renpy/blob/master/renpy/common/00accessibility.rpy#L169"
   },
   {
     "key": "renpy/common/00accessibility.rpy_L181_0",
     "original": "High Contrast Text",
+    "translation": "高对比度文本",
+    "stage": 1,
     "context": "代码: https://github.com/renpy/renpy/blob/master/renpy/common/00accessibility.rpy#L181"
   },
   {
     "key": "renpy/common/00accessibility.rpy_L183_0",
     "original": "Enable",
+    "translation": "启用",
+    "stage": 1,
     "context": "代码: https://github.com/renpy/renpy/blob/master/renpy/common/00accessibility.rpy#L183"
   },
   {
     "key": "renpy/common/00accessibility.rpy_L187_0",
     "original": "Disable",
+    "translation": "禁用",
+    "stage": 1,
     "context": "代码: https://github.com/renpy/renpy/blob/master/renpy/common/00accessibility.rpy#L187"
   },
   {
     "key": "renpy/common/00accessibility.rpy_L194_0",
     "original": "Self-Voicing",
+    "translation": "自动朗读",
+    "stage": 1,
     "context": "代码: https://github.com/renpy/renpy/blob/master/renpy/common/00accessibility.rpy#L194"
   },
   {
     "key": "renpy/common/00accessibility.rpy_L197_0",
     "original": "Self-voicing support is limited when using a touch screen.",
+    "translation": "使用触摸屏时，自动朗读功能会难以生效。",
+    "stage": 1,
     "context": "代码: https://github.com/renpy/renpy/blob/master/renpy/common/00accessibility.rpy#L197"
   },
   {
     "key": "renpy/common/00accessibility.rpy_L201_0",
     "original": "Off",
+    "translation": "关闭",
+    "stage": 1,
     "context": "代码: https://github.com/renpy/renpy/blob/master/renpy/common/00accessibility.rpy#L201"
   },
   {
     "key": "renpy/common/00accessibility.rpy_L205_0",
     "original": "Text-to-speech",
+    "translation": "文本转语音",
+    "stage": 1,
     "context": "代码: https://github.com/renpy/renpy/blob/master/renpy/common/00accessibility.rpy#L205"
   },
   {
     "key": "renpy/common/00accessibility.rpy_L209_0",
     "original": "Clipboard",
+    "translation": "剪贴板",
+    "stage": 1,
     "context": "代码: https://github.com/renpy/renpy/blob/master/renpy/common/00accessibility.rpy#L209"
   },
   {
     "key": "renpy/common/00accessibility.rpy_L213_0",
     "original": "Debug",
+    "translation": "Debug模式",
+    "stage": 1,
     "context": "代码: https://github.com/renpy/renpy/blob/master/renpy/common/00accessibility.rpy#L213"
   },
   {
     "key": "renpy/common/00accessibility.rpy_L227_0",
     "original": "Self-Voicing Volume Drop",
+    "translation": "自动朗读音量下降",
+    "stage": 1,
     "context": "代码: https://github.com/renpy/renpy/blob/master/renpy/common/00accessibility.rpy#L227"
   },
   {
     "key": "renpy/common/00accessibility.rpy_L236_0",
     "original": "The options on this menu are intended to improve accessibility. They may not work with all games, and some combinations of options may render the game unplayable. This is not an issue with the game or engine. For the best results when changing fonts, try to keep the text size the same as it originally was.",
+    "translation": "此菜单上的选项旨在提高易用性。它们可能并不适用于所有项目，某些选项同时开启可能会导致游戏无法正常游玩。这不是游戏或引擎的问题。为了在更改字体时获得最佳效果，请尽量保持文本大小与原始大小相同。",
+    "stage": 1,
     "context": "代码: https://github.com/renpy/renpy/blob/master/renpy/common/00accessibility.rpy#L236"
   },
   {
     "key": "renpy/common/00action_file.rpy_L26_0",
     "original": "{#weekday}Monday",
+    "translation": "{#weekday}星期一",
+    "stage": 1,
     "context": "代码: https://github.com/renpy/renpy/blob/master/renpy/common/00action_file.rpy#L26"
   },
   {
     "key": "renpy/common/00action_file.rpy_L26_1",
     "original": "{#weekday}Tuesday",
+    "translation": "{#weekday}星期二",
+    "stage": 1,
     "context": "代码: https://github.com/renpy/renpy/blob/master/renpy/common/00action_file.rpy#L26"
   },
   {
     "key": "renpy/common/00action_file.rpy_L26_2",
     "original": "{#weekday}Wednesday",
+    "translation": "{#weekday}星期三",
+    "stage": 1,
     "context": "代码: https://github.com/renpy/renpy/blob/master/renpy/common/00action_file.rpy#L26"
   },
   {
     "key": "renpy/common/00action_file.rpy_L26_3",
     "original": "{#weekday}Thursday",
+    "translation": "{#weekday}星期四",
+    "stage": 1,
     "context": "代码: https://github.com/renpy/renpy/blob/master/renpy/common/00action_file.rpy#L26"
   },
   {
     "key": "renpy/common/00action_file.rpy_L26_4",
     "original": "{#weekday}Friday",
+    "translation": "{#weekday}星期五",
+    "stage": 1,
     "context": "代码: https://github.com/renpy/renpy/blob/master/renpy/common/00action_file.rpy#L26"
   },
   {
     "key": "renpy/common/00action_file.rpy_L26_5",
     "original": "{#weekday}Saturday",
+    "translation": "{#weekday}星期六",
+    "stage": 1,
     "context": "代码: https://github.com/renpy/renpy/blob/master/renpy/common/00action_file.rpy#L26"
   },
   {
     "key": "renpy/common/00action_file.rpy_L26_6",
     "original": "{#weekday}Sunday",
+    "translation": "{#weekday}星期天",
+    "stage": 1,
     "context": "代码: https://github.com/renpy/renpy/blob/master/renpy/common/00action_file.rpy#L26"
   },
   {
     "key": "renpy/common/00action_file.rpy_L37_0",
     "original": "{#weekday_short}Mon",
+    "translation": "{#weekday_short}周一",
+    "stage": 1,
     "context": "代码: https://github.com/renpy/renpy/blob/master/renpy/common/00action_file.rpy#L37"
   },
   {
     "key": "renpy/common/00action_file.rpy_L37_1",
     "original": "{#weekday_short}Tue",
+    "translation": "{#weekday_short}周二",
+    "stage": 1,
     "context": "代码: https://github.com/renpy/renpy/blob/master/renpy/common/00action_file.rpy#L37"
   },
   {
     "key": "renpy/common/00action_file.rpy_L37_2",
     "original": "{#weekday_short}Wed",
+    "translation": "{#weekday_short}周三",
+    "stage": 1,
     "context": "代码: https://github.com/renpy/renpy/blob/master/renpy/common/00action_file.rpy#L37"
   },
   {
     "key": "renpy/common/00action_file.rpy_L37_3",
     "original": "{#weekday_short}Thu",
+    "translation": "{#weekday_short}周四",
+    "stage": 1,
     "context": "代码: https://github.com/renpy/renpy/blob/master/renpy/common/00action_file.rpy#L37"
   },
   {
     "key": "renpy/common/00action_file.rpy_L37_4",
     "original": "{#weekday_short}Fri",
+    "translation": "{#weekday_short}周五",
+    "stage": 1,
     "context": "代码: https://github.com/renpy/renpy/blob/master/renpy/common/00action_file.rpy#L37"
   },
   {
     "key": "renpy/common/00action_file.rpy_L37_5",
     "original": "{#weekday_short}Sat",
+    "translation": "{#weekday_short}周六",
+    "stage": 1,
     "context": "代码: https://github.com/renpy/renpy/blob/master/renpy/common/00action_file.rpy#L37"
   },
   {
     "key": "renpy/common/00action_file.rpy_L37_6",
     "original": "{#weekday_short}Sun",
+    "translation": "{#weekday_short}周日",
+    "stage": 1,
     "context": "代码: https://github.com/renpy/renpy/blob/master/renpy/common/00action_file.rpy#L37"
   },
   {
     "key": "renpy/common/00action_file.rpy_L47_0",
     "original": "{#month}January",
+    "translation": "{#month}一月",
+    "stage": 1,
     "context": "代码: https://github.com/renpy/renpy/blob/master/renpy/common/00action_file.rpy#L47"
   },
   {
     "key": "renpy/common/00action_file.rpy_L47_1",
     "original": "{#month}February",
+    "translation": "{#month}二月",
+    "stage": 1,
     "context": "代码: https://github.com/renpy/renpy/blob/master/renpy/common/00action_file.rpy#L47"
   },
   {
     "key": "renpy/common/00action_file.rpy_L47_2",
     "original": "{#month}March",
+    "translation": "{#month}三月",
+    "stage": 1,
     "context": "代码: https://github.com/renpy/renpy/blob/master/renpy/common/00action_file.rpy#L47"
   },
   {
     "key": "renpy/common/00action_file.rpy_L47_3",
     "original": "{#month}April",
+    "translation": "{#month}四月",
+    "stage": 1,
     "context": "代码: https://github.com/renpy/renpy/blob/master/renpy/common/00action_file.rpy#L47"
   },
   {
     "key": "renpy/common/00action_file.rpy_L47_4",
     "original": "{#month}May",
+    "translation": "{#month}五月",
+    "stage": 1,
     "context": "代码: https://github.com/renpy/renpy/blob/master/renpy/common/00action_file.rpy#L47"
   },
   {
     "key": "renpy/common/00action_file.rpy_L47_5",
     "original": "{#month}June",
+    "translation": "{#month}六月",
+    "stage": 1,
     "context": "代码: https://github.com/renpy/renpy/blob/master/renpy/common/00action_file.rpy#L47"
   },
   {
     "key": "renpy/common/00action_file.rpy_L47_6",
     "original": "{#month}July",
+    "translation": "{#month}七月",
+    "stage": 1,
     "context": "代码: https://github.com/renpy/renpy/blob/master/renpy/common/00action_file.rpy#L47"
   },
   {
     "key": "renpy/common/00action_file.rpy_L47_7",
     "original": "{#month}August",
+    "translation": "{#month}八月",
+    "stage": 1,
     "context": "代码: https://github.com/renpy/renpy/blob/master/renpy/common/00action_file.rpy#L47"
   },
   {
     "key": "renpy/common/00action_file.rpy_L47_8",
     "original": "{#month}September",
+    "translation": "{#month}九月",
+    "stage": 1,
     "context": "代码: https://github.com/renpy/renpy/blob/master/renpy/common/00action_file.rpy#L47"
   },
   {
     "key": "renpy/common/00action_file.rpy_L47_9",
     "original": "{#month}October",
+    "translation": "{#month}十月",
+    "stage": 1,
     "context": "代码: https://github.com/renpy/renpy/blob/master/renpy/common/00action_file.rpy#L47"
   },
   {
     "key": "renpy/common/00action_file.rpy_L47_10",
     "original": "{#month}November",
+    "translation": "{#month}十一月",
+    "stage": 1,
     "context": "代码: https://github.com/renpy/renpy/blob/master/renpy/common/00action_file.rpy#L47"
   },
   {
     "key": "renpy/common/00action_file.rpy_L47_11",
     "original": "{#month}December",
+    "translation": "{#month}十二月",
+    "stage": 1,
     "context": "代码: https://github.com/renpy/renpy/blob/master/renpy/common/00action_file.rpy#L47"
   },
   {
     "key": "renpy/common/00action_file.rpy_L63_0",
     "original": "{#month_short}Jan",
+    "translation": "{#month_short}一月",
+    "stage": 1,
     "context": "代码: https://github.com/renpy/renpy/blob/master/renpy/common/00action_file.rpy#L63"
   },
   {
     "key": "renpy/common/00action_file.rpy_L63_1",
     "original": "{#month_short}Feb",
+    "translation": "{#month_short}二月",
+    "stage": 1,
     "context": "代码: https://github.com/renpy/renpy/blob/master/renpy/common/00action_file.rpy#L63"
   },
   {
     "key": "renpy/common/00action_file.rpy_L63_2",
     "original": "{#month_short}Mar",
+    "translation": "{#month_short}三月",
+    "stage": 1,
     "context": "代码: https://github.com/renpy/renpy/blob/master/renpy/common/00action_file.rpy#L63"
   },
   {
     "key": "renpy/common/00action_file.rpy_L63_3",
     "original": "{#month_short}Apr",
+    "translation": "{#month_short}四月",
+    "stage": 1,
     "context": "代码: https://github.com/renpy/renpy/blob/master/renpy/common/00action_file.rpy#L63"
   },
   {
     "key": "renpy/common/00action_file.rpy_L63_4",
     "original": "{#month_short}May",
+    "translation": "{#month_short}五月",
+    "stage": 1,
     "context": "代码: https://github.com/renpy/renpy/blob/master/renpy/common/00action_file.rpy#L63"
   },
   {
     "key": "renpy/common/00action_file.rpy_L63_5",
     "original": "{#month_short}Jun",
+    "translation": "{#month_short}六月",
+    "stage": 1,
     "context": "代码: https://github.com/renpy/renpy/blob/master/renpy/common/00action_file.rpy#L63"
   },
   {
     "key": "renpy/common/00action_file.rpy_L63_6",
     "original": "{#month_short}Jul",
+    "translation": "{#month_short}七月",
+    "stage": 1,
     "context": "代码: https://github.com/renpy/renpy/blob/master/renpy/common/00action_file.rpy#L63"
   },
   {
     "key": "renpy/common/00action_file.rpy_L63_7",
     "original": "{#month_short}Aug",
+    "translation": "{#month_short}八月",
+    "stage": 1,
     "context": "代码: https://github.com/renpy/renpy/blob/master/renpy/common/00action_file.rpy#L63"
   },
   {
     "key": "renpy/common/00action_file.rpy_L63_8",
     "original": "{#month_short}Sep",
+    "translation": "{#month_short}九月",
+    "stage": 1,
     "context": "代码: https://github.com/renpy/renpy/blob/master/renpy/common/00action_file.rpy#L63"
   },
   {
     "key": "renpy/common/00action_file.rpy_L63_9",
     "original": "{#month_short}Oct",
+    "translation": "{#month_short}十月",
+    "stage": 1,
     "context": "代码: https://github.com/renpy/renpy/blob/master/renpy/common/00action_file.rpy#L63"
   },
   {
     "key": "renpy/common/00action_file.rpy_L63_10",
     "original": "{#month_short}Nov",
+    "translation": "{#month_short}十一月",
+    "stage": 1,
     "context": "代码: https://github.com/renpy/renpy/blob/master/renpy/common/00action_file.rpy#L63"
   },
   {
     "key": "renpy/common/00action_file.rpy_L63_11",
     "original": "{#month_short}Dec",
+    "translation": "{#month_short}十二月",
+    "stage": 1,
     "context": "代码: https://github.com/renpy/renpy/blob/master/renpy/common/00action_file.rpy#L63"
   },
   {
     "key": "renpy/common/00action_file.rpy_L258_0",
     "original": "%b %d, %H:%M",
+    "translation": "%b %d, %H:%M",
+    "stage": 3,
     "context": "代码: https://github.com/renpy/renpy/blob/master/renpy/common/00action_file.rpy#L258"
   },
   {
     "key": "renpy/common/00action_file.rpy_L395_0",
     "original": "Save slot %s: [text]",
+    "translation": "保存位置 %s: [text]",
+    "stage": 3,
     "context": "代码: https://github.com/renpy/renpy/blob/master/renpy/common/00action_file.rpy#L395"
   },
   {
     "key": "renpy/common/00action_file.rpy_L480_0",
     "original": "Load slot %s: [text]",
+    "translation": "加载位置 %s: [text]",
+    "stage": 3,
     "context": "代码: https://github.com/renpy/renpy/blob/master/renpy/common/00action_file.rpy#L480"
   },
   {
     "key": "renpy/common/00action_file.rpy_L533_0",
     "original": "Delete slot [text]",
+    "translation": "删除位置 [text]",
+    "stage": 1,
     "context": "代码: https://github.com/renpy/renpy/blob/master/renpy/common/00action_file.rpy#L533"
   },
   {
     "key": "renpy/common/00action_file.rpy_L612_0",
     "original": "File page auto",
+    "translation": "自动保存存档页",
+    "stage": 1,
     "context": "代码: https://github.com/renpy/renpy/blob/master/renpy/common/00action_file.rpy#L612"
   },
   {
     "key": "renpy/common/00action_file.rpy_L614_0",
     "original": "File page quick",
+    "translation": "快速保存存档页",
+    "stage": 1,
     "context": "代码: https://github.com/renpy/renpy/blob/master/renpy/common/00action_file.rpy#L614"
   },
   {
     "key": "renpy/common/00action_file.rpy_L616_0",
     "original": "File page [text]",
+    "translation": "存档页  [text]",
+    "stage": 1,
     "context": "代码: https://github.com/renpy/renpy/blob/master/renpy/common/00action_file.rpy#L616"
   },
   {
     "key": "renpy/common/00action_file.rpy_L815_0",
     "original": "Next file page.",
+    "translation": "下一文件页.",
+    "stage": 1,
     "context": "代码: https://github.com/renpy/renpy/blob/master/renpy/common/00action_file.rpy#L815"
   },
   {
     "key": "renpy/common/00action_file.rpy_L887_0",
     "original": "Previous file page.",
+    "translation": "上一文件页.",
+    "stage": 1,
     "context": "代码: https://github.com/renpy/renpy/blob/master/renpy/common/00action_file.rpy#L887"
   },
   {
     "key": "renpy/common/00action_file.rpy_L948_0",
     "original": "Quick save complete.",
+    "translation": "快速保存完成",
+    "stage": 1,
     "context": "代码: https://github.com/renpy/renpy/blob/master/renpy/common/00action_file.rpy#L948"
   },
   {
     "key": "renpy/common/00action_file.rpy_L963_0",
     "original": "Quick save.",
+    "translation": "快速保存",
+    "stage": 1,
     "context": "代码: https://github.com/renpy/renpy/blob/master/renpy/common/00action_file.rpy#L963"
   },
   {
     "key": "renpy/common/00action_file.rpy_L982_0",
     "original": "Quick load.",
+    "translation": "快速加载",
+    "stage": 1,
     "context": "代码: https://github.com/renpy/renpy/blob/master/renpy/common/00action_file.rpy#L982"
   },
   {
     "key": "renpy/common/00action_other.rpy_L383_0",
     "original": "Language [text]",
+    "translation": "语言 [text]",
+    "stage": 1,
     "context": "代码: https://github.com/renpy/renpy/blob/master/renpy/common/00action_other.rpy#L383"
   },
   {
     "key": "renpy/common/00action_other.rpy_L746_0",
     "original": "Open [text] directory.",
+    "translation": "打开[text]目录。",
+    "stage": 1,
     "context": "代码: https://github.com/renpy/renpy/blob/master/renpy/common/00action_other.rpy#L746"
   },
   {
     "key": "renpy/common/00director.rpy_L712_0",
     "original": "The interactive director is not enabled here.",
+    "translation": "此处未启用交互式导演功能。",
+    "stage": 1,
     "context": "代码: https://github.com/renpy/renpy/blob/master/renpy/common/00director.rpy#L712"
   },
   {
     "key": "renpy/common/00director.rpy_L1511_0",
     "original": "⬆",
+    "translation": "⬆",
+    "stage": 1,
     "context": "代码: https://github.com/renpy/renpy/blob/master/renpy/common/00director.rpy#L1511"
   },
   {
     "key": "renpy/common/00director.rpy_L1517_0",
     "original": "⬇",
+    "translation": "⬇",
+    "stage": 1,
     "context": "代码: https://github.com/renpy/renpy/blob/master/renpy/common/00director.rpy#L1517"
   },
   {
     "key": "renpy/common/00director.rpy_L1581_0",
     "original": "Done",
+    "translation": "Done",
+    "stage": 1,
     "context": "代码: https://github.com/renpy/renpy/blob/master/renpy/common/00director.rpy#L1581"
   },
   {
     "key": "renpy/common/00director.rpy_L1591_0",
     "original": "(statement)",
+    "translation": "(statement)",
+    "stage": 1,
     "context": "代码: https://github.com/renpy/renpy/blob/master/renpy/common/00director.rpy#L1591"
   },
   {
     "key": "renpy/common/00director.rpy_L1592_0",
     "original": "(tag)",
+    "translation": "(tag)",
+    "stage": 1,
     "context": "代码: https://github.com/renpy/renpy/blob/master/renpy/common/00director.rpy#L1592"
   },
   {
     "key": "renpy/common/00director.rpy_L1593_0",
     "original": "(attributes)",
+    "translation": "(attributes)",
+    "stage": 1,
     "context": "代码: https://github.com/renpy/renpy/blob/master/renpy/common/00director.rpy#L1593"
   },
   {
     "key": "renpy/common/00director.rpy_L1594_0",
     "original": "(transform)",
+    "translation": "(transform)",
+    "stage": 1,
     "context": "代码: https://github.com/renpy/renpy/blob/master/renpy/common/00director.rpy#L1594"
   },
   {
     "key": "renpy/common/00director.rpy_L1619_0",
     "original": "(transition)",
+    "translation": "(transition)",
+    "stage": 1,
     "context": "代码: https://github.com/renpy/renpy/blob/master/renpy/common/00director.rpy#L1619"
   },
   {
     "key": "renpy/common/00director.rpy_L1631_0",
     "original": "(channel)",
+    "translation": "(channel)",
+    "stage": 1,
     "context": "代码: https://github.com/renpy/renpy/blob/master/renpy/common/00director.rpy#L1631"
   },
   {
     "key": "renpy/common/00director.rpy_L1632_0",
     "original": "(filename)",
+    "translation": "(filename)",
+    "stage": 1,
     "context": "代码: https://github.com/renpy/renpy/blob/master/renpy/common/00director.rpy#L1632"
   },
   {
     "key": "renpy/common/00director.rpy_L1661_0",
     "original": "Change",
+    "translation": "修改",
+    "stage": 1,
     "context": "代码: https://github.com/renpy/renpy/blob/master/renpy/common/00director.rpy#L1661"
   },
   {
     "key": "renpy/common/00director.rpy_L1663_0",
     "original": "Add",
+    "translation": "添加",
+    "stage": 1,
     "context": "代码: https://github.com/renpy/renpy/blob/master/renpy/common/00director.rpy#L1663"
   },
   {
     "key": "renpy/common/00director.rpy_L1666_0",
     "original": "Cancel",
+    "translation": "取消",
+    "stage": 1,
     "context": "代码: https://github.com/renpy/renpy/blob/master/renpy/common/00director.rpy#L1666"
   },
   {
     "key": "renpy/common/00director.rpy_L1669_0",
     "original": "Remove",
+    "translation": "删除",
+    "stage": 1,
     "context": "代码: https://github.com/renpy/renpy/blob/master/renpy/common/00director.rpy#L1669"
   },
   {
     "key": "renpy/common/00director.rpy_L1704_0",
     "original": "Statement:",
+    "translation": "声明：",
+    "stage": 1,
     "context": "代码: https://github.com/renpy/renpy/blob/master/renpy/common/00director.rpy#L1704"
   },
   {
     "key": "renpy/common/00director.rpy_L1725_0",
     "original": "Tag:",
+    "translation": "Tag:",
+    "stage": 1,
     "context": "代码: https://github.com/renpy/renpy/blob/master/renpy/common/00director.rpy#L1725"
   },
   {
     "key": "renpy/common/00director.rpy_L1741_0",
     "original": "Attributes:",
+    "translation": "属性：",
+    "stage": 1,
     "context": "代码: https://github.com/renpy/renpy/blob/master/renpy/common/00director.rpy#L1741"
   },
   {
     "key": "renpy/common/00director.rpy_L1752_0",
     "original": "Click to toggle attribute, right click to toggle negative attribute.",
+    "translation": "Click to toggle attribute, right click to toggle negative attribute.",
+    "stage": 1,
     "context": "代码: https://github.com/renpy/renpy/blob/master/renpy/common/00director.rpy#L1752"
   },
   {
     "key": "renpy/common/00director.rpy_L1764_0",
     "original": "Transforms:",
+    "translation": "Transforms:",
+    "stage": 1,
     "context": "代码: https://github.com/renpy/renpy/blob/master/renpy/common/00director.rpy#L1764"
   },
   {
     "key": "renpy/common/00director.rpy_L1775_0",
     "original": "Click to set transform, right click to add to transform list.",
+    "translation": "Click to set transform, right click to add to transform list.",
+    "stage": 1,
     "context": "代码: https://github.com/renpy/renpy/blob/master/renpy/common/00director.rpy#L1775"
   },
   {
     "key": "renpy/common/00director.rpy_L1776_0",
     "original": "Customize director.transforms to add more transforms.",
+    "translation": "Customize director.transforms to add more transforms.",
+    "stage": 1,
     "context": "代码: https://github.com/renpy/renpy/blob/master/renpy/common/00director.rpy#L1776"
   },
   {
     "key": "renpy/common/00director.rpy_L1788_0",
     "original": "Behind:",
+    "translation": "Behind:",
+    "stage": 1,
     "context": "代码: https://github.com/renpy/renpy/blob/master/renpy/common/00director.rpy#L1788"
   },
   {
     "key": "renpy/common/00director.rpy_L1799_0",
     "original": "Click to set, right click to add to behind list.",
+    "translation": "Click to set, right click to add to behind list.",
+    "stage": 1,
     "context": "代码: https://github.com/renpy/renpy/blob/master/renpy/common/00director.rpy#L1799"
   },
   {
     "key": "renpy/common/00director.rpy_L1811_0",
     "original": "Transition:",
+    "translation": "Transition:",
+    "stage": 1,
     "context": "代码: https://github.com/renpy/renpy/blob/master/renpy/common/00director.rpy#L1811"
   },
   {
     "key": "renpy/common/00director.rpy_L1821_0",
     "original": "Click to set.",
+    "translation": "Click to set.",
+    "stage": 1,
     "context": "代码: https://github.com/renpy/renpy/blob/master/renpy/common/00director.rpy#L1821"
   },
   {
     "key": "renpy/common/00director.rpy_L1822_0",
     "original": "Customize director.transitions to add more transitions.",
+    "translation": "Customize director.transitions to add more transitions.",
+    "stage": 1,
     "context": "代码: https://github.com/renpy/renpy/blob/master/renpy/common/00director.rpy#L1822"
   },
   {
     "key": "renpy/common/00director.rpy_L1834_0",
     "original": "Channel:",
+    "translation": "Channel:",
+    "stage": 1,
     "context": "代码: https://github.com/renpy/renpy/blob/master/renpy/common/00director.rpy#L1834"
   },
   {
     "key": "renpy/common/00director.rpy_L1845_0",
     "original": "Customize director.audio_channels to add more channels.",
+    "translation": "Customize director.audio_channels to add more channels.",
+    "stage": 1,
     "context": "代码: https://github.com/renpy/renpy/blob/master/renpy/common/00director.rpy#L1845"
   },
   {
     "key": "renpy/common/00director.rpy_L1857_0",
     "original": "Audio Filename:",
+    "translation": "音频文件名:",
+    "stage": 1,
     "context": "代码: https://github.com/renpy/renpy/blob/master/renpy/common/00director.rpy#L1857"
   },
   {
     "key": "renpy/common/00gui.rpy_L448_0",
     "original": "Are you sure?",
+    "translation": "你确定吗？",
+    "stage": 1,
     "context": "代码: https://github.com/renpy/renpy/blob/master/renpy/common/00gui.rpy#L448"
   },
   {
     "key": "renpy/common/00gui.rpy_L449_0",
     "original": "Are you sure you want to delete this save?",
+    "translation": "确定要删除此存档吗？",
+    "stage": 1,
     "context": "代码: https://github.com/renpy/renpy/blob/master/renpy/common/00gui.rpy#L449"
   },
   {
     "key": "renpy/common/00gui.rpy_L450_0",
     "original": "Are you sure you want to overwrite your save?",
+    "translation": "确定要覆盖存档吗？",
+    "stage": 1,
     "context": "代码: https://github.com/renpy/renpy/blob/master/renpy/common/00gui.rpy#L450"
   },
   {
     "key": "renpy/common/00gui.rpy_L451_0",
     "original": "Loading will lose unsaved progress.\\nAre you sure you want to do this?",
+    "translation": "加载存档将丢失未保存的进度。\\n你确定要这么做吗?",
+    "stage": 1,
     "context": "代码: https://github.com/renpy/renpy/blob/master/renpy/common/00gui.rpy#L451"
   },
   {
     "key": "renpy/common/00gui.rpy_L452_0",
     "original": "Are you sure you want to quit?",
+    "translation": "确定要退出吗？",
+    "stage": 1,
     "context": "代码: https://github.com/renpy/renpy/blob/master/renpy/common/00gui.rpy#L452"
   },
   {
     "key": "renpy/common/00gui.rpy_L453_0",
     "original": "Are you sure you want to return to the main menu?\\nThis will lose unsaved progress.",
+    "translation": "确定要返回主菜单吗？\\n这将丢失未保存的进度。",
+    "stage": 1,
     "context": "代码: https://github.com/renpy/renpy/blob/master/renpy/common/00gui.rpy#L453"
   },
   {
     "key": "renpy/common/00gui.rpy_L454_0",
     "original": "Are you sure you want to continue where you left off?",
+    "translation": "你确定要从你上次离开的地方继续吗?",
+    "stage": 1,
     "context": "代码: https://github.com/renpy/renpy/blob/master/renpy/common/00gui.rpy#L454"
   },
   {
     "key": "renpy/common/00gui.rpy_L455_0",
     "original": "Are you sure you want to end the replay?",
+    "translation": "你确定要结束回放吗?",
+    "stage": 1,
     "context": "代码: https://github.com/renpy/renpy/blob/master/renpy/common/00gui.rpy#L455"
   },
   {
     "key": "renpy/common/00gui.rpy_L456_0",
     "original": "Are you sure you want to begin skipping?",
+    "translation": "确定要开始跳过吗？",
+    "stage": 1,
     "context": "代码: https://github.com/renpy/renpy/blob/master/renpy/common/00gui.rpy#L456"
   },
   {
     "key": "renpy/common/00gui.rpy_L457_0",
     "original": "Are you sure you want to skip to the next choice?",
+    "translation": "确定要跳至下一选项吗？",
+    "stage": 1,
     "context": "代码: https://github.com/renpy/renpy/blob/master/renpy/common/00gui.rpy#L457"
   },
   {
     "key": "renpy/common/00gui.rpy_L458_0",
     "original": "Are you sure you want to skip unseen dialogue to the next choice?",
+    "translation": "确定要跳过未读对话至下一选项吗？",
+    "stage": 1,
     "context": "代码: https://github.com/renpy/renpy/blob/master/renpy/common/00gui.rpy#L458"
   },
   {
     "key": "renpy/common/00gui.rpy_L459_0",
     "original": "This save was created on a different device. Maliciously constructed save files can harm your computer. Do you trust this save's creator and everyone who could have changed the file?",
+    "translation": "这个存档是在另一个设备上创建的。恶意构建的存档文件可能会损害您的计算机。您信任这个存档的创建者和所有可能更改文件的人吗?",
+    "stage": 1,
     "context": "代码: https://github.com/renpy/renpy/blob/master/renpy/common/00gui.rpy#L459"
   },
   {
     "key": "renpy/common/00gui.rpy_L460_0",
     "original": "Do you trust the device the save was created on? You should only choose yes if you are the device's sole user.",
+    "translation": "您信任创建保存的设备吗？只有当您是该设备的唯一用户时，才应选择“是”。",
+    "stage": 1,
     "context": "代码: https://github.com/renpy/renpy/blob/master/renpy/common/00gui.rpy#L460"
   },
   {
     "key": "renpy/common/00keymap.rpy_L323_0",
     "original": "Failed to save screenshot as %s.",
+    "translation": "未能将截图保存为%s。",
+    "stage": 3,
     "context": "代码: https://github.com/renpy/renpy/blob/master/renpy/common/00keymap.rpy#L323"
   },
   {
     "key": "renpy/common/00keymap.rpy_L335_0",
     "original": "Saved screenshot as %s.",
+    "translation": "已将截图保存为%s。",
+    "stage": 3,
     "context": "代码: https://github.com/renpy/renpy/blob/master/renpy/common/00keymap.rpy#L335"
   },
   {
     "key": "renpy/common/00library.rpy_L248_0",
     "original": "Skip Mode",
+    "translation": "快进模式",
+    "stage": 1,
     "context": "代码: https://github.com/renpy/renpy/blob/master/renpy/common/00library.rpy#L248"
   },
   {
     "key": "renpy/common/00library.rpy_L335_0",
     "original": "This program contains free software under a number of licenses, including the MIT License and GNU Lesser General Public License. A complete list of software, including links to full source code, can be found {a=https://www.renpy.org/l/license}here{/a}.",
+    "translation": "本程序包含许多许可证下的开源软件，包括MIT许可证和GNU较宽松通用公共许可证。完整的软件列表，包括完整源代码的链接，可以在{a=https://www.renpy.org/l/license}这里{/a}找到。",
+    "stage": 1,
     "context": "代码: https://github.com/renpy/renpy/blob/master/renpy/common/00library.rpy#L335"
   },
   {
     "key": "renpy/common/00preferences.rpy_L288_0",
     "original": "display",
+    "translation": "显示",
+    "stage": 1,
     "context": "代码: https://github.com/renpy/renpy/blob/master/renpy/common/00preferences.rpy#L288"
   },
   {
     "key": "renpy/common/00preferences.rpy_L308_0",
     "original": "transitions",
+    "translation": "过渡场景",
+    "stage": 1,
     "context": "代码: https://github.com/renpy/renpy/blob/master/renpy/common/00preferences.rpy#L308"
   },
   {
     "key": "renpy/common/00preferences.rpy_L317_0",
     "original": "skip transitions",
+    "translation": "跳过过渡场景",
+    "stage": 1,
     "context": "代码: https://github.com/renpy/renpy/blob/master/renpy/common/00preferences.rpy#L317"
   },
   {
     "key": "renpy/common/00preferences.rpy_L319_0",
     "original": "video sprites",
+    "translation": "video sprites",
+    "stage": 1,
     "context": "代码: https://github.com/renpy/renpy/blob/master/renpy/common/00preferences.rpy#L319"
   },
   {
     "key": "renpy/common/00preferences.rpy_L328_0",
     "original": "show empty window",
+    "translation": "显示空窗口",
+    "stage": 1,
     "context": "代码: https://github.com/renpy/renpy/blob/master/renpy/common/00preferences.rpy#L328"
   },
   {
     "key": "renpy/common/00preferences.rpy_L337_0",
     "original": "text speed",
+    "translation": "文本速度",
+    "stage": 1,
     "context": "代码: https://github.com/renpy/renpy/blob/master/renpy/common/00preferences.rpy#L337"
   },
   {
     "key": "renpy/common/00preferences.rpy_L345_0",
     "original": "joystick",
+    "translation": "操纵杆",
+    "stage": 1,
     "context": "代码: https://github.com/renpy/renpy/blob/master/renpy/common/00preferences.rpy#L345"
   },
   {
     "key": "renpy/common/00preferences.rpy_L345_1",
     "original": "joystick...",
+    "translation": "操纵杆...",
+    "stage": 1,
     "context": "代码: https://github.com/renpy/renpy/blob/master/renpy/common/00preferences.rpy#L345"
   },
   {
     "key": "renpy/common/00preferences.rpy_L352_0",
     "original": "skip",
+    "translation": "跳过",
+    "stage": 1,
     "context": "代码: https://github.com/renpy/renpy/blob/master/renpy/common/00preferences.rpy#L352"
   },
   {
     "key": "renpy/common/00preferences.rpy_L355_0",
     "original": "skip unseen [text]",
+    "translation": "跳过未浏览的 [text]",
+    "stage": 1,
     "context": "代码: https://github.com/renpy/renpy/blob/master/renpy/common/00preferences.rpy#L355"
   },
   {
     "key": "renpy/common/00preferences.rpy_L360_0",
     "original": "skip unseen text",
+    "translation": "跳过未浏览的文本",
+    "stage": 1,
     "context": "代码: https://github.com/renpy/renpy/blob/master/renpy/common/00preferences.rpy#L360"
   },
   {
     "key": "renpy/common/00preferences.rpy_L362_0",
     "original": "begin skipping",
+    "translation": "开始跳过",
+    "stage": 1,
     "context": "代码: https://github.com/renpy/renpy/blob/master/renpy/common/00preferences.rpy#L362"
   },
   {
     "key": "renpy/common/00preferences.rpy_L366_0",
     "original": "after choices",
+    "translation": "选择之后",
+    "stage": 1,
     "context": "代码: https://github.com/renpy/renpy/blob/master/renpy/common/00preferences.rpy#L366"
   },
   {
     "key": "renpy/common/00preferences.rpy_L373_0",
     "original": "skip after choices",
+    "translation": "选择后跳过",
+    "stage": 1,
     "context": "代码: https://github.com/renpy/renpy/blob/master/renpy/common/00preferences.rpy#L373"
   },
   {
     "key": "renpy/common/00preferences.rpy_L375_0",
     "original": "auto-forward time",
+    "translation": "自动推进时间",
+    "stage": 1,
     "context": "代码: https://github.com/renpy/renpy/blob/master/renpy/common/00preferences.rpy#L375"
   },
   {
     "key": "renpy/common/00preferences.rpy_L389_0",
     "original": "auto-forward",
+    "translation": "自动推进",
+    "stage": 1,
     "context": "代码: https://github.com/renpy/renpy/blob/master/renpy/common/00preferences.rpy#L389"
   },
   {
     "key": "renpy/common/00preferences.rpy_L396_0",
     "original": "Auto forward",
+    "translation": "自动推进",
+    "stage": 1,
     "context": "代码: https://github.com/renpy/renpy/blob/master/renpy/common/00preferences.rpy#L396"
   },
   {
     "key": "renpy/common/00preferences.rpy_L399_0",
     "original": "auto-forward after click",
+    "translation": "点击后自动推进",
+    "stage": 1,
     "context": "代码: https://github.com/renpy/renpy/blob/master/renpy/common/00preferences.rpy#L399"
   },
   {
     "key": "renpy/common/00preferences.rpy_L408_0",
     "original": "automatic move",
+    "translation": "自动移动",
+    "stage": 1,
     "context": "代码: https://github.com/renpy/renpy/blob/master/renpy/common/00preferences.rpy#L408"
   },
   {
     "key": "renpy/common/00preferences.rpy_L417_0",
     "original": "wait for voice",
+    "translation": "等待音频",
+    "stage": 1,
     "context": "代码: https://github.com/renpy/renpy/blob/master/renpy/common/00preferences.rpy#L417"
   },
   {
     "key": "renpy/common/00preferences.rpy_L426_0",
     "original": "voice sustain",
+    "translation": "声音支持",
+    "stage": 1,
     "context": "代码: https://github.com/renpy/renpy/blob/master/renpy/common/00preferences.rpy#L426"
   },
   {
     "key": "renpy/common/00preferences.rpy_L435_0",
     "original": "self voicing",
+    "translation": "自朗诵",
+    "stage": 1,
     "context": "代码: https://github.com/renpy/renpy/blob/master/renpy/common/00preferences.rpy#L435"
   },
   {
     "key": "renpy/common/00preferences.rpy_L438_0",
     "original": "self voicing enable",
+    "translation": "启用自朗诵",
+    "stage": 1,
     "context": "代码: https://github.com/renpy/renpy/blob/master/renpy/common/00preferences.rpy#L438"
   },
   {
     "key": "renpy/common/00preferences.rpy_L440_0",
     "original": "self voicing disable",
+    "translation": "禁用自朗诵",
+    "stage": 1,
     "context": "代码: https://github.com/renpy/renpy/blob/master/renpy/common/00preferences.rpy#L440"
   },
   {
     "key": "renpy/common/00preferences.rpy_L444_0",
     "original": "self voicing volume drop",
+    "translation": "降低自朗诵音量",
+    "stage": 1,
     "context": "代码: https://github.com/renpy/renpy/blob/master/renpy/common/00preferences.rpy#L444"
   },
   {
     "key": "renpy/common/00preferences.rpy_L452_0",
     "original": "clipboard voicing",
+    "translation": "朗诵剪贴板",
+    "stage": 1,
     "context": "代码: https://github.com/renpy/renpy/blob/master/renpy/common/00preferences.rpy#L452"
   },
   {
     "key": "renpy/common/00preferences.rpy_L455_0",
     "original": "clipboard voicing enable",
+    "translation": "启用朗诵剪贴板",
+    "stage": 1,
     "context": "代码: https://github.com/renpy/renpy/blob/master/renpy/common/00preferences.rpy#L455"
   },
   {
     "key": "renpy/common/00preferences.rpy_L457_0",
     "original": "clipboard voicing disable",
+    "translation": "禁用朗诵剪贴板",
+    "stage": 1,
     "context": "代码: https://github.com/renpy/renpy/blob/master/renpy/common/00preferences.rpy#L457"
   },
   {
     "key": "renpy/common/00preferences.rpy_L461_0",
     "original": "debug voicing",
+    "translation": "朗诵Debug信息",
+    "stage": 1,
     "context": "代码: https://github.com/renpy/renpy/blob/master/renpy/common/00preferences.rpy#L461"
   },
   {
     "key": "renpy/common/00preferences.rpy_L464_0",
     "original": "debug voicing enable",
+    "translation": "启用朗诵Debug信息",
+    "stage": 1,
     "context": "代码: https://github.com/renpy/renpy/blob/master/renpy/common/00preferences.rpy#L464"
   },
   {
     "key": "renpy/common/00preferences.rpy_L466_0",
     "original": "debug voicing disable",
+    "translation": "禁用朗诵Debug信息",
+    "stage": 1,
     "context": "代码: https://github.com/renpy/renpy/blob/master/renpy/common/00preferences.rpy#L466"
   },
   {
     "key": "renpy/common/00preferences.rpy_L470_0",
     "original": "emphasize audio",
+    "translation": "强调音频",
+    "stage": 1,
     "context": "代码: https://github.com/renpy/renpy/blob/master/renpy/common/00preferences.rpy#L470"
   },
   {
     "key": "renpy/common/00preferences.rpy_L479_0",
     "original": "rollback side",
+    "translation": "回滚操作边缘",
+    "stage": 1,
     "context": "代码: https://github.com/renpy/renpy/blob/master/renpy/common/00preferences.rpy#L479"
   },
   {
     "key": "renpy/common/00preferences.rpy_L489_0",
     "original": "gl powersave",
+    "translation": "gl 节能",
+    "stage": 1,
     "context": "代码: https://github.com/renpy/renpy/blob/master/renpy/common/00preferences.rpy#L489"
   },
   {
     "key": "renpy/common/00preferences.rpy_L495_0",
     "original": "gl framerate",
+    "translation": "gl 帧率",
+    "stage": 1,
     "context": "代码: https://github.com/renpy/renpy/blob/master/renpy/common/00preferences.rpy#L495"
   },
   {
     "key": "renpy/common/00preferences.rpy_L498_0",
     "original": "gl tearing",
+    "translation": "gl 画面防撕裂",
+    "stage": 1,
     "context": "代码: https://github.com/renpy/renpy/blob/master/renpy/common/00preferences.rpy#L498"
   },
   {
     "key": "renpy/common/00preferences.rpy_L501_0",
     "original": "font transform",
+    "translation": "字体变换",
+    "stage": 1,
     "context": "代码: https://github.com/renpy/renpy/blob/master/renpy/common/00preferences.rpy#L501"
   },
   {
     "key": "renpy/common/00preferences.rpy_L504_0",
     "original": "font size",
+    "translation": "字体大小",
+    "stage": 1,
     "context": "代码: https://github.com/renpy/renpy/blob/master/renpy/common/00preferences.rpy#L504"
   },
   {
     "key": "renpy/common/00preferences.rpy_L512_0",
     "original": "font line spacing",
+    "translation": "字体行间距",
+    "stage": 1,
     "context": "代码: https://github.com/renpy/renpy/blob/master/renpy/common/00preferences.rpy#L512"
   },
   {
     "key": "renpy/common/00preferences.rpy_L520_0",
     "original": "system cursor",
+    "translation": "系统光标",
+    "stage": 1,
     "context": "代码: https://github.com/renpy/renpy/blob/master/renpy/common/00preferences.rpy#L520"
   },
   {
     "key": "renpy/common/00preferences.rpy_L529_0",
     "original": "renderer menu",
+    "translation": "渲染器菜单",
+    "stage": 1,
     "context": "代码: https://github.com/renpy/renpy/blob/master/renpy/common/00preferences.rpy#L529"
   },
   {
     "key": "renpy/common/00preferences.rpy_L532_0",
     "original": "accessibility menu",
+    "translation": "无障碍菜单",
+    "stage": 1,
     "context": "代码: https://github.com/renpy/renpy/blob/master/renpy/common/00preferences.rpy#L532"
   },
   {
     "key": "renpy/common/00preferences.rpy_L535_0",
     "original": "high contrast text",
+    "translation": "高对比度文本",
+    "stage": 1,
     "context": "代码: https://github.com/renpy/renpy/blob/master/renpy/common/00preferences.rpy#L535"
   },
   {
     "key": "renpy/common/00preferences.rpy_L544_0",
     "original": "audio when minimized",
+    "translation": "最小化时音频",
+    "stage": 1,
     "context": "代码: https://github.com/renpy/renpy/blob/master/renpy/common/00preferences.rpy#L544"
   },
   {
     "key": "renpy/common/00preferences.rpy_L553_0",
     "original": "audio when unfocused",
+    "translation": "失去焦点时音频",
+    "stage": 1,
     "context": "代码: https://github.com/renpy/renpy/blob/master/renpy/common/00preferences.rpy#L553"
   },
   {
     "key": "renpy/common/00preferences.rpy_L562_0",
     "original": "web cache preload",
+    "translation": "预加载web缓存",
+    "stage": 1,
     "context": "代码: https://github.com/renpy/renpy/blob/master/renpy/common/00preferences.rpy#L562"
   },
   {
     "key": "renpy/common/00preferences.rpy_L577_0",
     "original": "voice after game menu",
+    "translation": "游戏菜单后语音",
+    "stage": 1,
     "context": "代码: https://github.com/renpy/renpy/blob/master/renpy/common/00preferences.rpy#L577"
   },
   {
     "key": "renpy/common/00preferences.rpy_L586_0",
     "original": "restore window position",
+    "translation": "恢复窗口位置",
+    "stage": 1,
     "context": "代码: https://github.com/renpy/renpy/blob/master/renpy/common/00preferences.rpy#L586"
   },
   {
     "key": "renpy/common/00preferences.rpy_L595_0",
     "original": "reset",
+    "translation": "重置",
+    "stage": 1,
     "context": "代码: https://github.com/renpy/renpy/blob/master/renpy/common/00preferences.rpy#L595"
   },
   {
     "key": "renpy/common/00preferences.rpy_L608_0",
     "original": "main volume",
+    "translation": "主音量",
+    "stage": 1,
     "context": "代码: https://github.com/renpy/renpy/blob/master/renpy/common/00preferences.rpy#L608"
   },
   {
     "key": "renpy/common/00preferences.rpy_L609_0",
     "original": "music volume",
+    "translation": "音乐音量",
+    "stage": 1,
     "context": "代码: https://github.com/renpy/renpy/blob/master/renpy/common/00preferences.rpy#L609"
   },
   {
     "key": "renpy/common/00preferences.rpy_L610_0",
     "original": "sound volume",
+    "translation": "背景音量",
+    "stage": 1,
     "context": "代码: https://github.com/renpy/renpy/blob/master/renpy/common/00preferences.rpy#L610"
   },
   {
     "key": "renpy/common/00preferences.rpy_L611_0",
     "original": "voice volume",
+    "translation": "人声音量",
+    "stage": 1,
     "context": "代码: https://github.com/renpy/renpy/blob/master/renpy/common/00preferences.rpy#L611"
   },
   {
     "key": "renpy/common/00preferences.rpy_L612_0",
     "original": "mute main",
+    "translation": "全静音",
+    "stage": 1,
     "context": "代码: https://github.com/renpy/renpy/blob/master/renpy/common/00preferences.rpy#L612"
   },
   {
     "key": "renpy/common/00preferences.rpy_L613_0",
     "original": "mute music",
+    "translation": "禁用音乐",
+    "stage": 1,
     "context": "代码: https://github.com/renpy/renpy/blob/master/renpy/common/00preferences.rpy#L613"
   },
   {
     "key": "renpy/common/00preferences.rpy_L614_0",
     "original": "mute sound",
+    "translation": "禁用背景音",
+    "stage": 1,
     "context": "代码: https://github.com/renpy/renpy/blob/master/renpy/common/00preferences.rpy#L614"
   },
   {
     "key": "renpy/common/00preferences.rpy_L615_0",
     "original": "mute voice",
+    "translation": "禁用人声",
+    "stage": 1,
     "context": "代码: https://github.com/renpy/renpy/blob/master/renpy/common/00preferences.rpy#L615"
   },
   {
     "key": "renpy/common/00preferences.rpy_L616_0",
     "original": "mute all",
+    "translation": "禁用全部",
+    "stage": 1,
     "context": "代码: https://github.com/renpy/renpy/blob/master/renpy/common/00preferences.rpy#L616"
   },
   {
     "key": "renpy/common/00preferences.rpy_L698_0",
     "original": "Clipboard voicing enabled. Press 'shift+C' to disable.",
+    "translation": "启用朗诵剪贴板。按 “shift+C ”可禁用。",
+    "stage": 1,
     "context": "代码: https://github.com/renpy/renpy/blob/master/renpy/common/00preferences.rpy#L698"
   },
   {
     "key": "renpy/common/00preferences.rpy_L700_0",
     "original": "Self-voicing would say \\\"[renpy.display.tts.last]\\\". Press 'alt+shift+V' to disable.",
+    "translation": "自朗诵功能将会读出 \\\"[renpy.display.tts.last]\\\". 按 'alt+shift+V' 可禁用.",
+    "stage": 1,
     "context": "代码: https://github.com/renpy/renpy/blob/master/renpy/common/00preferences.rpy#L700"
   },
   {
     "key": "renpy/common/00preferences.rpy_L702_0",
     "original": "Self-voicing enabled. Press 'v' to disable.",
+    "translation": "自朗诵功能启用. 按 'v' 可禁用.",
+    "stage": 1,
     "context": "代码: https://github.com/renpy/renpy/blob/master/renpy/common/00preferences.rpy#L702"
   },
   {
     "key": "renpy/common/00speechbubble.rpy_L392_0",
     "original": "Speech Bubble Editor",
+    "translation": "对话框编辑器",
+    "stage": 1,
     "context": "代码: https://github.com/renpy/renpy/blob/master/renpy/common/00speechbubble.rpy#L392"
   },
   {
     "key": "renpy/common/00speechbubble.rpy_L397_0",
     "original": "(hide)",
+    "translation": "(隐藏)",
+    "stage": 1,
     "context": "代码: https://github.com/renpy/renpy/blob/master/renpy/common/00speechbubble.rpy#L397"
   },
   {
     "key": "renpy/common/00speechbubble.rpy_L408_0",
     "original": "(clear retained bubbles)",
+    "translation": "(clear retained bubbles)",
+    "stage": 1,
     "context": "代码: https://github.com/renpy/renpy/blob/master/renpy/common/00speechbubble.rpy#L408"
   },
   {
     "key": "renpy/common/00sync.rpy_L70_0",
     "original": "Sync downloaded.",
+    "translation": "同步数据已下载。",
+    "stage": 1,
     "context": "代码: https://github.com/renpy/renpy/blob/master/renpy/common/00sync.rpy#L70"
   },
   {
     "key": "renpy/common/00sync.rpy_L190_0",
     "original": "Could not connect to the Ren'Py Sync server.",
+    "translation": "无法连接到Ren'Py同步服务器。",
+    "stage": 1,
     "context": "代码: https://github.com/renpy/renpy/blob/master/renpy/common/00sync.rpy#L190"
   },
   {
     "key": "renpy/common/00sync.rpy_L192_0",
     "original": "The Ren'Py Sync server timed out.",
+    "translation": "Ren'Py 同步服务器超时。",
+    "stage": 1,
     "context": "代码: https://github.com/renpy/renpy/blob/master/renpy/common/00sync.rpy#L192"
   },
   {
     "key": "renpy/common/00sync.rpy_L194_0",
     "original": "An unknown error occurred while connecting to the Ren'Py Sync server.",
+    "translation": "在连接到Ren'Py Sync服务器时发生未知错误。",
+    "stage": 1,
     "context": "代码: https://github.com/renpy/renpy/blob/master/renpy/common/00sync.rpy#L194"
   },
   {
     "key": "renpy/common/00sync.rpy_L267_0",
     "original": "The Ren'Py Sync server does not have a copy of this sync. The sync ID may be invalid, or it may have timed out.",
+    "translation": "Ren'Py Sync服务器没有此同步数据副本。同步ID可能无效，或者已超时。",
+    "stage": 1,
     "context": "代码: https://github.com/renpy/renpy/blob/master/renpy/common/00sync.rpy#L267"
   },
   {
     "key": "renpy/common/00sync.rpy_L412_0",
     "original": "Please enter the sync ID you generated.\\nNever enter a sync ID you didn't create yourself.",
+    "translation": "请输入您生成的同步ID。\\n永远不要输入不是你自己创建的同步ID。",
+    "stage": 1,
     "context": "代码: https://github.com/renpy/renpy/blob/master/renpy/common/00sync.rpy#L412"
   },
   {
     "key": "renpy/common/00sync.rpy_L431_0",
     "original": "The sync ID is not in the correct format.",
+    "translation": "同步ID格式不正确。",
+    "stage": 1,
     "context": "代码: https://github.com/renpy/renpy/blob/master/renpy/common/00sync.rpy#L431"
   },
   {
     "key": "renpy/common/00sync.rpy_L451_0",
     "original": "The sync could not be decrypted.",
+    "translation": "无法解密同步数据。",
+    "stage": 1,
     "context": "代码: https://github.com/renpy/renpy/blob/master/renpy/common/00sync.rpy#L451"
   },
   {
     "key": "renpy/common/00sync.rpy_L474_0",
     "original": "The sync belongs to a different game.",
+    "translation": "同步数据属于另一个游戏。",
+    "stage": 1,
     "context": "代码: https://github.com/renpy/renpy/blob/master/renpy/common/00sync.rpy#L474"
   },
   {
     "key": "renpy/common/00sync.rpy_L479_0",
     "original": "The sync contains a file with an invalid name.",
+    "translation": "同步数据包含一个名称无效的文件。",
+    "stage": 1,
     "context": "代码: https://github.com/renpy/renpy/blob/master/renpy/common/00sync.rpy#L479"
   },
   {
     "key": "renpy/common/00sync.rpy_L538_0",
     "original": "This will upload your saves to the {a=https://sync.renpy.org}Ren'Py Sync Server{/a}.\\nDo you want to continue?",
+    "translation": "这将上传您的保存到{a=https://sync.renpy.org}Ren'Py同步服务器{/a}。\\n你想继续吗?",
+    "stage": 1,
     "context": "代码: https://github.com/renpy/renpy/blob/master/renpy/common/00sync.rpy#L538"
   },
   {
     "key": "renpy/common/00sync.rpy_L569_0",
     "original": "Enter Sync ID",
+    "translation": "输入同步ID",
+    "stage": 1,
     "context": "代码: https://github.com/renpy/renpy/blob/master/renpy/common/00sync.rpy#L569"
   },
   {
     "key": "renpy/common/00sync.rpy_L580_0",
     "original": "This will contact the {a=https://sync.renpy.org}Ren'Py Sync Server{/a}.",
+    "translation": "这将连接{a=https://sync.renpy.org}Ren'Py同步服务器{/a}。",
+    "stage": 1,
     "context": "代码: https://github.com/renpy/renpy/blob/master/renpy/common/00sync.rpy#L580"
   },
   {
     "key": "renpy/common/00sync.rpy_L609_0",
     "original": "Sync Success",
+    "translation": "同步成功",
+    "stage": 1,
     "context": "代码: https://github.com/renpy/renpy/blob/master/renpy/common/00sync.rpy#L609"
   },
   {
     "key": "renpy/common/00sync.rpy_L612_0",
     "original": "The Sync ID is:",
+    "translation": "同步ID为:",
+    "stage": 1,
     "context": "代码: https://github.com/renpy/renpy/blob/master/renpy/common/00sync.rpy#L612"
   },
   {
     "key": "renpy/common/00sync.rpy_L618_0",
     "original": "You can use this ID to download your save on another device.\\nThis sync will expire in an hour.\\nRen'Py Sync is supported by {a=https://www.renpy.org/sponsors.html}Ren'Py's Sponsors{/a}.",
+    "translation": "您可以使用此ID在另一台设备上下载您的存档。\\n此同步数据将在一小时后失效。\\nRen'Py同步由{a=https://www.renpy.org/sponsors.html}Ren'Py的赞助商{/a}支持。",
+    "stage": 1,
     "context": "代码: https://github.com/renpy/renpy/blob/master/renpy/common/00sync.rpy#L618"
   },
   {
     "key": "renpy/common/00sync.rpy_L622_0",
     "original": "Continue",
+    "translation": "继续",
+    "stage": 1,
     "context": "代码: https://github.com/renpy/renpy/blob/master/renpy/common/00sync.rpy#L622"
   },
   {
     "key": "renpy/common/00sync.rpy_L646_0",
     "original": "Sync Error",
+    "translation": "同步出错",
+    "stage": 1,
     "context": "代码: https://github.com/renpy/renpy/blob/master/renpy/common/00sync.rpy#L646"
   },
   {
     "key": "renpy/common/00iap.rpy_L231_0",
     "original": "Contacting App Store\\nPlease Wait...",
+    "translation": "尝试连接App Store\\n请稍等…",
+    "stage": 1,
     "context": "代码: https://github.com/renpy/renpy/blob/master/renpy/common/00iap.rpy#L231"
   },
   {
     "key": "renpy/common/00updater.rpy_L505_0",
     "original": "No update methods found.",
+    "translation": "没有找到更新",
+    "stage": 1,
     "context": "代码: https://github.com/renpy/renpy/blob/master/renpy/common/00updater.rpy#L505"
   },
   {
     "key": "renpy/common/00updater.rpy_L552_0",
     "original": "Could not download file list: ",
+    "translation": "无法下载文件列表:",
+    "stage": 1,
     "context": "代码: https://github.com/renpy/renpy/blob/master/renpy/common/00updater.rpy#L552"
   },
   {
     "key": "renpy/common/00updater.rpy_L555_0",
     "original": "File list digest does not match.",
+    "translation": "文件列表摘要不匹配。",
+    "stage": 1,
     "context": "代码: https://github.com/renpy/renpy/blob/master/renpy/common/00updater.rpy#L555"
   },
   {
     "key": "renpy/common/00updater.rpy_L763_0",
     "original": "An error is being simulated.",
+    "translation": "正在模拟错误。",
+    "stage": 1,
     "context": "代码: https://github.com/renpy/renpy/blob/master/renpy/common/00updater.rpy#L763"
   },
   {
     "key": "renpy/common/00updater.rpy_L951_0",
     "original": "Either this project does not support updating, or the update status file was deleted.",
+    "translation": "正在模拟错误。",
+    "stage": 1,
     "context": "代码: https://github.com/renpy/renpy/blob/master/renpy/common/00updater.rpy#L951"
   },
   {
     "key": "renpy/common/00updater.rpy_L965_0",
     "original": "This account does not have permission to perform an update.",
+    "translation": "此帐户没有执行更新的权限。",
+    "stage": 1,
     "context": "代码: https://github.com/renpy/renpy/blob/master/renpy/common/00updater.rpy#L965"
   },
   {
     "key": "renpy/common/00updater.rpy_L968_0",
     "original": "This account does not have permission to write the update log.",
+    "translation": "此帐户没有写入更新日志的权限。",
+    "stage": 1,
     "context": "代码: https://github.com/renpy/renpy/blob/master/renpy/common/00updater.rpy#L968"
   },
   {
     "key": "renpy/common/00updater.rpy_L1048_0",
     "original": "Could not verify update signature.",
+    "translation": "无法验证更新签名。",
+    "stage": 1,
     "context": "代码: https://github.com/renpy/renpy/blob/master/renpy/common/00updater.rpy#L1048"
   },
   {
     "key": "renpy/common/00updater.rpy_L1367_0",
     "original": "The update file was not downloaded.",
+    "translation": "无法验证更新签名。",
+    "stage": 1,
     "context": "代码: https://github.com/renpy/renpy/blob/master/renpy/common/00updater.rpy#L1367"
   },
   {
     "key": "renpy/common/00updater.rpy_L1385_0",
     "original": "The update file does not have the correct digest - it may have been corrupted.",
+    "translation": "更新文件没有正确的摘要-它可能已经损坏。",
+    "stage": 1,
     "context": "代码: https://github.com/renpy/renpy/blob/master/renpy/common/00updater.rpy#L1385"
   },
   {
     "key": "renpy/common/00updater.rpy_L1535_0",
     "original": "While unpacking {}, unknown type {}.",
+    "translation": "在解包{}时，未知类型{}。",
+    "stage": 1,
     "context": "代码: https://github.com/renpy/renpy/blob/master/renpy/common/00updater.rpy#L1535"
   },
   {
     "key": "renpy/common/00updater.rpy_L2015_0",
     "original": "Updater",
+    "translation": "更新程序",
+    "stage": 1,
     "context": "代码: https://github.com/renpy/renpy/blob/master/renpy/common/00updater.rpy#L2015"
   },
   {
     "key": "renpy/common/00updater.rpy_L2022_0",
     "original": "An error has occured:",
+    "translation": "发生了一个错误：",
+    "stage": 1,
     "context": "代码: https://github.com/renpy/renpy/blob/master/renpy/common/00updater.rpy#L2022"
   },
   {
     "key": "renpy/common/00updater.rpy_L2024_0",
     "original": "Checking for updates.",
+    "translation": "检查更新",
+    "stage": 1,
     "context": "代码: https://github.com/renpy/renpy/blob/master/renpy/common/00updater.rpy#L2024"
   },
   {
     "key": "renpy/common/00updater.rpy_L2026_0",
     "original": "This program is up to date.",
+    "translation": "这个程序是最新的。",
+    "stage": 1,
     "context": "代码: https://github.com/renpy/renpy/blob/master/renpy/common/00updater.rpy#L2026"
   },
   {
     "key": "renpy/common/00updater.rpy_L2028_0",
     "original": "[u.version] is available. Do you want to install it?",
+    "translation": "[u.version]是可用的。您要安装它吗?",
+    "stage": 1,
     "context": "代码: https://github.com/renpy/renpy/blob/master/renpy/common/00updater.rpy#L2028"
   },
   {
     "key": "renpy/common/00updater.rpy_L2030_0",
     "original": "Preparing to download the updates.",
+    "translation": "准备下载更新。",
+    "stage": 1,
     "context": "代码: https://github.com/renpy/renpy/blob/master/renpy/common/00updater.rpy#L2030"
   },
   {
     "key": "renpy/common/00updater.rpy_L2032_0",
     "original": "Downloading the updates.",
+    "translation": "下载更新。",
+    "stage": 1,
     "context": "代码: https://github.com/renpy/renpy/blob/master/renpy/common/00updater.rpy#L2032"
   },
   {
     "key": "renpy/common/00updater.rpy_L2034_0",
     "original": "Unpacking the updates.",
+    "translation": "解包更新数据。",
+    "stage": 1,
     "context": "代码: https://github.com/renpy/renpy/blob/master/renpy/common/00updater.rpy#L2034"
   },
   {
     "key": "renpy/common/00updater.rpy_L2036_0",
     "original": "Finishing up.",
+    "translation": "完成。",
+    "stage": 1,
     "context": "代码: https://github.com/renpy/renpy/blob/master/renpy/common/00updater.rpy#L2036"
   },
   {
     "key": "renpy/common/00updater.rpy_L2038_0",
     "original": "The updates have been installed. The program will restart.",
+    "translation": "已安装更新。程序将重新启动。",
+    "stage": 1,
     "context": "代码: https://github.com/renpy/renpy/blob/master/renpy/common/00updater.rpy#L2038"
   },
   {
     "key": "renpy/common/00updater.rpy_L2040_0",
     "original": "The updates have been installed.",
+    "translation": "已安装更新。",
+    "stage": 1,
     "context": "代码: https://github.com/renpy/renpy/blob/master/renpy/common/00updater.rpy#L2040"
   },
   {
     "key": "renpy/common/00updater.rpy_L2042_0",
     "original": "The updates were cancelled.",
+    "translation": "更新已取消。",
+    "stage": 1,
     "context": "代码: https://github.com/renpy/renpy/blob/master/renpy/common/00updater.rpy#L2042"
   },
   {
     "key": "renpy/common/00updater.rpy_L2057_0",
     "original": "Proceed",
+    "translation": "处理中",
+    "stage": 1,
     "context": "代码: https://github.com/renpy/renpy/blob/master/renpy/common/00updater.rpy#L2057"
   },
   {
     "key": "renpy/common/00updater.rpy_L2072_0",
     "original": "Preparing to download the game data.",
+    "translation": "准备下载游戏数据。",
+    "stage": 1,
     "context": "代码: https://github.com/renpy/renpy/blob/master/renpy/common/00updater.rpy#L2072"
   },
   {
     "key": "renpy/common/00updater.rpy_L2074_0",
     "original": "Downloading the game data.",
+    "translation": "下载游戏数据。",
+    "stage": 1,
     "context": "代码: https://github.com/renpy/renpy/blob/master/renpy/common/00updater.rpy#L2074"
   },
   {
     "key": "renpy/common/00updater.rpy_L2076_0",
     "original": "The game data has been downloaded.",
+    "translation": "已下载游戏数据。",
+    "stage": 1,
     "context": "代码: https://github.com/renpy/renpy/blob/master/renpy/common/00updater.rpy#L2076"
   },
   {
     "key": "renpy/common/00updater.rpy_L2078_0",
     "original": "An error occured when trying to download game data:",
+    "translation": "下载游戏数据时出现错误:",
+    "stage": 1,
     "context": "代码: https://github.com/renpy/renpy/blob/master/renpy/common/00updater.rpy#L2078"
   },
   {
     "key": "renpy/common/00updater.rpy_L2083_0",
     "original": "This game cannot be run until the game data has been downloaded.",
+    "translation": "在下载游戏数据之前，此游戏无法运行。",
+    "stage": 1,
     "context": "代码: https://github.com/renpy/renpy/blob/master/renpy/common/00updater.rpy#L2083"
   },
   {
     "key": "renpy/common/00updater.rpy_L2090_0",
     "original": "Retry",
+    "translation": "重试",
+    "stage": 1,
     "context": "代码: https://github.com/renpy/renpy/blob/master/renpy/common/00updater.rpy#L2090"
   },
   {
     "key": "renpy/common/00gallery.rpy_L627_0",
     "original": "Image [index] of [count] locked.",
+    "translation": "[count]的图像[index]已锁定。",
+    "stage": 1,
     "context": "代码: https://github.com/renpy/renpy/blob/master/renpy/common/00gallery.rpy#L627"
   },
   {
     "key": "renpy/common/00gallery.rpy_L647_0",
     "original": "prev",
+    "translation": "上一个",
+    "stage": 1,
     "context": "代码: https://github.com/renpy/renpy/blob/master/renpy/common/00gallery.rpy#L647"
   },
   {
     "key": "renpy/common/00gallery.rpy_L648_0",
     "original": "next",
+    "translation": "下一个",
+    "stage": 1,
     "context": "代码: https://github.com/renpy/renpy/blob/master/renpy/common/00gallery.rpy#L648"
   },
   {
     "key": "renpy/common/00gallery.rpy_L649_0",
     "original": "slideshow",
+    "translation": "幻灯片",
+    "stage": 1,
     "context": "代码: https://github.com/renpy/renpy/blob/master/renpy/common/00gallery.rpy#L649"
   },
   {
     "key": "renpy/common/00gallery.rpy_L650_0",
     "original": "return",
+    "translation": "返回",
+    "stage": 1,
     "context": "代码: https://github.com/renpy/renpy/blob/master/renpy/common/00gallery.rpy#L650"
   },
   {
     "key": "renpy/common/00gltest.rpy_L89_0",
     "original": "Renderer",
+    "translation": "渲染器",
+    "stage": 1,
     "context": "代码: https://github.com/renpy/renpy/blob/master/renpy/common/00gltest.rpy#L89"
   },
   {
     "key": "renpy/common/00gltest.rpy_L93_0",
     "original": "Automatically Choose",
+    "translation": "自动选择",
+    "stage": 1,
     "context": "代码: https://github.com/renpy/renpy/blob/master/renpy/common/00gltest.rpy#L93"
   },
   {
     "key": "renpy/common/00gltest.rpy_L100_0",
     "original": "Force GL Renderer",
+    "translation": "强制使用GL渲染器",
+    "stage": 1,
     "context": "代码: https://github.com/renpy/renpy/blob/master/renpy/common/00gltest.rpy#L100"
   },
   {
     "key": "renpy/common/00gltest.rpy_L105_0",
     "original": "Force ANGLE Renderer",
+    "translation": "强制使用ANGLE渲染器",
+    "stage": 1,
     "context": "代码: https://github.com/renpy/renpy/blob/master/renpy/common/00gltest.rpy#L105"
   },
   {
     "key": "renpy/common/00gltest.rpy_L110_0",
     "original": "Force GLES Renderer",
+    "translation": "强制使用GLES渲染器",
+    "stage": 1,
     "context": "代码: https://github.com/renpy/renpy/blob/master/renpy/common/00gltest.rpy#L110"
   },
   {
     "key": "renpy/common/00gltest.rpy_L116_0",
     "original": "Force GL2 Renderer",
+    "translation": "强制使用GL2渲染器",
+    "stage": 1,
     "context": "代码: https://github.com/renpy/renpy/blob/master/renpy/common/00gltest.rpy#L116"
   },
   {
     "key": "renpy/common/00gltest.rpy_L121_0",
     "original": "Force ANGLE2 Renderer",
+    "translation": "强制使用ANGLE2渲染器",
+    "stage": 1,
     "context": "代码: https://github.com/renpy/renpy/blob/master/renpy/common/00gltest.rpy#L121"
   },
   {
     "key": "renpy/common/00gltest.rpy_L126_0",
     "original": "Force GLES2 Renderer",
+    "translation": "强制使用GLES2渲染器",
+    "stage": 1,
     "context": "代码: https://github.com/renpy/renpy/blob/master/renpy/common/00gltest.rpy#L126"
   },
   {
     "key": "renpy/common/00gltest.rpy_L136_0",
     "original": "Enable (No Blocklist)",
+    "translation": "启用(无黑名单)",
+    "stage": 1,
     "context": "代码: https://github.com/renpy/renpy/blob/master/renpy/common/00gltest.rpy#L136"
   },
   {
     "key": "renpy/common/00gltest.rpy_L159_0",
     "original": "Powersave",
+    "translation": "节能",
+    "stage": 1,
     "context": "代码: https://github.com/renpy/renpy/blob/master/renpy/common/00gltest.rpy#L159"
   },
   {
     "key": "renpy/common/00gltest.rpy_L173_0",
     "original": "Framerate",
+    "translation": "帧率",
+    "stage": 1,
     "context": "代码: https://github.com/renpy/renpy/blob/master/renpy/common/00gltest.rpy#L173"
   },
   {
     "key": "renpy/common/00gltest.rpy_L177_0",
     "original": "Screen",
+    "translation": "显示",
+    "stage": 1,
     "context": "代码: https://github.com/renpy/renpy/blob/master/renpy/common/00gltest.rpy#L177"
   },
   {
     "key": "renpy/common/00gltest.rpy_L181_0",
     "original": "60",
+    "translation": "60",
+    "stage": 1,
     "context": "代码: https://github.com/renpy/renpy/blob/master/renpy/common/00gltest.rpy#L181"
   },
   {
     "key": "renpy/common/00gltest.rpy_L185_0",
     "original": "30",
+    "translation": "30",
+    "stage": 1,
     "context": "代码: https://github.com/renpy/renpy/blob/master/renpy/common/00gltest.rpy#L185"
   },
   {
     "key": "renpy/common/00gltest.rpy_L191_0",
     "original": "Tearing",
+    "translation": "画面防撕裂",
+    "stage": 1,
     "context": "代码: https://github.com/renpy/renpy/blob/master/renpy/common/00gltest.rpy#L191"
   },
   {
     "key": "renpy/common/00gltest.rpy_L207_0",
     "original": "Changes will take effect the next time this program is run.",
+    "translation": "更改将在下次运行此程序时生效。",
+    "stage": 1,
     "context": "代码: https://github.com/renpy/renpy/blob/master/renpy/common/00gltest.rpy#L207"
   },
   {
     "key": "renpy/common/00gltest.rpy_L242_0",
     "original": "Performance Warning",
+    "translation": "性能警告",
+    "stage": 1,
     "context": "代码: https://github.com/renpy/renpy/blob/master/renpy/common/00gltest.rpy#L242"
   },
   {
     "key": "renpy/common/00gltest.rpy_L247_0",
     "original": "This computer is using software rendering.",
+    "translation": "这台计算机正在使用CPU渲染。",
+    "stage": 1,
     "context": "代码: https://github.com/renpy/renpy/blob/master/renpy/common/00gltest.rpy#L247"
   },
   {
     "key": "renpy/common/00gltest.rpy_L249_0",
     "original": "This game requires use of GL2 that can't be initialised.",
+    "translation": "这个游戏依赖的GL2不能初始化。",
+    "stage": 1,
     "context": "代码: https://github.com/renpy/renpy/blob/master/renpy/common/00gltest.rpy#L249"
   },
   {
     "key": "renpy/common/00gltest.rpy_L251_0",
     "original": "This computer has a problem displaying graphics: [problem].",
+    "translation": "这台计算机图像显示遇到了问题：[problem].",
+    "stage": 1,
     "context": "代码: https://github.com/renpy/renpy/blob/master/renpy/common/00gltest.rpy#L251"
   },
   {
     "key": "renpy/common/00gltest.rpy_L255_0",
     "original": "Its graphics drivers may be out of date or not operating correctly. This can lead to slow or incorrect graphics display.",
+    "translation": "它的显卡驱动可能过时或不能正常运行。这可能导致缓慢或不正确的图形显示。",
+    "stage": 1,
     "context": "代码: https://github.com/renpy/renpy/blob/master/renpy/common/00gltest.rpy#L255"
   },
   {
     "key": "renpy/common/00gltest.rpy_L259_0",
     "original": "The {a=edit:1:log.txt}log.txt{/a} file may contain information to help you determine what is wrong with your computer.",
+    "translation": "{a=edit:1:log.txt}log.txt{/a}文件可能包含能帮助您查明计算机出了什么问题的信息。",
+    "stage": 1,
     "context": "代码: https://github.com/renpy/renpy/blob/master/renpy/common/00gltest.rpy#L259"
   },
   {
     "key": "renpy/common/00gltest.rpy_L264_0",
     "original": "More details on how to fix this can be found in the {a=[url]}documentation{/a}.",
+    "translation": "关于如何解决这个问题的更多细节可以在{a=[url]}文档{/a}中找到。",
+    "stage": 1,
     "context": "代码: https://github.com/renpy/renpy/blob/master/renpy/common/00gltest.rpy#L264"
   },
   {
     "key": "renpy/common/00gltest.rpy_L269_0",
     "original": "Continue, Show this warning again",
+    "translation": "继续，再次显示此警告",
+    "stage": 1,
     "context": "代码: https://github.com/renpy/renpy/blob/master/renpy/common/00gltest.rpy#L269"
   },
   {
     "key": "renpy/common/00gltest.rpy_L273_0",
     "original": "Continue, Don't show warning again",
+    "translation": "继续，不再显示警告",
+    "stage": 1,
     "context": "代码: https://github.com/renpy/renpy/blob/master/renpy/common/00gltest.rpy#L273"
   },
   {
     "key": "renpy/common/00gltest.rpy_L281_0",
     "original": "Change render options",
+    "translation": "更改渲染选项",
+    "stage": 1,
     "context": "代码: https://github.com/renpy/renpy/blob/master/renpy/common/00gltest.rpy#L281"
   },
   {
     "key": "renpy/common/00gamepad.rpy_L32_0",
     "original": "Select Gamepad to Calibrate",
+    "translation": "选择要校准的游戏手柄",
+    "stage": 1,
     "context": "代码: https://github.com/renpy/renpy/blob/master/renpy/common/00gamepad.rpy#L32"
   },
   {
     "key": "renpy/common/00gamepad.rpy_L35_0",
     "original": "No Gamepads Available",
+    "translation": "无可用手柄",
+    "stage": 1,
     "context": "代码: https://github.com/renpy/renpy/blob/master/renpy/common/00gamepad.rpy#L35"
   },
   {
     "key": "renpy/common/00gamepad.rpy_L54_0",
     "original": "Calibrating [name] ([i]/[total])",
+    "translation": "校正 [name] ([i]/[total])",
+    "stage": 1,
     "context": "代码: https://github.com/renpy/renpy/blob/master/renpy/common/00gamepad.rpy#L54"
   },
   {
     "key": "renpy/common/00gamepad.rpy_L58_0",
     "original": "Press or move the '[control!s]' [kind].",
+    "translation": "按或移动 '[control!s]' [kind].",
+    "stage": 1,
     "context": "代码: https://github.com/renpy/renpy/blob/master/renpy/common/00gamepad.rpy#L58"
   },
   {
     "key": "renpy/common/00gamepad.rpy_L68_0",
     "original": "Skip (A)",
+    "translation": "跳过（A）",
+    "stage": 1,
     "context": "代码: https://github.com/renpy/renpy/blob/master/renpy/common/00gamepad.rpy#L68"
   },
   {
     "key": "renpy/common/00gamepad.rpy_L71_0",
     "original": "Back (B)",
+    "translation": "返回 (B)",
+    "stage": 1,
     "context": "代码: https://github.com/renpy/renpy/blob/master/renpy/common/00gamepad.rpy#L71"
   },
   {
     "key": "renpy/common/_errorhandling.rpym_L675_0",
     "original": "Open",
+    "translation": "打开",
+    "stage": 1,
     "context": "代码: https://github.com/renpy/renpy/blob/master/renpy/common/_errorhandling.rpym#L675"
   },
   {
     "key": "renpy/common/_errorhandling.rpym_L677_0",
     "original": "Opens the traceback.txt file in a text editor.",
+    "translation": "在文本编辑器中打开traceback.txt文件。",
+    "stage": 1,
     "context": "代码: https://github.com/renpy/renpy/blob/master/renpy/common/_errorhandling.rpym#L677"
   },
   {
     "key": "renpy/common/_errorhandling.rpym_L679_0",
     "original": "Copy BBCode",
+    "translation": "复制 BBCode",
+    "stage": 1,
     "context": "代码: https://github.com/renpy/renpy/blob/master/renpy/common/_errorhandling.rpym#L679"
   },
   {
     "key": "renpy/common/_errorhandling.rpym_L681_0",
     "original": "Copies the traceback.txt file to the clipboard as BBcode for forums like https://lemmasoft.renai.us/.",
+    "translation": "将traceback.txt文件作为BBcode复制到剪贴板，用于https://lemmasoft.renai.us/等论坛。",
+    "stage": 1,
     "context": "代码: https://github.com/renpy/renpy/blob/master/renpy/common/_errorhandling.rpym#L681"
   },
   {
     "key": "renpy/common/_errorhandling.rpym_L683_0",
     "original": "Copy Markdown",
+    "translation": "复制MarkDown文件",
+    "stage": 1,
     "context": "代码: https://github.com/renpy/renpy/blob/master/renpy/common/_errorhandling.rpym#L683"
   },
   {
     "key": "renpy/common/_errorhandling.rpym_L685_0",
     "original": "Copies the traceback.txt file to the clipboard as Markdown for Discord.",
+    "translation": "将traceback.txt文件复制到剪贴板，作为Markdown 用于发布到Discord。",
+    "stage": 1,
     "context": "代码: https://github.com/renpy/renpy/blob/master/renpy/common/_errorhandling.rpym#L685"
   },
   {
     "key": "renpy/common/_errorhandling.rpym_L716_0",
     "original": "An exception has occurred.",
+    "translation": "发生一个异常",
+    "stage": 1,
     "context": "代码: https://github.com/renpy/renpy/blob/master/renpy/common/_errorhandling.rpym#L716"
   },
   {
     "key": "renpy/common/_errorhandling.rpym_L739_0",
     "original": "Rollback",
+    "translation": "回滚",
+    "stage": 1,
     "context": "代码: https://github.com/renpy/renpy/blob/master/renpy/common/_errorhandling.rpym#L739"
   },
   {
     "key": "renpy/common/_errorhandling.rpym_L741_0",
     "original": "Attempts a roll back to a prior time, allowing you to save or choose a different choice.",
+    "translation": "尝试回滚到以前的时间，允许您保存或选择不同的选择。",
+    "stage": 1,
     "context": "代码: https://github.com/renpy/renpy/blob/master/renpy/common/_errorhandling.rpym#L741"
   },
   {
     "key": "renpy/common/_errorhandling.rpym_L748_0",
     "original": "Ignores the exception, allowing you to continue.",
+    "translation": "忽略异常，允许您继续。",
+    "stage": 1,
     "context": "代码: https://github.com/renpy/renpy/blob/master/renpy/common/_errorhandling.rpym#L748"
   },
   {
     "key": "renpy/common/_errorhandling.rpym_L750_0",
     "original": "Ignores the exception, allowing you to continue. This often leads to additional errors.",
+    "translation": "忽略异常，允许您继续。这通常会导致额外的错误。",
+    "stage": 1,
     "context": "代码: https://github.com/renpy/renpy/blob/master/renpy/common/_errorhandling.rpym#L750"
   },
   {
     "key": "renpy/common/_errorhandling.rpym_L754_0",
     "original": "Reload",
+    "translation": "重新载入",
+    "stage": 1,
     "context": "代码: https://github.com/renpy/renpy/blob/master/renpy/common/_errorhandling.rpym#L754"
   },
   {
     "key": "renpy/common/_errorhandling.rpym_L756_0",
     "original": "Reloads the game from disk, saving and restoring game state if possible.",
+    "translation": "从磁盘重新加载游戏，并尝试保存和恢复游戏状态。",
+    "stage": 1,
     "context": "代码: https://github.com/renpy/renpy/blob/master/renpy/common/_errorhandling.rpym#L756"
   },
   {
     "key": "renpy/common/_errorhandling.rpym_L759_0",
     "original": "Console",
+    "translation": "控制台",
+    "stage": 1,
     "context": "代码: https://github.com/renpy/renpy/blob/master/renpy/common/_errorhandling.rpym#L759"
   },
   {
     "key": "renpy/common/_errorhandling.rpym_L761_0",
     "original": "Opens a console to allow debugging the problem.",
+    "translation": "打开控制台以允许调试问题。",
+    "stage": 1,
     "context": "代码: https://github.com/renpy/renpy/blob/master/renpy/common/_errorhandling.rpym#L761"
   },
   {
     "key": "renpy/common/_errorhandling.rpym_L774_0",
     "original": "Quits the game.",
+    "translation": "退出游戏",
+    "stage": 1,
     "context": "代码: https://github.com/renpy/renpy/blob/master/renpy/common/_errorhandling.rpym#L774"
   },
   {
     "key": "renpy/common/_errorhandling.rpym_L795_0",
     "original": "Parsing the script failed.",
+    "translation": "解析脚本失败",
+    "stage": 1,
     "context": "代码: https://github.com/renpy/renpy/blob/master/renpy/common/_errorhandling.rpym#L795"
   }
 ]

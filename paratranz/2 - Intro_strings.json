@@ -2,176 +2,260 @@
   {
     "key": "game/2 - Intro.rpy_L31_0",
     "original": "Default Names and Colours",
+    "translation": "默认名称和颜色",
+    "stage": 3,
     "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/2%20-%20Intro.rpy#L31"
   },
   {
     "key": "game/2 - Intro.rpy_L31_1",
     "original": "Custom Names and Styles",
+    "translation": "自定义名称和外表",
+    "stage": 3,
     "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/2%20-%20Intro.rpy#L31"
   },
   {
-    "key": "game/2 - Intro.rpy_L39_0",
+    "key": "game/2 - Intro.rpy_L41_0",
     "original": "Replay Introduction (4 Sex Scenes and ~45 Min Reading Time)",
-    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/2%20-%20Intro.rpy#L39"
+    "translation": "重播介绍（4 个性爱场景和约 45 分钟的阅读时间）",
+    "stage": 3,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/2%20-%20Intro.rpy#L41"
   },
   {
-    "key": "game/2 - Intro.rpy_L39_1",
+    "key": "game/2 - Intro.rpy_L41_1",
     "original": "Skip Introduction",
-    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/2%20-%20Intro.rpy#L39"
+    "translation": "跳过介绍",
+    "stage": 3,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/2%20-%20Intro.rpy#L41"
   },
   {
-    "key": "game/2 - Intro.rpy_L51_0",
+    "key": "game/2 - Intro.rpy_L53_0",
     "original": "That’s right! {i}(Played FwB 1){/i}",
-    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/2%20-%20Intro.rpy#L51"
+    "translation": "没错! {i}(玩过FwB 1){/i}",
+    "stage": 3,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/2%20-%20Intro.rpy#L53"
   },
   {
-    "key": "game/2 - Intro.rpy_L51_1",
+    "key": "game/2 - Intro.rpy_L53_1",
     "original": "I don’t remember {i}(Didn’t Play FwB 1){/i}",
-    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/2%20-%20Intro.rpy#L51"
+    "translation": "我不记得了 {i}(没玩过 FwB 1){/i}",
+    "stage": 3,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/2%20-%20Intro.rpy#L53"
   },
   {
-    "key": "game/2 - Intro.rpy_L354_0",
+    "key": "game/2 - Intro.rpy_L287_0",
+    "original": "What was the name of the Sun Queen?",
+    "translation": "日之公主的名字是？",
+    "stage": 3,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/2%20-%20Intro.rpy#L287"
+  },
+  {
+    "key": "game/2 - Intro.rpy_L296_0",
+    "original": "What was the name of the Moon Princess?",
+    "translation": "月之公主的名字是？",
+    "stage": 3,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/2%20-%20Intro.rpy#L296"
+  },
+  {
+    "key": "game/2 - Intro.rpy_L387_0",
     "original": "You’ve pretended to be a lesbian but you’re actually bisexual.",
-    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/2%20-%20Intro.rpy#L354"
+    "translation": "你假装自己是女同性，但实际上你是双性恋。",
+    "stage": 3,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/2%20-%20Intro.rpy#L387"
   },
   {
-    "key": "game/2 - Intro.rpy_L354_1",
+    "key": "game/2 - Intro.rpy_L387_1",
     "original": "You live in a tree with [lil].",
-    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/2%20-%20Intro.rpy#L354"
+    "translation": "你和 [lil] 住一个树屋。",
+    "stage": 3,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/2%20-%20Intro.rpy#L387"
   },
   {
-    "key": "game/2 - Intro.rpy_L354_2",
+    "key": "game/2 - Intro.rpy_L387_2",
     "original": "You and [mox] have a physical relationship.",
-    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/2%20-%20Intro.rpy#L354"
+    "translation": "你和[mox]有肉体关系。",
+    "stage": 3,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/2%20-%20Intro.rpy#L387"
   },
   {
-    "key": "game/2 - Intro.rpy_L354_3",
+    "key": "game/2 - Intro.rpy_L387_3",
     "original": "You’re studying enchantments in college.",
-    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/2%20-%20Intro.rpy#L354"
+    "translation": "你在大学学习魔法。",
+    "stage": 3,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/2%20-%20Intro.rpy#L387"
   },
   {
-    "key": "game/2 - Intro.rpy_L970_0",
+    "key": "game/2 - Intro.rpy_L1007_0",
     "original": "Balls-Deep.",
-    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/2%20-%20Intro.rpy#L970"
+    "translation": "知-根-知-底。",
+    "stage": 3,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/2%20-%20Intro.rpy#L1007"
   },
   {
-    "key": "game/2 - Intro.rpy_L970_1",
+    "key": "game/2 - Intro.rpy_L1007_1",
     "original": "(Lie) Not much.",
-    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/2%20-%20Intro.rpy#L970"
+    "translation": "(说谎)不算太亲密。",
+    "stage": 3,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/2%20-%20Intro.rpy#L1007"
   },
   {
-    "key": "game/2 - Intro.rpy_L989_0",
+    "key": "game/2 - Intro.rpy_L1026_0",
     "original": "Want to lend a hand?",
-    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/2%20-%20Intro.rpy#L989"
+    "translation": "想帮忙吗?",
+    "stage": 3,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/2%20-%20Intro.rpy#L1026"
   },
   {
-    "key": "game/2 - Intro.rpy_L989_1",
+    "key": "game/2 - Intro.rpy_L1026_1",
     "original": "Here goes nothing…",
-    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/2%20-%20Intro.rpy#L989"
+    "translation": "自己来吧…",
+    "stage": 3,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/2%20-%20Intro.rpy#L1026"
   },
   {
-    "key": "game/2 - Intro.rpy_L1029_0",
+    "key": "game/2 - Intro.rpy_L1066_0",
     "original": "{i}Move in!{/i}",
-    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/2%20-%20Intro.rpy#L1029"
+    "translation": "{i} 继续!{/i}",
+    "stage": 3,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/2%20-%20Intro.rpy#L1066"
   },
   {
-    "key": "game/2 - Intro.rpy_L1029_1",
+    "key": "game/2 - Intro.rpy_L1066_1",
     "original": "{i}Finish here{i}",
-    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/2%20-%20Intro.rpy#L1029"
+    "translation": "{i} 在这里结束{i}",
+    "stage": 3,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/2%20-%20Intro.rpy#L1066"
   },
   {
-    "key": "game/2 - Intro.rpy_L1036_0",
+    "key": "game/2 - Intro.rpy_L1073_0",
     "original": "{i}Take a few steps closer{/i}",
-    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/2%20-%20Intro.rpy#L1036"
+    "translation": "{i} 走近几步{/i}",
+    "stage": 3,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/2%20-%20Intro.rpy#L1073"
   },
   {
-    "key": "game/2 - Intro.rpy_L1036_1",
+    "key": "game/2 - Intro.rpy_L1073_1",
     "original": "I’m already close!",
-    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/2%20-%20Intro.rpy#L1036"
+    "translation": "我已经快了!",
+    "stage": 3,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/2%20-%20Intro.rpy#L1073"
   },
   {
-    "key": "game/2 - Intro.rpy_L1051_0",
+    "key": "game/2 - Intro.rpy_L1088_0",
     "original": "Slide your cock between her cheeks.",
-    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/2%20-%20Intro.rpy#L1051"
+    "translation": "把你的鸡巴移到她的双臀之间。",
+    "stage": 3,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/2%20-%20Intro.rpy#L1088"
   },
   {
-    "key": "game/2 - Intro.rpy_L1051_1",
+    "key": "game/2 - Intro.rpy_L1088_1",
     "original": "Press your cock against her pussy.",
-    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/2%20-%20Intro.rpy#L1051"
+    "translation": "把你的鸡巴压在她的小穴上。",
+    "stage": 3,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/2%20-%20Intro.rpy#L1088"
   },
   {
-    "key": "game/2 - Intro.rpy_L1297_0",
+    "key": "game/2 - Intro.rpy_L1329_0",
     "original": "You’ve got a deal.",
-    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/2%20-%20Intro.rpy#L1297"
+    "translation": "一言为定。",
+    "stage": 3,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/2%20-%20Intro.rpy#L1329"
   },
   {
-    "key": "game/2 - Intro.rpy_L1297_1",
+    "key": "game/2 - Intro.rpy_L1329_1",
     "original": "Let’s do this another day.",
-    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/2%20-%20Intro.rpy#L1297"
+    "translation": "我们改天再做吧。",
+    "stage": 3,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/2%20-%20Intro.rpy#L1329"
   },
   {
-    "key": "game/2 - Intro.rpy_L1513_0",
+    "key": "game/2 - Intro.rpy_L1561_0",
     "original": "About MSGs",
-    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/2%20-%20Intro.rpy#L1513"
+    "translation": "关于消息（MSGs）",
+    "stage": 3,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/2%20-%20Intro.rpy#L1561"
   },
   {
-    "key": "game/2 - Intro.rpy_L1513_1",
+    "key": "game/2 - Intro.rpy_L1561_1",
     "original": "About To-Do",
-    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/2%20-%20Intro.rpy#L1513"
+    "translation": "关于备忘录（To-Do）",
+    "stage": 3,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/2%20-%20Intro.rpy#L1561"
   },
   {
-    "key": "game/2 - Intro.rpy_L1513_2",
+    "key": "game/2 - Intro.rpy_L1561_2",
     "original": "About the Gallery",
-    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/2%20-%20Intro.rpy#L1513"
+    "translation": "关于画廊（Gallery）",
+    "stage": 3,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/2%20-%20Intro.rpy#L1561"
   },
   {
-    "key": "game/2 - Intro.rpy_L1513_3",
+    "key": "game/2 - Intro.rpy_L1561_3",
     "original": "What's Friendship Feed?",
-    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/2%20-%20Intro.rpy#L1513"
+    "translation": "什么是Friend Feed?",
+    "stage": 3,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/2%20-%20Intro.rpy#L1561"
   },
   {
-    "key": "game/2 - Intro.rpy_L1513_4",
+    "key": "game/2 - Intro.rpy_L1561_4",
     "original": "What are Enchanted Threads and Midnight Emporium?",
-    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/2%20-%20Intro.rpy#L1513"
+    "translation": "什么是Enchanted Threads和Midnight Emporium？",
+    "stage": 3,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/2%20-%20Intro.rpy#L1561"
   },
   {
-    "key": "game/2 - Intro.rpy_L1513_5",
+    "key": "game/2 - Intro.rpy_L1561_5",
     "original": "About Music",
-    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/2%20-%20Intro.rpy#L1513"
+    "translation": "关于音乐（Music）",
+    "stage": 3,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/2%20-%20Intro.rpy#L1561"
   },
   {
-    "key": "game/2 - Intro.rpy_L1513_6",
+    "key": "game/2 - Intro.rpy_L1561_6",
     "original": "About Cheats",
-    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/2%20-%20Intro.rpy#L1513"
+    "translation": "关于作弊（Cheats）",
+    "stage": 3,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/2%20-%20Intro.rpy#L1561"
   },
   {
-    "key": "game/2 - Intro.rpy_L1513_7",
+    "key": "game/2 - Intro.rpy_L1561_7",
     "original": "About Settings",
-    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/2%20-%20Intro.rpy#L1513"
+    "translation": "关于设置（Settings）",
+    "stage": 3,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/2%20-%20Intro.rpy#L1561"
   },
   {
-    "key": "game/2 - Intro.rpy_L1513_8",
+    "key": "game/2 - Intro.rpy_L1561_8",
     "original": "I think I got it (Continue)",
-    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/2%20-%20Intro.rpy#L1513"
+    "translation": "我觉得我懂了（继续）",
+    "stage": 3,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/2%20-%20Intro.rpy#L1561"
   },
   {
-    "key": "game/2 - Intro.rpy_L1601_0",
+    "key": "game/2 - Intro.rpy_L1653_0",
     "original": "Poverty and Refugees?",
-    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/2%20-%20Intro.rpy#L1601"
+    "translation": "贫困和难民?",
+    "stage": 3,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/2%20-%20Intro.rpy#L1653"
   },
   {
-    "key": "game/2 - Intro.rpy_L1601_1",
+    "key": "game/2 - Intro.rpy_L1653_1",
     "original": "The Queen’s Impatience.",
-    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/2%20-%20Intro.rpy#L1601"
+    "translation": "女王的不耐烦。",
+    "stage": 3,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/2%20-%20Intro.rpy#L1653"
   },
   {
-    "key": "game/2 - Intro.rpy_L1601_2",
+    "key": "game/2 - Intro.rpy_L1653_2",
     "original": "Quakes and the Giant Ravine",
-    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/2%20-%20Intro.rpy#L1601"
+    "translation": "地震和大峡谷",
+    "stage": 3,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/2%20-%20Intro.rpy#L1653"
   },
   {
-    "key": "game/2 - Intro.rpy_L1601_3",
+    "key": "game/2 - Intro.rpy_L1653_3",
     "original": "Darker Nights?",
-    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/2%20-%20Intro.rpy#L1601"
+    "translation": "更黑暗的夜晚？",
+    "stage": 3,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/2%20-%20Intro.rpy#L1653"
   }
 ]

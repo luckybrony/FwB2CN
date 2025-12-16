@@ -1,0 +1,436 @@
+[
+  {
+    "key": "game/5 - Castle Route.rpy_L7_0",
+    "original": "Visit [aur]",
+    "translation": "拜访[aur]",
+    "stage": 3,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/5%20-%20Castle%20Route.rpy#L7"
+  },
+  {
+    "key": "game/5 - Castle Route.rpy_L7_1",
+    "original": "Visit [sel] (Busy)",
+    "translation": "拜访[sel]（正忙）",
+    "stage": 3,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/5%20-%20Castle%20Route.rpy#L7"
+  },
+  {
+    "key": "game/5 - Castle Route.rpy_L7_2",
+    "original": "Visit [sel]",
+    "translation": "拜访[sel]",
+    "stage": 3,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/5%20-%20Castle%20Route.rpy#L7"
+  },
+  {
+    "key": "game/5 - Castle Route.rpy_L7_3",
+    "original": "Use Mirror Portal",
+    "translation": "使用镜子传送门",
+    "stage": 3,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/5%20-%20Castle%20Route.rpy#L7"
+  },
+  {
+    "key": "game/5 - Castle Route.rpy_L7_4",
+    "original": "Virtues Meeting",
+    "translation": "谐律会议",
+    "stage": 3,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/5%20-%20Castle%20Route.rpy#L7"
+  },
+  {
+    "key": "game/5 - Castle Route.rpy_L7_5",
+    "original": "Castle Onsen",
+    "translation": "城堡内的温泉",
+    "stage": 1,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/5%20-%20Castle%20Route.rpy#L7"
+  },
+  {
+    "key": "game/5 - Castle Route.rpy_L7_6",
+    "original": "Visit [mor]",
+    "translation": "拜访[mor]",
+    "stage": 1,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/5%20-%20Castle%20Route.rpy#L7"
+  },
+  {
+    "key": "game/5 - Castle Route.rpy_L15_0",
+    "original": "Leave Castle",
+    "translation": "离开城堡",
+    "stage": 1,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/5%20-%20Castle%20Route.rpy#L15"
+  },
+  {
+    "key": "game/5 - Castle Route.rpy_L17_0",
+    "original": "Big Breastjob into Cowgirl",
+    "translation": "大波乳交 转 骑乘位",
+    "stage": 1,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/5%20-%20Castle%20Route.rpy#L17"
+  },
+  {
+    "key": "game/5 - Castle Route.rpy_L17_1",
+    "original": "Queen Threesome",
+    "translation": "女王3P",
+    "stage": 1,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/5%20-%20Castle%20Route.rpy#L17"
+  },
+  {
+    "key": "game/5 - Castle Route.rpy_L55_0",
+    "original": "[sel] From Side",
+    "translation": "[sel] 侧身位",
+    "stage": 1,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/5%20-%20Castle%20Route.rpy#L55"
+  },
+  {
+    "key": "game/5 - Castle Route.rpy_L88_0",
+    "original": "Castle Visit 1 - vs Midnight",
+    "translation": "城堡之行 1 - 对阵午夜",
+    "stage": 1,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/5%20-%20Castle%20Route.rpy#L88"
+  },
+  {
+    "key": "game/5 - Castle Route.rpy_L88_1",
+    "original": "Castle Visit 2 - [aur]",
+    "translation": "城堡之行 2 - [aur]",
+    "stage": 1,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/5%20-%20Castle%20Route.rpy#L88"
+  },
+  {
+    "key": "game/5 - Castle Route.rpy_L88_2",
+    "original": "Castle Visit 3 - [sel]",
+    "translation": "城堡之行 3 - [sel]",
+    "stage": 1,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/5%20-%20Castle%20Route.rpy#L88"
+  },
+  {
+    "key": "game/5 - Castle Route.rpy_L88_3",
+    "original": "Castle Visit 4 - To Crystal Kingdom",
+    "translation": "城堡之行 4 - 水晶王国之旅",
+    "stage": 1,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/5%20-%20Castle%20Route.rpy#L88"
+  },
+  {
+    "key": "game/5 - Castle Route.rpy_L88_4",
+    "original": "Eidolon Spire",
+    "translation": "虫巢尖塔",
+    "stage": 1,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/5%20-%20Castle%20Route.rpy#L88"
+  },
+  {
+    "key": "game/5 - Castle Route.rpy_L88_5",
+    "original": "[mor] Secret",
+    "translation": "[mor] 秘密",
+    "stage": 1,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/5%20-%20Castle%20Route.rpy#L88"
+  },
+  {
+    "key": "game/5 - Castle Route.rpy_L88_6",
+    "original": "[sel] Secret",
+    "translation": "[sel] 秘密",
+    "stage": 1,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/5%20-%20Castle%20Route.rpy#L88"
+  },
+  {
+    "key": "game/5 - Castle Route.rpy_L277_0",
+    "original": "Appeal to unity",
+    "translation": "呼吁团结",
+    "stage": 1,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/5%20-%20Castle%20Route.rpy#L277"
+  },
+  {
+    "key": "game/5 - Castle Route.rpy_L277_1",
+    "original": "Appeal to power",
+    "translation": "诉诸权力",
+    "stage": 1,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/5%20-%20Castle%20Route.rpy#L277"
+  },
+  {
+    "key": "game/5 - Castle Route.rpy_L277_2",
+    "original": "Appeal to sisterhood",
+    "translation": "提起姐妹情谊",
+    "stage": 1,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/5%20-%20Castle%20Route.rpy#L277"
+  },
+  {
+    "key": "game/5 - Castle Route.rpy_L295_0",
+    "original": "Press her",
+    "translation": "反驳她",
+    "stage": 1,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/5%20-%20Castle%20Route.rpy#L295"
+  },
+  {
+    "key": "game/5 - Castle Route.rpy_L295_1",
+    "original": "Back down",
+    "translation": "退缩",
+    "stage": 1,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/5%20-%20Castle%20Route.rpy#L295"
+  },
+  {
+    "key": "game/5 - Castle Route.rpy_L295_2",
+    "original": "Look to the others for back up",
+    "translation": "向别人寻求支持",
+    "stage": 1,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/5%20-%20Castle%20Route.rpy#L295"
+  },
+  {
+    "key": "game/5 - Castle Route.rpy_L624_0",
+    "original": "Fine. Just a taste.",
+    "translation": "好吧，就尝一口。",
+    "stage": 1,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/5%20-%20Castle%20Route.rpy#L624"
+  },
+  {
+    "key": "game/5 - Castle Route.rpy_L624_1",
+    "original": "I refuse",
+    "translation": "我拒绝",
+    "stage": 1,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/5%20-%20Castle%20Route.rpy#L624"
+  },
+  {
+    "key": "game/5 - Castle Route.rpy_L1044_0",
+    "original": "[mox]",
+    "translation": "[mox]",
+    "stage": 1,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/5%20-%20Castle%20Route.rpy#L1044"
+  },
+  {
+    "key": "game/5 - Castle Route.rpy_L1044_1",
+    "original": "[lil]",
+    "translation": "[lil]",
+    "stage": 1,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/5%20-%20Castle%20Route.rpy#L1044"
+  },
+  {
+    "key": "game/5 - Castle Route.rpy_L1044_2",
+    "original": "[pen]",
+    "translation": "[pen]",
+    "stage": 1,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/5%20-%20Castle%20Route.rpy#L1044"
+  },
+  {
+    "key": "game/5 - Castle Route.rpy_L1044_3",
+    "original": "[but]",
+    "translation": "[but]",
+    "stage": 1,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/5%20-%20Castle%20Route.rpy#L1044"
+  },
+  {
+    "key": "game/5 - Castle Route.rpy_L1044_4",
+    "original": "[rik]",
+    "translation": "[rik]",
+    "stage": 1,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/5%20-%20Castle%20Route.rpy#L1044"
+  },
+  {
+    "key": "game/5 - Castle Route.rpy_L1044_5",
+    "original": "[hon]",
+    "translation": "[hon]",
+    "stage": 1,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/5%20-%20Castle%20Route.rpy#L1044"
+  },
+  {
+    "key": "game/5 - Castle Route.rpy_L1044_6",
+    "original": "[rub]",
+    "translation": "[rub]",
+    "stage": 1,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/5%20-%20Castle%20Route.rpy#L1044"
+  },
+  {
+    "key": "game/5 - Castle Route.rpy_L1044_7",
+    "original": "[bla]",
+    "translation": "[bla]",
+    "stage": 1,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/5%20-%20Castle%20Route.rpy#L1044"
+  },
+  {
+    "key": "game/5 - Castle Route.rpy_L1376_0",
+    "original": "Let’s make this quick!",
+    "translation": "让我们速战速决吧！",
+    "stage": 1,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/5%20-%20Castle%20Route.rpy#L1376"
+  },
+  {
+    "key": "game/5 - Castle Route.rpy_L1376_1",
+    "original": "No, let's stay focused.",
+    "translation": "不，咱们还是专心一点。",
+    "stage": 1,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/5%20-%20Castle%20Route.rpy#L1376"
+  },
+  {
+    "key": "game/5 - Castle Route.rpy_L2885_0",
+    "original": "[rub] and [bla] – Magic Training",
+    "translation": "[rub]和[bla] – 魔法训练",
+    "stage": 1,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/5%20-%20Castle%20Route.rpy#L2885"
+  },
+  {
+    "key": "game/5 - Castle Route.rpy_L2885_1",
+    "original": "[hon] and [rik] – Combat Training",
+    "translation": "[hon]和[rik] – 战斗训练",
+    "stage": 1,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/5%20-%20Castle%20Route.rpy#L2885"
+  },
+  {
+    "key": "game/5 - Castle Route.rpy_L2885_2",
+    "original": "[pen] and [but] – Equipment and Prep",
+    "translation": "[pen]和[but] – 后勤与战前准备",
+    "stage": 1,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/5%20-%20Castle%20Route.rpy#L2885"
+  },
+  {
+    "key": "game/5 - Castle Route.rpy_L2885_3",
+    "original": "[cre] and [mor] – Secret Weapons",
+    "translation": "[cre]和[mor] – 秘密武器",
+    "stage": 1,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/5%20-%20Castle%20Route.rpy#L2885"
+  },
+  {
+    "key": "game/5 - Castle Route.rpy_L4443_0",
+    "original": "Who should I chat to?",
+    "translation": "我应该和谁聊天？",
+    "stage": 1,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/5%20-%20Castle%20Route.rpy#L4443"
+  },
+  {
+    "key": "game/5 - Castle Route.rpy_L4443_1",
+    "original": "[lil] and [pen]",
+    "translation": "[lil]和[pen]",
+    "stage": 1,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/5%20-%20Castle%20Route.rpy#L4443"
+  },
+  {
+    "key": "game/5 - Castle Route.rpy_L4443_2",
+    "original": "[hon] and [blo]",
+    "translation": "[hon]和[blo]",
+    "stage": 1,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/5%20-%20Castle%20Route.rpy#L4443"
+  },
+  {
+    "key": "game/5 - Castle Route.rpy_L4443_3",
+    "original": "[rub] and [mel]",
+    "translation": "[rub]和[mel]",
+    "stage": 1,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/5%20-%20Castle%20Route.rpy#L4443"
+  },
+  {
+    "key": "game/5 - Castle Route.rpy_L4443_4",
+    "original": "[rik] and [sky]",
+    "translation": "[rik]和[sky]",
+    "stage": 1,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/5%20-%20Castle%20Route.rpy#L4443"
+  },
+  {
+    "key": "game/5 - Castle Route.rpy_L4840_0",
+    "original": "I still need to…",
+    "translation": "我还需要…",
+    "stage": 1,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/5%20-%20Castle%20Route.rpy#L4840"
+  },
+  {
+    "key": "game/5 - Castle Route.rpy_L4840_1",
+    "original": "Have I even slept with [hon] yet?",
+    "translation": "我到底有没有和[hon]做过？",
+    "stage": 1,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/5%20-%20Castle%20Route.rpy#L4840"
+  },
+  {
+    "key": "game/5 - Castle Route.rpy_L4840_2",
+    "original": "I haven’t had vaginal sex with [mel] yet.",
+    "translation": "我还没有和[mel]发生过性关系。",
+    "stage": 1,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/5%20-%20Castle%20Route.rpy#L4840"
+  },
+  {
+    "key": "game/5 - Castle Route.rpy_L4840_3",
+    "original": "I still need to sleep with [blo].",
+    "translation": "我还需要和[blo]发生性关系。",
+    "stage": 1,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/5%20-%20Castle%20Route.rpy#L4840"
+  },
+  {
+    "key": "game/5 - Castle Route.rpy_L4840_4",
+    "original": "I need to have sex with [aur] and [sel], somehow.",
+    "translation": "我需要和[aur]以及[sel]发生性关系，不管用什么办法。",
+    "stage": 1,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/5%20-%20Castle%20Route.rpy#L4840"
+  },
+  {
+    "key": "game/5 - Castle Route.rpy_L5058_0",
+    "original": "This {i}should{/i} be enough to align myself with the actions in my previous universe. But that doesn't mean I need to stop here.",
+    "translation": "这{i}应该{/i}足以让我与“前世”的所作所为保持一致。但这并不意味着我需要就此止步。",
+    "stage": 1,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/5%20-%20Castle%20Route.rpy#L5058"
+  },
+  {
+    "key": "game/5 - Castle Route.rpy_L5058_1",
+    "original": "Decline her Advances",
+    "translation": "拒绝她的示好",
+    "stage": 1,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/5%20-%20Castle%20Route.rpy#L5058"
+  },
+  {
+    "key": "game/5 - Castle Route.rpy_L5272_0",
+    "original": "Visit Princess [mox]",
+    "translation": "拜访公主[mox]",
+    "stage": 1,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/5%20-%20Castle%20Route.rpy#L5272"
+  },
+  {
+    "key": "game/5 - Castle Route.rpy_L5272_1",
+    "original": "Visit Princess [lil]",
+    "translation": "拜访公主[lil]",
+    "stage": 1,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/5%20-%20Castle%20Route.rpy#L5272"
+  },
+  {
+    "key": "game/5 - Castle Route.rpy_L5272_2",
+    "original": "Visit [daw]",
+    "translation": "拜访 [daw]",
+    "stage": 1,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/5%20-%20Castle%20Route.rpy#L5272"
+  },
+  {
+    "key": "game/5 - Castle Route.rpy_L5278_0",
+    "original": "Loving Sex",
+    "translation": "爱之欢愉",
+    "stage": 1,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/5%20-%20Castle%20Route.rpy#L5278"
+  },
+  {
+    "key": "game/5 - Castle Route.rpy_L5296_0",
+    "original": "Throne Sex",
+    "translation": "王座性事",
+    "stage": 1,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/5%20-%20Castle%20Route.rpy#L5296"
+  },
+  {
+    "key": "game/5 - Castle Route.rpy_L5317_0",
+    "original": "Dress Toggle",
+    "translation": "更换着装",
+    "stage": 1,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/5%20-%20Castle%20Route.rpy#L5317"
+  },
+  {
+    "key": "game/5 - Castle Route.rpy_L5317_1",
+    "original": "Jacket Toggle",
+    "translation": "更换外套",
+    "stage": 1,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/5%20-%20Castle%20Route.rpy#L5317"
+  },
+  {
+    "key": "game/5 - Castle Route.rpy_L5317_2",
+    "original": "Panties Toggle",
+    "translation": "更换内裤",
+    "stage": 1,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/5%20-%20Castle%20Route.rpy#L5317"
+  },
+  {
+    "key": "game/5 - Castle Route.rpy_L5337_0",
+    "original": "Double-Team [mox]",
+    "translation": "两面包夹芝士 [mox]",
+    "stage": 1,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/5%20-%20Castle%20Route.rpy#L5337"
+  },
+  {
+    "key": "game/5 - Castle Route.rpy_L5337_1",
+    "original": "Sneaky Window Sex",
+    "translation": "窗边露出性爱",
+    "stage": 1,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/5%20-%20Castle%20Route.rpy#L5337"
+  }
+]

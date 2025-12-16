@@ -26,143 +26,127 @@ translate chinese v3renamem_1a4009c3:
 
 translate chinese strings:
 
-    # game/1 - Init.rpy:52
-    old "[mcname]"
-    new ""
-
     # game/1 - Init.rpy:54
-    old "[moxie]"
-    new ""
+    old "[mcname]"
+    new "[mcname]"
 
     # game/1 - Init.rpy:56
-    old "[penelope]"
-    new ""
+    old "[moxie]"
+    new "[moxie]"
 
     # game/1 - Init.rpy:58
+    old "Princess [moxie]"
+    new "[moxie] 公主"
+
+    # game/1 - Init.rpy:59
+    old "[penelope]"
+    new "[penelope]"
+
+    # game/1 - Init.rpy:61
     old "[lily]"
-    new ""
+    new "[lily]"
 
-    # game/1 - Init.rpy:60
-    old "[honeycrisp]"
-    new ""
-
-    # game/1 - Init.rpy:62
-    old "[blossom]"
-    new ""
+    # game/1 - Init.rpy:63
+    old "Princess [lily]"
+    new "[lily] 公主"
 
     # game/1 - Init.rpy:64
-    old "[ruby]"
-    new ""
+    old "[honeycrisp]"
+    new "[honeycrisp]"
 
     # game/1 - Init.rpy:66
-    old "[melody]"
-    new ""
+    old "[blossom]"
+    new "[blossom]"
 
     # game/1 - Init.rpy:68
-    old "[cream]"
-    new ""
+    old "[ruby]"
+    new "[ruby]"
 
     # game/1 - Init.rpy:70
-    old "[blackcurrant]"
-    new ""
+    old "[melody]"
+    new "[melody]"
 
     # game/1 - Init.rpy:72
-    old "[riku]"
-    new ""
+    old "[cream]"
+    new "[cream]"
 
     # game/1 - Init.rpy:74
-    old "[butters]"
-    new ""
+    old "[blackcurrant]"
+    new "[blackcurrant]"
 
     # game/1 - Init.rpy:76
-    old "[aurora]"
-    new ""
+    old "[riku]"
+    new "[riku]"
 
     # game/1 - Init.rpy:78
-    old "[selene]"
-    new ""
+    old "[butters]"
+    new "[butters]"
 
     # game/1 - Init.rpy:80
-    old "[midnight]"
-    new ""
+    old "[aurora]"
+    new "[aurora]"
 
     # game/1 - Init.rpy:82
-    old "[misc]"
-    new ""
+    old "[selene]"
+    new "[selene]"
 
     # game/1 - Init.rpy:84
-    old "[rosa]"
-    new ""
+    old "[misc]"
+    new "[misc]"
 
     # game/1 - Init.rpy:86
-    old "[claire]"
-    new ""
+    old "[rosa]"
+    new "[rosa]"
 
     # game/1 - Init.rpy:88
+    old "[claire]"
+    new "[claire]"
+
+    # game/1 - Init.rpy:91
     old "[hilda]"
-    new ""
+    new "[hilda]"
 
-    # game/1 - Init.rpy:90
+    # game/1 - Init.rpy:93
     old "[bastet]"
-    new ""
-
-    # game/1 - Init.rpy:92
-    old "[lil2]"
-    new ""
+    new "[bastet]"
 
     # game/1 - Init.rpy:95
+    old "[lil2]"
+    new "[lil2]"
+
+    # game/1 - Init.rpy:98
     old "[skye]"
-    new ""
+    new "[skye]"
 
-    # game/1 - Init.rpy:529
-    old "Rename [rik]"
-    new ""
+    # game/1 - Init.rpy:100
+    old "Anna"
+    new "Anna"
 
-    # game/1 - Init.rpy:529
-    old "Rename [but]"
-    new ""
+    # game/1 - Init.rpy:101
+    old "[morrigan]"
+    new "[morrigan]"
 
-    # game/1 - Init.rpy:529
-    old "Rename [cre]"
-    new ""
+    # game/1 - Init.rpy:103
+    old "[midnight]"
+    new "[midnight]"
 
-    # game/1 - Init.rpy:529
-    old "Rename [aur]"
-    new ""
+    # game/1 - Init.rpy:105
+    old "Sundowner"
+    new "Sundowner"
 
-    # game/1 - Init.rpy:529
-    old "Rename [sel]"
-    new ""
+    # game/1 - Init.rpy:106
+    old "Umbra"
+    new "Umbra"
 
-    # game/1 - Init.rpy:532
-    old "Default: Riku"
-    new ""
+    # game/1 - Init.rpy:108
+    old "[dawn]"
+    new "[dawn]"
 
-    # game/1 - Init.rpy:532
-    old "Alternative: Prisma"
-    new ""
+    # game/1 - Init.rpy:110
+    old "[augusta]"
+    new "[augusta]"
 
-    # game/1 - Init.rpy:546
-    old "Default: Butters"
-    new ""
-
-    # game/1 - Init.rpy:558
-    old "Default: Cream"
-    new ""
-
-    # game/1 - Init.rpy:570
-    old "What was the name of the Sun Queen?"
-    new ""
-
-    # game/1 - Init.rpy:570
-    old "Default: Aurora"
-    new ""
-
-    # game/1 - Init.rpy:582
-    old "What was the name of the Moon Princess?"
-    new ""
-
-    # game/1 - Init.rpy:582
-    old "Default: Selene"
-    new ""
+    # game/1 - Init.rpy:112
+    old "Orion"
+    new "Orion"
 

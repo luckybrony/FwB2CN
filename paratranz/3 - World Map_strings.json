@@ -1,137 +1,317 @@
 [
   {
-    "key": "game/3 - World Map.rpy_L19_0",
-    "original": "What website did you download the game from?",
-    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/3%20-%20World%20Map.rpy#L19"
+    "key": "game/3 - World Map.rpy_L124_0",
+    "original": "... An hour ago...",
+    "translation": "…一个小时前…",
+    "stage": 1,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/3%20-%20World%20Map.rpy#L124"
   },
   {
-    "key": "game/3 - World Map.rpy_L19_1",
-    "original": "Patreon",
-    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/3%20-%20World%20Map.rpy#L19"
+    "key": "game/3 - World Map.rpy_L124_1",
+    "original": "Spend the Night with [mox]",
+    "translation": "与[mox]共度良宵",
+    "stage": 1,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/3%20-%20World%20Map.rpy#L124"
   },
   {
-    "key": "game/3 - World Map.rpy_L19_2",
-    "original": "F95zone",
-    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/3%20-%20World%20Map.rpy#L19"
+    "key": "game/3 - World Map.rpy_L124_2",
+    "original": "Talk",
+    "translation": "交谈",
+    "stage": 1,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/3%20-%20World%20Map.rpy#L124"
   },
   {
-    "key": "game/3 - World Map.rpy_L19_3",
-    "original": "No Thanks",
-    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/3%20-%20World%20Map.rpy#L19"
-  },
-  {
-    "key": "game/3 - World Map.rpy_L131_0",
+    "key": "game/3 - World Map.rpy_L124_3",
     "original": "Gift",
-    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/3%20-%20World%20Map.rpy#L131"
+    "translation": "送礼",
+    "stage": 1,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/3%20-%20World%20Map.rpy#L124"
   },
   {
-    "key": "game/3 - World Map.rpy_L131_1",
-    "original": "Replay Events",
-    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/3%20-%20World%20Map.rpy#L131"
+    "key": "game/3 - World Map.rpy_L124_4",
+    "original": "Outfit",
+    "translation": "服装",
+    "stage": 1,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/3%20-%20World%20Map.rpy#L124"
   },
   {
-    "key": "game/3 - World Map.rpy_L131_2",
+    "key": "game/3 - World Map.rpy_L124_5",
     "original": "Sex",
-    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/3%20-%20World%20Map.rpy#L131"
+    "translation": "做爱",
+    "stage": 1,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/3%20-%20World%20Map.rpy#L124"
   },
   {
-    "key": "game/3 - World Map.rpy_L131_3",
+    "key": "game/3 - World Map.rpy_L124_6",
+    "original": "Replay Events",
+    "translation": "事件重放",
+    "stage": 1,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/3%20-%20World%20Map.rpy#L124"
+  },
+  {
+    "key": "game/3 - World Map.rpy_L124_7",
     "original": "Sleep",
-    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/3%20-%20World%20Map.rpy#L131"
+    "translation": "睡觉",
+    "stage": 1,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/3%20-%20World%20Map.rpy#L124"
   },
   {
-    "key": "game/3 - World Map.rpy_L131_4",
+    "key": "game/3 - World Map.rpy_L124_8",
     "original": "Outside",
-    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/3%20-%20World%20Map.rpy#L131"
+    "translation": "离开",
+    "stage": 1,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/3%20-%20World%20Map.rpy#L124"
   },
   {
-    "key": "game/3 - World Map.rpy_L134_0",
+    "key": "game/3 - World Map.rpy_L148_0",
     "original": "Punk Costume - Owned: [punk]",
-    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/3%20-%20World%20Map.rpy#L134"
+    "translation": "朋克服装 - 拥有: [punk]",
+    "stage": 1,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/3%20-%20World%20Map.rpy#L148"
   },
   {
-    "key": "game/3 - World Map.rpy_L134_1",
+    "key": "game/3 - World Map.rpy_L148_1",
     "original": "Bunny Girl Costume - Owned: [bunnygirl]",
-    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/3%20-%20World%20Map.rpy#L134"
+    "translation": "兔女郎服装 - 拥有:[bunnygirl]",
+    "stage": 1,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/3%20-%20World%20Map.rpy#L148"
   },
   {
-    "key": "game/3 - World Map.rpy_L134_2",
+    "key": "game/3 - World Map.rpy_L148_2",
     "original": "Pantyhose - Owned: [pantyhose]",
-    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/3%20-%20World%20Map.rpy#L134"
+    "translation": "连裤袜 - 拥有: [pantyhose]",
+    "stage": 1,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/3%20-%20World%20Map.rpy#L148"
   },
   {
-    "key": "game/3 - World Map.rpy_L134_3",
+    "key": "game/3 - World Map.rpy_L148_3",
     "original": "Lingerie - Owned: [lingerie]",
-    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/3%20-%20World%20Map.rpy#L134"
+    "translation": "蕾丝内衣 - 拥有: [lingerie]",
+    "stage": 1,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/3%20-%20World%20Map.rpy#L148"
   },
   {
-    "key": "game/3 - World Map.rpy_L134_4",
+    "key": "game/3 - World Map.rpy_L148_4",
     "original": "Buttplug - Owned: [buttplug]",
-    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/3%20-%20World%20Map.rpy#L134"
+    "translation": "肛塞 - 拥有: [buttplug]",
+    "stage": 1,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/3%20-%20World%20Map.rpy#L148"
   },
   {
-    "key": "game/3 - World Map.rpy_L134_5",
+    "key": "game/3 - World Map.rpy_L148_5",
     "original": "Anal Lubrication - Owned: [lubrication]",
-    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/3%20-%20World%20Map.rpy#L134"
+    "translation": "肛门润滑剂 - 拥有: [lubrication]",
+    "stage": 1,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/3%20-%20World%20Map.rpy#L148"
   },
   {
-    "key": "game/3 - World Map.rpy_L134_6",
+    "key": "game/3 - World Map.rpy_L148_6",
     "original": "Lewd Spellbook - Owned: [lewdspellbook]",
-    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/3%20-%20World%20Map.rpy#L134"
+    "translation": "色情魔法书 - Owned: [lewdspellbook]",
+    "stage": 1,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/3%20-%20World%20Map.rpy#L148"
   },
   {
-    "key": "game/3 - World Map.rpy_L134_7",
+    "key": "game/3 - World Map.rpy_L148_7",
     "original": "Milky Potion - Owned: [pregpotion]",
-    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/3%20-%20World%20Map.rpy#L134"
+    "translation": "母乳药水 - 拥有: [pregpotion]",
+    "stage": 1,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/3%20-%20World%20Map.rpy#L148"
   },
   {
-    "key": "game/3 - World Map.rpy_L134_8",
+    "key": "game/3 - World Map.rpy_L148_8",
     "original": "Futa Pills - Owned: [futapill]",
-    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/3%20-%20World%20Map.rpy#L134"
+    "translation": "扶她药丸 - 拥有: [futapill]",
+    "stage": 1,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/3%20-%20World%20Map.rpy#L148"
   },
   {
-    "key": "game/3 - World Map.rpy_L249_0",
-    "original": "While replaying, you can return at any time using the phone.",
-    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/3%20-%20World%20Map.rpy#L249"
+    "key": "game/3 - World Map.rpy_L263_0",
+    "original": "Swap Hairstyle",
+    "translation": "发型切换",
+    "stage": 1,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/3%20-%20World%20Map.rpy#L263"
   },
   {
-    "key": "game/3 - World Map.rpy_L249_1",
-    "original": "Replay Intro",
-    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/3%20-%20World%20Map.rpy#L249"
+    "key": "game/3 - World Map.rpy_L263_1",
+    "original": "Performer Style 1",
+    "translation": "表演风格 1",
+    "stage": 1,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/3%20-%20World%20Map.rpy#L263"
   },
   {
-    "key": "game/3 - World Map.rpy_L249_2",
-    "original": "Replay [mox] & [pen] Double Blowjob",
-    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/3%20-%20World%20Map.rpy#L249"
+    "key": "game/3 - World Map.rpy_L263_2",
+    "original": "Performer Style 2",
+    "translation": "表演风格 2",
+    "stage": 1,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/3%20-%20World%20Map.rpy#L263"
   },
   {
-    "key": "game/3 - World Map.rpy_L249_3",
-    "original": "Replay [mox] & [pen] Threesome",
-    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/3%20-%20World%20Map.rpy#L249"
+    "key": "game/3 - World Map.rpy_L263_3",
+    "original": "Cloak",
+    "translation": "斗篷",
+    "stage": 1,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/3%20-%20World%20Map.rpy#L263"
   },
   {
-    "key": "game/3 - World Map.rpy_L273_0",
+    "key": "game/3 - World Map.rpy_L263_4",
+    "original": "Nude",
+    "translation": "裸体",
+    "stage": 1,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/3%20-%20World%20Map.rpy#L263"
+  },
+  {
+    "key": "game/3 - World Map.rpy_L295_0",
     "original": "Energy: [energy]",
-    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/3%20-%20World%20Map.rpy#L273"
+    "translation": "精力剩余: [energy]",
+    "stage": 1,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/3%20-%20World%20Map.rpy#L295"
   },
   {
-    "key": "game/3 - World Map.rpy_L273_1",
+    "key": "game/3 - World Map.rpy_L295_1",
     "original": "No Energy Left",
-    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/3%20-%20World%20Map.rpy#L273"
+    "translation": "没有精力剩余了！",
+    "stage": 1,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/3%20-%20World%20Map.rpy#L295"
   },
   {
-    "key": "game/3 - World Map.rpy_L273_2",
+    "key": "game/3 - World Map.rpy_L295_2",
     "original": "Facesitting",
-    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/3%20-%20World%20Map.rpy#L273"
+    "translation": "坐脸舔阴",
+    "stage": 1,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/3%20-%20World%20Map.rpy#L295"
   },
   {
-    "key": "game/3 - World Map.rpy_L273_3",
+    "key": "game/3 - World Map.rpy_L295_3",
     "original": "Legs-Up Missionary",
-    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/3%20-%20World%20Map.rpy#L273"
+    "translation": "抬腿男上位",
+    "stage": 1,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/3%20-%20World%20Map.rpy#L295"
   },
   {
-    "key": "game/3 - World Map.rpy_L273_4",
+    "key": "game/3 - World Map.rpy_L295_4",
     "original": "Standing From Behind",
-    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/3%20-%20World%20Map.rpy#L273"
+    "translation": "站立后入式",
+    "stage": 1,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/3%20-%20World%20Map.rpy#L295"
+  },
+  {
+    "key": "game/3 - World Map.rpy_L295_5",
+    "original": "Backstage Fun",
+    "translation": "后台乐趣",
+    "stage": 1,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/3%20-%20World%20Map.rpy#L295"
+  },
+  {
+    "key": "game/3 - World Map.rpy_L295_6",
+    "original": "Castle Celebration",
+    "translation": "城堡庆典",
+    "stage": 1,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/3%20-%20World%20Map.rpy#L295"
+  },
+  {
+    "key": "game/3 - World Map.rpy_L295_7",
+    "original": "Full Nelson",
+    "translation": "全裸",
+    "stage": 1,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/3%20-%20World%20Map.rpy#L295"
+  },
+  {
+    "key": "game/3 - World Map.rpy_L317_0",
+    "original": "Alternative Positions Guidebook",
+    "translation": "替代性工作岗位指南",
+    "stage": 1,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/3%20-%20World%20Map.rpy#L317"
+  },
+  {
+    "key": "game/3 - World Map.rpy_L317_1",
+    "original": "Costume Guideboom",
+    "translation": "服装指南",
+    "stage": 1,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/3%20-%20World%20Map.rpy#L317"
+  },
+  {
+    "key": "game/3 - World Map.rpy_L317_2",
+    "original": "Futa Guidebook",
+    "translation": "扶她指南",
+    "stage": 1,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/3%20-%20World%20Map.rpy#L317"
+  },
+  {
+    "key": "game/3 - World Map.rpy_L317_3",
+    "original": "Pregnancy Guidebook",
+    "translation": "怀孕指南",
+    "stage": 1,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/3%20-%20World%20Map.rpy#L317"
+  },
+  {
+    "key": "game/3 - World Map.rpy_L317_4",
+    "original": "Secrets Guidebook",
+    "translation": "秘辛指南",
+    "stage": 1,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/3%20-%20World%20Map.rpy#L317"
+  },
+  {
+    "key": "game/3 - World Map.rpy_L331_0",
+    "original": "While replaying, you can return at any time using the phone.",
+    "translation": "回放时，你可以随时用手机返回。",
+    "stage": 1,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/3%20-%20World%20Map.rpy#L331"
+  },
+  {
+    "key": "game/3 - World Map.rpy_L331_1",
+    "original": "Replay Intro",
+    "translation": "重放序章",
+    "stage": 1,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/3%20-%20World%20Map.rpy#L331"
+  },
+  {
+    "key": "game/3 - World Map.rpy_L331_2",
+    "original": "Replay [mox] & [pen] Double Blowjob",
+    "translation": "重放同 [mox] 和 [pen] 的双马口交",
+    "stage": 1,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/3%20-%20World%20Map.rpy#L331"
+  },
+  {
+    "key": "game/3 - World Map.rpy_L331_3",
+    "original": "Replay [mox] & [pen] Threesome",
+    "translation": "重放同 [mox] 和 [pen] 的3P",
+    "stage": 1,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/3%20-%20World%20Map.rpy#L331"
+  },
+  {
+    "key": "game/3 - World Map.rpy_L331_4",
+    "original": "Replay [mox]'s Concert",
+    "translation": "重放[mox]的演唱会",
+    "stage": 1,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/3%20-%20World%20Map.rpy#L331"
+  },
+  {
+    "key": "game/3 - World Map.rpy_L331_5",
+    "original": "Replay [mox] Secret",
+    "translation": "重玩[mox]秘密场景",
+    "stage": 1,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/3%20-%20World%20Map.rpy#L331"
+  },
+  {
+    "key": "game/3 - World Map.rpy_L519_0",
+    "original": "Replay from the Beginning",
+    "translation": "从头回放",
+    "stage": 1,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/3%20-%20World%20Map.rpy#L519"
+  },
+  {
+    "key": "game/3 - World Map.rpy_L519_1",
+    "original": "Replay from the New Content",
+    "translation": "从头回放",
+    "stage": 1,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/3%20-%20World%20Map.rpy#L519"
+  },
+  {
+    "key": "game/3 - World Map.rpy_L519_2",
+    "original": "Skip for Now",
+    "translation": "暂时跳过",
+    "stage": 1,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/3%20-%20World%20Map.rpy#L519"
   }
 ]

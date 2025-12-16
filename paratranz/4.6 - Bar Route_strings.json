@@ -1,17 +1,296 @@
 [
   {
-    "key": "game/4.6 - Bar Route.rpy_L11_0",
-    "original": "Returning to Butters is in development since it'll directly follow into her next story event.",
-    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.6%20-%20Bar%20Route.rpy#L11"
+    "key": "game/4.6 - Bar Route.rpy_L9_0",
+    "original": "Meet with [sky] and [rik]",
+    "translation": "与[sky]和[rik]见面",
+    "stage": 3,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.6%20-%20Bar%20Route.rpy#L9"
   },
   {
-    "key": "game/4.6 - Bar Route.rpy_L11_1",
-    "original": "Sex (In Development)",
-    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.6%20-%20Bar%20Route.rpy#L11"
+    "key": "game/4.6 - Bar Route.rpy_L9_1",
+    "original": "I just got a text from [rik] (Bar 3)",
+    "translation": "我刚收到一条来自[rik]的消息 (酒吧 3)",
+    "stage": 3,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.6%20-%20Bar%20Route.rpy#L9"
   },
   {
-    "key": "game/4.6 - Bar Route.rpy_L148_0",
+    "key": "game/4.6 - Bar Route.rpy_L9_2",
+    "original": "I just got a text from [sky] (Bar 4)",
+    "translation": "我刚收到一条来自[sky]的消息 (酒吧 4)",
+    "stage": 3,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.6%20-%20Bar%20Route.rpy#L9"
+  },
+  {
+    "key": "game/4.6 - Bar Route.rpy_L9_3",
+    "original": "Hangout with [rik]",
+    "translation": "和[rik]待在一起",
+    "stage": 3,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.6%20-%20Bar%20Route.rpy#L9"
+  },
+  {
+    "key": "game/4.6 - Bar Route.rpy_L9_4",
+    "original": "Invite [sky]",
+    "translation": "邀请[sky]",
+    "stage": 3,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.6%20-%20Bar%20Route.rpy#L9"
+  },
+  {
+    "key": "game/4.6 - Bar Route.rpy_L9_5",
+    "original": "Invite [rik]",
+    "translation": "邀请[rik]",
+    "stage": 3,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.6%20-%20Bar%20Route.rpy#L9"
+  },
+  {
+    "key": "game/4.6 - Bar Route.rpy_L9_6",
+    "original": "Talk to [sky]",
+    "translation": "和[sky]谈话",
+    "stage": 3,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.6%20-%20Bar%20Route.rpy#L9"
+  },
+  {
+    "key": "game/4.6 - Bar Route.rpy_L9_7",
+    "original": "Talk to [rik]",
+    "translation": "[rik]谈话",
+    "stage": 3,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.6%20-%20Bar%20Route.rpy#L9"
+  },
+  {
+    "key": "game/4.6 - Bar Route.rpy_L9_8",
+    "original": "Sex (No Energy!)",
+    "translation": "做爱（精力不足！）",
+    "stage": 3,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.6%20-%20Bar%20Route.rpy#L9"
+  },
+  {
+    "key": "game/4.6 - Bar Route.rpy_L75_0",
+    "original": "[sky] Gym",
+    "translation": "[sky] 健身房",
+    "stage": 3,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.6%20-%20Bar%20Route.rpy#L75"
+  },
+  {
+    "key": "game/4.6 - Bar Route.rpy_L75_1",
+    "original": "[rik] Gym",
+    "translation": "[rik] 健身房",
+    "stage": 3,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.6%20-%20Bar%20Route.rpy#L75"
+  },
+  {
+    "key": "game/4.6 - Bar Route.rpy_L75_2",
+    "original": "[rik] Casual",
+    "translation": "[rik] 休闲",
+    "stage": 3,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.6%20-%20Bar%20Route.rpy#L75"
+  },
+  {
+    "key": "game/4.6 - Bar Route.rpy_L97_0",
+    "original": "[sky] Couch Sex",
+    "translation": "[sky] 去沙发上做爱",
+    "stage": 3,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.6%20-%20Bar%20Route.rpy#L97"
+  },
+  {
+    "key": "game/4.6 - Bar Route.rpy_L97_1",
+    "original": "[sky] & [blo] Threesome",
+    "translation": "[sky]和[blo] 3P",
+    "stage": 3,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.6%20-%20Bar%20Route.rpy#L97"
+  },
+  {
+    "key": "game/4.6 - Bar Route.rpy_L97_2",
+    "original": "[sky], [blo] & [mel] Foursome",
+    "translation": "[sky]、[blo]和[mel] 4P",
+    "stage": 3,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.6%20-%20Bar%20Route.rpy#L97"
+  },
+  {
+    "key": "game/4.6 - Bar Route.rpy_L97_3",
+    "original": "[rik] Velvet Triangle",
+    "translation": "[rik] Velvet Triangle",
+    "stage": 1,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.6%20-%20Bar%20Route.rpy#L97"
+  },
+  {
+    "key": "game/4.6 - Bar Route.rpy_L97_4",
+    "original": "[rik] Poolside",
+    "translation": "[rik] 泳池边",
+    "stage": 3,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.6%20-%20Bar%20Route.rpy#L97"
+  },
+  {
+    "key": "game/4.6 - Bar Route.rpy_L97_5",
+    "original": "[rik] 'Sleeping' Sex",
+    "translation": "[rik] “睡”奸",
+    "stage": 3,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.6%20-%20Bar%20Route.rpy#L97"
+  },
+  {
+    "key": "game/4.6 - Bar Route.rpy_L97_6",
+    "original": "[rik] & [rub] Threesome",
+    "translation": "[rik]和[rik] 3P",
+    "stage": 3,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.6%20-%20Bar%20Route.rpy#L97"
+  },
+  {
+    "key": "game/4.6 - Bar Route.rpy_L97_7",
+    "original": "[rik] Balcony Fun",
+    "translation": "[rik] 阳台享乐",
+    "stage": 3,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.6%20-%20Bar%20Route.rpy#L97"
+  },
+  {
+    "key": "game/4.6 - Bar Route.rpy_L129_0",
+    "original": "Bar Visit 1",
+    "translation": "酒吧 第一次拜访",
+    "stage": 3,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.6%20-%20Bar%20Route.rpy#L129"
+  },
+  {
+    "key": "game/4.6 - Bar Route.rpy_L129_1",
+    "original": "Bar Visit 2",
+    "translation": "酒吧 第二次拜访",
+    "stage": 3,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.6%20-%20Bar%20Route.rpy#L129"
+  },
+  {
+    "key": "game/4.6 - Bar Route.rpy_L129_2",
+    "original": "Bar Visit 3",
+    "translation": "酒吧 第三次拜访",
+    "stage": 3,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.6%20-%20Bar%20Route.rpy#L129"
+  },
+  {
+    "key": "game/4.6 - Bar Route.rpy_L129_3",
+    "original": "Bar Visit 4",
+    "translation": "酒吧 第四次拜访",
+    "stage": 3,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.6%20-%20Bar%20Route.rpy#L129"
+  },
+  {
+    "key": "game/4.6 - Bar Route.rpy_L129_4",
+    "original": "[rik] Secret",
+    "translation": "[rik] 秘密场景",
+    "stage": 3,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.6%20-%20Bar%20Route.rpy#L129"
+  },
+  {
+    "key": "game/4.6 - Bar Route.rpy_L218_0",
+    "original": "Her name was...",
+    "translation": "她的名字是......",
+    "stage": 3,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.6%20-%20Bar%20Route.rpy#L218"
+  },
+  {
+    "key": "game/4.6 - Bar Route.rpy_L218_1",
+    "original": "Default: Skye",
+    "translation": "默认：SKye",
+    "stage": 3,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.6%20-%20Bar%20Route.rpy#L218"
+  },
+  {
+    "key": "game/4.6 - Bar Route.rpy_L340_0",
+    "original": "How did you meet [rik]?",
+    "translation": "你怎么认识[rik]的?",
+    "stage": 3,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.6%20-%20Bar%20Route.rpy#L340"
+  },
+  {
+    "key": "game/4.6 - Bar Route.rpy_L340_1",
+    "original": "What do {i}you{/i} do for fun?",
+    "translation": "{i}你{/i}做什么取乐？",
+    "stage": 3,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.6%20-%20Bar%20Route.rpy#L340"
+  },
+  {
+    "key": "game/4.6 - Bar Route.rpy_L340_2",
+    "original": "What was it like being a top athlete?",
+    "translation": "成为顶尖运动员是什么感觉？",
+    "stage": 3,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.6%20-%20Bar%20Route.rpy#L340"
+  },
+  {
+    "key": "game/4.6 - Bar Route.rpy_L437_0",
     "original": "{i}Excuse yourself{/i}",
-    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.6%20-%20Bar%20Route.rpy#L148"
+    "translation": "{i}解释你自己{/i}",
+    "stage": 1,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.6%20-%20Bar%20Route.rpy#L437"
+  },
+  {
+    "key": "game/4.6 - Bar Route.rpy_L863_0",
+    "original": "Dive in",
+    "translation": "投身行动",
+    "stage": 1,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.6%20-%20Bar%20Route.rpy#L863"
+  },
+  {
+    "key": "game/4.6 - Bar Route.rpy_L863_1",
+    "original": "I think you’ve had too many drinks",
+    "translation": "我想你喝得太多了",
+    "stage": 1,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.6%20-%20Bar%20Route.rpy#L863"
+  },
+  {
+    "key": "game/4.6 - Bar Route.rpy_L904_0",
+    "original": "A public anal show? Might as well!",
+    "translation": "一个公共肛门展？不妨试试！",
+    "stage": 1,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.6%20-%20Bar%20Route.rpy#L904"
+  },
+  {
+    "key": "game/4.6 - Bar Route.rpy_L904_1",
+    "original": "Let’s go somewhere more private.",
+    "translation": "让我们去个更私密的地方吧。",
+    "stage": 1,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.6%20-%20Bar%20Route.rpy#L904"
+  },
+  {
+    "key": "game/4.6 - Bar Route.rpy_L904_2",
+    "original": "This is too much too soon!",
+    "translation": "这太多太快了！",
+    "stage": 1,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.6%20-%20Bar%20Route.rpy#L904"
+  },
+  {
+    "key": "game/4.6 - Bar Route.rpy_L1227_0",
+    "original": "{i}Dive in{/i}",
+    "translation": "{i}投身行动{/i}",
+    "stage": 1,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.6%20-%20Bar%20Route.rpy#L1227"
+  },
+  {
+    "key": "game/4.6 - Bar Route.rpy_L1227_1",
+    "original": "I have a case of whiskey dick!",
+    "translation": "我喝得太多，硬不起来了！",
+    "stage": 1,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.6%20-%20Bar%20Route.rpy#L1227"
+  },
+  {
+    "key": "game/4.6 - Bar Route.rpy_L1422_0",
+    "original": "I have an idea...",
+    "translation": "我有个主意......",
+    "stage": 1,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.6%20-%20Bar%20Route.rpy#L1422"
+  },
+  {
+    "key": "game/4.6 - Bar Route.rpy_L1422_1",
+    "original": "Wake her up",
+    "translation": "把她叫醒",
+    "stage": 1,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.6%20-%20Bar%20Route.rpy#L1422"
+  },
+  {
+    "key": "game/4.6 - Bar Route.rpy_L1802_0",
+    "original": "Threesome time?",
+    "translation": "三人行时间？",
+    "stage": 1,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.6%20-%20Bar%20Route.rpy#L1802"
+  },
+  {
+    "key": "game/4.6 - Bar Route.rpy_L1802_1",
+    "original": "I am god's sleepiest warrior.",
+    "translation": "我是上帝最嗜睡的战士。",
+    "stage": 1,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.6%20-%20Bar%20Route.rpy#L1802"
   }
 ]

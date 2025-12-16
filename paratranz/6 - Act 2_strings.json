@@ -1,0 +1,702 @@
+[
+  {
+    "key": "game/6 - Act 2.rpy_L12_0",
+    "original": "{cps=*100}{i}Queen [aug]'s castle is built within the remains of an ancient colosseum, repurposed into a hub of magical knowledge and training. Alongside the Royal Arcadian College, the Crystal Kingdom stands as a global leader in magical education.{/i}{/cps}",
+    "translation": "{cps=*100}{i}[aug]女王的城堡坐落于一座古老斗兽场的遗迹之中——这座遗迹已被改造，成为汇聚魔法知识与训练的核心之地。而水晶王国，连同Arcadia皇家学院一道，已然是全球魔法教育领域的领军者。{/i}{/cps}",
+    "stage": 3,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/6%20-%20Act%202.rpy#L12"
+  },
+  {
+    "key": "game/6 - Act 2.rpy_L12_1",
+    "original": "Visit Queen [aug]",
+    "translation": "拜访[aug]女王",
+    "stage": 3,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/6%20-%20Act%202.rpy#L12"
+  },
+  {
+    "key": "game/6 - Act 2.rpy_L12_2",
+    "original": "Spend the day with [rub] and [bla]?",
+    "translation": "与[rub]和[bia]度过一天？",
+    "stage": 3,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/6%20-%20Act%202.rpy#L12"
+  },
+  {
+    "key": "game/6 - Act 2.rpy_L12_3",
+    "original": "(Training Complete!)",
+    "translation": "（训练完成！）",
+    "stage": 3,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/6%20-%20Act%202.rpy#L12"
+  },
+  {
+    "key": "game/6 - Act 2.rpy_L12_4",
+    "original": "Check in with everyone!",
+    "translation": "和大家确认情况！",
+    "stage": 3,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/6%20-%20Act%202.rpy#L12"
+  },
+  {
+    "key": "game/6 - Act 2.rpy_L12_5",
+    "original": "Meet up with [daw] and [bla]",
+    "translation": "与[daw]和[bla]见面",
+    "stage": 3,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/6%20-%20Act%202.rpy#L12"
+  },
+  {
+    "key": "game/6 - Act 2.rpy_L21_0",
+    "original": "Spend Time Together",
+    "translation": "一起共度时光",
+    "stage": 3,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/6%20-%20Act%202.rpy#L21"
+  },
+  {
+    "key": "game/6 - Act 2.rpy_L25_0",
+    "original": "Balcony Sex (Replay)",
+    "translation": "阳台性爱（重放）",
+    "stage": 3,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/6%20-%20Act%202.rpy#L25"
+  },
+  {
+    "key": "game/6 - Act 2.rpy_L58_0",
+    "original": "{cps=*100}{i}The Crystal Kingdom grew from the ruins of an old magic school and colosseum, shaping its culture around training, military strength, and magical mastery.{/i}{/cps}",
+    "translation": "{cps=*100}{i}水晶王国发源于一所古老魔法学校与一座斗兽场的遗迹之上，其文化围绕着训练、军事力量与魔法精通构建而成。{/i}{/cps}",
+    "stage": 3,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/6%20-%20Act%202.rpy#L58"
+  },
+  {
+    "key": "game/6 - Act 2.rpy_L58_1",
+    "original": "Spend the day with [hon] and [rik]?",
+    "translation": "与[hon]和[rik]度过一天？",
+    "stage": 3,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/6%20-%20Act%202.rpy#L58"
+  },
+  {
+    "key": "game/6 - Act 2.rpy_L75_0",
+    "original": "{cps=*100}{i}Known as the largest and most prestigious hotel in the Kingdom, the Elysian Lodge boasts luxury suites with balconies overlooking the city.{/i}{/cps}",
+    "translation": "{cps=*100}{i}Elysian旅馆是王国境内规模最大、声誉最盛的旅馆，其引以为傲的豪华套房均带有阳台，可将整座城市的景致尽收眼底。{/i}{/cps}",
+    "stage": 1,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/6%20-%20Act%202.rpy#L75"
+  },
+  {
+    "key": "game/6 - Act 2.rpy_L75_1",
+    "original": "Replay Act 2 Events",
+    "translation": "重放事件 Act 2",
+    "stage": 1,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/6%20-%20Act%202.rpy#L75"
+  },
+  {
+    "key": "game/6 - Act 2.rpy_L134_0",
+    "original": "Training Grounds - [hon] and [rik]",
+    "translation": "训练场——[hon]和[rik]",
+    "stage": 1,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/6%20-%20Act%202.rpy#L134"
+  },
+  {
+    "key": "game/6 - Act 2.rpy_L134_1",
+    "original": "Magic Lessons - [rub] and [bla]",
+    "translation": "魔法课程——[rub]和[bla]",
+    "stage": 1,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/6%20-%20Act%202.rpy#L134"
+  },
+  {
+    "key": "game/6 - Act 2.rpy_L134_2",
+    "original": "Confronting Umbra",
+    "translation": "直面Umbra",
+    "stage": 1,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/6%20-%20Act%202.rpy#L134"
+  },
+  {
+    "key": "game/6 - Act 2.rpy_L134_3",
+    "original": "Reconcillation - [pen]",
+    "translation": "和解——[pen]",
+    "stage": 1,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/6%20-%20Act%202.rpy#L134"
+  },
+  {
+    "key": "game/6 - Act 2.rpy_L134_4",
+    "original": "Final Plan - [but]",
+    "translation": "最终计划——[but]",
+    "stage": 1,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/6%20-%20Act%202.rpy#L134"
+  },
+  {
+    "key": "game/6 - Act 2.rpy_L134_5",
+    "original": "Back to the Future - [daw]",
+    "translation": "回到未来——[daw]",
+    "stage": 1,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/6%20-%20Act%202.rpy#L134"
+  },
+  {
+    "key": "game/6 - Act 2.rpy_L134_6",
+    "original": "Take it Back - [aur] and [aug]",
+    "translation": "夺回——[aur]和[aug]",
+    "stage": 1,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/6%20-%20Act%202.rpy#L134"
+  },
+  {
+    "key": "game/6 - Act 2.rpy_L191_0",
+    "original": "Nothing to do here right now",
+    "translation": "现在无事可做",
+    "stage": 1,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/6%20-%20Act%202.rpy#L191"
+  },
+  {
+    "key": "game/6 - Act 2.rpy_L191_1",
+    "original": "Check in with [pen]!",
+    "translation": "和[pen]确认情况！",
+    "stage": 1,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/6%20-%20Act%202.rpy#L191"
+  },
+  {
+    "key": "game/6 - Act 2.rpy_L202_0",
+    "original": "{cps=*100}{i}Spanning an incredible 50 spans, Cadia Falls is the country’s largest waterfall. A roaring river plunges into a deep gorge, the air thick with mist and the thunderous sound of cascading water{/i}{/cps}",
+    "translation": "{cps=*100}{i}Cadia瀑布宽达惊人的 50 跨距，是这个国家最大的瀑布。一条奔腾的河流倾泻入幽深的峡谷，空气中弥漫着浓重的水雾，耳边满是水流奔涌而下的雷鸣般巨响。{/i}{/cps}",
+    "stage": 1,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/6%20-%20Act%202.rpy#L202"
+  },
+  {
+    "key": "game/6 - Act 2.rpy_L202_1",
+    "original": "This is where we'll meet Umbra when the time is right.",
+    "translation": "我们在合适的时间将在这里见到UMbra。",
+    "stage": 1,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/6%20-%20Act%202.rpy#L202"
+  },
+  {
+    "key": "game/6 - Act 2.rpy_L202_2",
+    "original": "Confront Umbra",
+    "translation": "面对Umbra",
+    "stage": 1,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/6%20-%20Act%202.rpy#L202"
+  },
+  {
+    "key": "game/6 - Act 2.rpy_L219_0",
+    "original": "Let's take Umbra down!",
+    "translation": "一起打败Umbra！",
+    "stage": 1,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/6%20-%20Act%202.rpy#L219"
+  },
+  {
+    "key": "game/6 - Act 2.rpy_L219_1",
+    "original": "Not yet.",
+    "translation": "还没到时候。",
+    "stage": 1,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/6%20-%20Act%202.rpy#L219"
+  },
+  {
+    "key": "game/6 - Act 2.rpy_L219_2",
+    "original": "(Return to Arcadia Free Roam)",
+    "translation": "（回到Arcadia自由探索）",
+    "stage": 1,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/6%20-%20Act%202.rpy#L219"
+  },
+  {
+    "key": "game/6 - Act 2.rpy_L532_0",
+    "original": "How about another night?",
+    "translation": "另一晚怎么样？",
+    "stage": 1,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/6%20-%20Act%202.rpy#L532"
+  },
+  {
+    "key": "game/6 - Act 2.rpy_L1339_0",
+    "original": "Default: Augusta",
+    "translation": "默认：Augusta",
+    "stage": 1,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/6%20-%20Act%202.rpy#L1339"
+  },
+  {
+    "key": "game/6 - Act 2.rpy_L1687_0",
+    "original": "Let her continue.",
+    "translation": "让她继续。",
+    "stage": 1,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/6%20-%20Act%202.rpy#L1687"
+  },
+  {
+    "key": "game/6 - Act 2.rpy_L1687_1",
+    "original": "I'm gonna stop you right there-!",
+    "translation": "我会在这阻止你——！",
+    "stage": 1,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/6%20-%20Act%202.rpy#L1687"
+  },
+  {
+    "key": "game/6 - Act 2.rpy_L1774_0",
+    "original": "Hell yeah!",
+    "translation": "太棒了！",
+    "stage": 1,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/6%20-%20Act%202.rpy#L1774"
+  },
+  {
+    "key": "game/6 - Act 2.rpy_L1774_1",
+    "original": "Nah, not tonight.",
+    "translation": "不，今晚就算了。",
+    "stage": 1,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/6%20-%20Act%202.rpy#L1774"
+  },
+  {
+    "key": "game/6 - Act 2.rpy_L2058_0",
+    "original": "Let her continue",
+    "translation": "让她继续",
+    "stage": 1,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/6%20-%20Act%202.rpy#L2058"
+  },
+  {
+    "key": "game/6 - Act 2.rpy_L2058_1",
+    "original": "Let's save our strength for training",
+    "translation": "我们留点力气训练吧",
+    "stage": 1,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/6%20-%20Act%202.rpy#L2058"
+  },
+  {
+    "key": "game/6 - Act 2.rpy_L2453_0",
+    "original": "Move in",
+    "translation": "进入",
+    "stage": 1,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/6%20-%20Act%202.rpy#L2453"
+  },
+  {
+    "key": "game/6 - Act 2.rpy_L2453_1",
+    "original": "Seriously?! I have absolutely no energy!",
+    "translation": "真的假的？！我一点精力都没有了！",
+    "stage": 1,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/6%20-%20Act%202.rpy#L2453"
+  },
+  {
+    "key": "game/6 - Act 2.rpy_L2629_0",
+    "original": "{i}Play along{/i} (Four CG)",
+    "translation": "{i}假装顺从{/i}（四个CG）",
+    "stage": 1,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/6%20-%20Act%202.rpy#L2629"
+  },
+  {
+    "key": "game/6 - Act 2.rpy_L2629_1",
+    "original": "Shouldn't we conserve our energy?",
+    "translation": "我们不应该保存点精力留着训练吗？",
+    "stage": 1,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/6%20-%20Act%202.rpy#L2629"
+  },
+  {
+    "key": "game/6 - Act 2.rpy_L2820_0",
+    "original": "You got it!",
+    "translation": "没问题！",
+    "stage": 1,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/6%20-%20Act%202.rpy#L2820"
+  },
+  {
+    "key": "game/6 - Act 2.rpy_L2820_1",
+    "original": "I'd like to save my strength",
+    "translation": "我还是想省点力气",
+    "stage": 1,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/6%20-%20Act%202.rpy#L2820"
+  },
+  {
+    "key": "game/6 - Act 2.rpy_L3308_0",
+    "original": "It’s okay, I was only kidding",
+    "translation": "没事，我只是开个玩笑",
+    "stage": 1,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/6%20-%20Act%202.rpy#L3308"
+  },
+  {
+    "key": "game/6 - Act 2.rpy_L3536_0",
+    "original": "That makes it even better!",
+    "translation": "这简直更好了！",
+    "stage": 1,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/6%20-%20Act%202.rpy#L3536"
+  },
+  {
+    "key": "game/6 - Act 2.rpy_L3536_1",
+    "original": "Let's stop here",
+    "translation": "我们在这儿停一停吧",
+    "stage": 1,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/6%20-%20Act%202.rpy#L3536"
+  },
+  {
+    "key": "game/6 - Act 2.rpy_L3918_0",
+    "original": "Honestly? I do.",
+    "translation": "说实话？我同意你的看法。",
+    "stage": 1,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/6%20-%20Act%202.rpy#L3918"
+  },
+  {
+    "key": "game/6 - Act 2.rpy_L3918_1",
+    "original": "The people deserve a choice.",
+    "translation": "大家应当都有选择的权利。",
+    "stage": 1,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/6%20-%20Act%202.rpy#L3918"
+  },
+  {
+    "key": "game/6 - Act 2.rpy_L3918_2",
+    "original": "It’s far more nuanced than you’re giving it credit for.",
+    "translation": "情况比你想的要复杂得多。",
+    "stage": 1,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/6%20-%20Act%202.rpy#L3918"
+  },
+  {
+    "key": "game/6 - Act 2.rpy_L3918_3",
+    "original": "I completely disagree.",
+    "translation": "我完全同意。",
+    "stage": 1,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/6%20-%20Act%202.rpy#L3918"
+  },
+  {
+    "key": "game/6 - Act 2.rpy_L4179_0",
+    "original": "You didn’t fail anyone, [lil].",
+    "translation": "你没有错，[lil]",
+    "stage": 3,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/6%20-%20Act%202.rpy#L4179"
+  },
+  {
+    "key": "game/6 - Act 2.rpy_L4179_1",
+    "original": "We all share the blame. This wasn’t just on you.",
+    "translation": "不只是你，我们都应该承担责任。",
+    "stage": 1,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/6%20-%20Act%202.rpy#L4179"
+  },
+  {
+    "key": "game/6 - Act 2.rpy_L4179_2",
+    "original": "Yeah. You did.",
+    "translation": "嗯。你的确是。",
+    "stage": 1,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/6%20-%20Act%202.rpy#L4179"
+  },
+  {
+    "key": "game/6 - Act 2.rpy_L4179_3",
+    "original": "{i}Stay silent{/i}",
+    "translation": "{i}保持沉默{/i}",
+    "stage": 1,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/6%20-%20Act%202.rpy#L4179"
+  },
+  {
+    "key": "game/6 - Act 2.rpy_L4240_0",
+    "original": "You’re not useless.",
+    "translation": "你不是废物。",
+    "stage": 1,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/6%20-%20Act%202.rpy#L4240"
+  },
+  {
+    "key": "game/6 - Act 2.rpy_L4240_1",
+    "original": "This is just one experience in a life full of them",
+    "translation": "这不过是马生中众多经历的一段而已",
+    "stage": 1,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/6%20-%20Act%202.rpy#L4240"
+  },
+  {
+    "key": "game/6 - Act 2.rpy_L4240_2",
+    "original": "Yeah… that’s rough.",
+    "translation": "是啊......那是挺难受的。",
+    "stage": 1,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/6%20-%20Act%202.rpy#L4240"
+  },
+  {
+    "key": "game/6 - Act 2.rpy_L4240_3",
+    "original": "{i}Stay Silent{/i}",
+    "translation": "{i}保持沉默{/i}",
+    "stage": 1,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/6%20-%20Act%202.rpy#L4240"
+  },
+  {
+    "key": "game/6 - Act 2.rpy_L4301_0",
+    "original": "No, but rushing in wouldn’t have helped either.",
+    "translation": "是啊，但贸然冲上去也不会有多大帮助。",
+    "stage": 1,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/6%20-%20Act%202.rpy#L4301"
+  },
+  {
+    "key": "game/6 - Act 2.rpy_L4301_1",
+    "original": "Maybe you’re right. We should’ve shut him down sooner.",
+    "translation": "也许你是对的。我们本该早点阻止他的。",
+    "stage": 1,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/6%20-%20Act%202.rpy#L4301"
+  },
+  {
+    "key": "game/6 - Act 2.rpy_L4301_2",
+    "original": "You’re just mad because we didn’t get to hit anything.",
+    "translation": "你只是因为我们没能伤到他而生气。",
+    "stage": 1,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/6%20-%20Act%202.rpy#L4301"
+  },
+  {
+    "key": "game/6 - Act 2.rpy_L4301_3",
+    "original": "{i}Say nothing. Just stand beside her{/i}",
+    "translation": "{i}什么也不说。只是站在她身旁{/i}",
+    "stage": 1,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/6%20-%20Act%202.rpy#L4301"
+  },
+  {
+    "key": "game/6 - Act 2.rpy_L4361_0",
+    "original": "You’re in no one’s cage.",
+    "translation": "没人会限制你。",
+    "stage": 1,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/6%20-%20Act%202.rpy#L4361"
+  },
+  {
+    "key": "game/6 - Act 2.rpy_L4361_1",
+    "original": "It’s okay to be afraid.",
+    "translation": "会害怕也没关系。",
+    "stage": 1,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/6%20-%20Act%202.rpy#L4361"
+  },
+  {
+    "key": "game/6 - Act 2.rpy_L4361_2",
+    "original": "He has no power over you.",
+    "translation": "他左右不了你。",
+    "stage": 1,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/6%20-%20Act%202.rpy#L4361"
+  },
+  {
+    "key": "game/6 - Act 2.rpy_L4361_3",
+    "original": "{i}Stay silent. Let her talk{/i}",
+    "translation": "{i}保持沉默。让她倾诉{/i}",
+    "stage": 1,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/6%20-%20Act%202.rpy#L4361"
+  },
+  {
+    "key": "game/6 - Act 2.rpy_L4411_0",
+    "original": "You’re actually considering his argument?",
+    "translation": "你真的在考虑他的说法？",
+    "stage": 1,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/6%20-%20Act%202.rpy#L4411"
+  },
+  {
+    "key": "game/6 - Act 2.rpy_L4411_1",
+    "original": "I don’t know. But I get why you're asking.",
+    "translation": "我不知道。但我知道你为什么这么问。",
+    "stage": 1,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/6%20-%20Act%202.rpy#L4411"
+  },
+  {
+    "key": "game/6 - Act 2.rpy_L4424_0",
+    "original": "[aur] has ruled well for centuries. Do you really think she’s unfit?",
+    "translation": "[aur]百年来的治理都很好。你真的觉得她不称职吗？",
+    "stage": 1,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/6%20-%20Act%202.rpy#L4424"
+  },
+  {
+    "key": "game/6 - Act 2.rpy_L4424_1",
+    "original": "I’m not sure…",
+    "translation": "我不确定......",
+    "stage": 1,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/6%20-%20Act%202.rpy#L4424"
+  },
+  {
+    "key": "game/6 - Act 2.rpy_L4458_0",
+    "original": "We’ll figure it out. We always do.",
+    "translation": "我们会解决的。我们一直如此。",
+    "stage": 1,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/6%20-%20Act%202.rpy#L4458"
+  },
+  {
+    "key": "game/6 - Act 2.rpy_L4458_1",
+    "original": "I don’t know yet. But I get why you’re frustrated",
+    "translation": "我还不清楚。但我理解你为什么会感到沮丧",
+    "stage": 1,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/6%20-%20Act%202.rpy#L4458"
+  },
+  {
+    "key": "game/6 - Act 2.rpy_L4458_2",
+    "original": "Losing’s part of the game, [rik]. We have to learn from it.",
+    "translation": "失败也是比赛的一部分，[rik]。我们必须从中吸取教训。",
+    "stage": 1,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/6%20-%20Act%202.rpy#L4458"
+  },
+  {
+    "key": "game/6 - Act 2.rpy_L4509_0",
+    "original": "I don’t know yet.",
+    "translation": "我还不清楚。",
+    "stage": 1,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/6%20-%20Act%202.rpy#L4509"
+  },
+  {
+    "key": "game/6 - Act 2.rpy_L4509_1",
+    "original": "He makes some good points.",
+    "translation": "他的确说到了几点。",
+    "stage": 1,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/6%20-%20Act%202.rpy#L4509"
+  },
+  {
+    "key": "game/6 - Act 2.rpy_L4509_2",
+    "original": "He’s dangerous, and we can’t let him win.",
+    "translation": "他很危险，所以我们绝不能让他赢。",
+    "stage": 1,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/6%20-%20Act%202.rpy#L4509"
+  },
+  {
+    "key": "game/6 - Act 2.rpy_L4525_0",
+    "original": "The system isn’t perfect but tearing it down isn’t the answer.",
+    "translation": "这个体系不够完善，但推翻它也不是个好的选择。",
+    "stage": 1,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/6%20-%20Act%202.rpy#L4525"
+  },
+  {
+    "key": "game/6 - Act 2.rpy_L4525_1",
+    "original": "Rulers shouldn’t be decided by birthright or nepotism.",
+    "translation": "谁是领导者不应取决于血缘或着交情。",
+    "stage": 1,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/6%20-%20Act%202.rpy#L4525"
+  },
+  {
+    "key": "game/6 - Act 2.rpy_L4525_2",
+    "original": "Right or wrong, we have to stop him.",
+    "translation": "无论是非对错，我们都必须阻止他。",
+    "stage": 1,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/6%20-%20Act%202.rpy#L4525"
+  },
+  {
+    "key": "game/6 - Act 2.rpy_L4588_0",
+    "original": "If he tricked us once, he’ll do it again.",
+    "translation": "如果他耍过我们一次，肯定还会有第二次。",
+    "stage": 1,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/6%20-%20Act%202.rpy#L4588"
+  },
+  {
+    "key": "game/6 - Act 2.rpy_L4588_1",
+    "original": "So what if we don’t have proof yet? That doesn’t mean you’re wrong.",
+    "translation": "就算我们没证据又如何？那又不能说明你是错的。",
+    "stage": 1,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/6%20-%20Act%202.rpy#L4588"
+  },
+  {
+    "key": "game/6 - Act 2.rpy_L4588_2",
+    "original": "What if it isn’t our magic, but something else?",
+    "translation": "如果那不是我们的魔法，而是其他的什么呢？",
+    "stage": 1,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/6%20-%20Act%202.rpy#L4588"
+  },
+  {
+    "key": "game/6 - Act 2.rpy_L4630_0",
+    "original": "What’s on your mind?",
+    "translation": "你在想什么呢？",
+    "stage": 1,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/6%20-%20Act%202.rpy#L4630"
+  },
+  {
+    "key": "game/6 - Act 2.rpy_L4630_1",
+    "original": "Is this about why you got angry at Umbra?",
+    "translation": "这就是你恨Umbra的原因吗？",
+    "stage": 1,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/6%20-%20Act%202.rpy#L4630"
+  },
+  {
+    "key": "game/6 - Act 2.rpy_L4630_2",
+    "original": "You’ve been acting strange lately.",
+    "translation": "你最近怎么怪怪的。",
+    "stage": 1,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/6%20-%20Act%202.rpy#L4630"
+  },
+  {
+    "key": "game/6 - Act 2.rpy_L4671_0",
+    "original": "This isn’t something we can sit on!",
+    "translation": "这事我们可不能坐视不理！",
+    "stage": 1,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/6%20-%20Act%202.rpy#L4671"
+  },
+  {
+    "key": "game/6 - Act 2.rpy_L4671_1",
+    "original": "I understand.",
+    "translation": "我明白。",
+    "stage": 1,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/6%20-%20Act%202.rpy#L4671"
+  },
+  {
+    "key": "game/6 - Act 2.rpy_L4956_0",
+    "original": "Mercy",
+    "translation": "怜悯",
+    "stage": 1,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/6%20-%20Act%202.rpy#L4956"
+  },
+  {
+    "key": "game/6 - Act 2.rpy_L4956_1",
+    "original": "Compassion",
+    "translation": "共情",
+    "stage": 1,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/6%20-%20Act%202.rpy#L4956"
+  },
+  {
+    "key": "game/6 - Act 2.rpy_L4956_2",
+    "original": "Honor",
+    "translation": "荣耀",
+    "stage": 1,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/6%20-%20Act%202.rpy#L4956"
+  },
+  {
+    "key": "game/6 - Act 2.rpy_L4956_3",
+    "original": "Friendship",
+    "translation": "友谊",
+    "stage": 1,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/6%20-%20Act%202.rpy#L4956"
+  },
+  {
+    "key": "game/6 - Act 2.rpy_L5135_0",
+    "original": "Then you’d better be quiet.",
+    "translation": "那你最好安静点。",
+    "stage": 1,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/6%20-%20Act%202.rpy#L5135"
+  },
+  {
+    "key": "game/6 - Act 2.rpy_L5135_1",
+    "original": "Right! Let's not get carried away.",
+    "translation": "对！咱们别跑偏了。",
+    "stage": 1,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/6%20-%20Act%202.rpy#L5135"
+  },
+  {
+    "key": "game/6 - Act 2.rpy_L5708_0",
+    "original": "{i}Worshipping time{/i}",
+    "translation": "{i}供奉时间{/i}",
+    "stage": 1,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/6%20-%20Act%202.rpy#L5708"
+  },
+  {
+    "key": "game/6 - Act 2.rpy_L5708_1",
+    "original": "Sorry, I need to prepare for tomorrow!",
+    "translation": "抱歉，我得为明天做准备！",
+    "stage": 1,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/6%20-%20Act%202.rpy#L5708"
+  },
+  {
+    "key": "game/6 - Act 2.rpy_L5864_0",
+    "original": "If I’d only be so lucky",
+    "translation": "要是我能这么幸运就好了",
+    "stage": 1,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/6%20-%20Act%202.rpy#L5864"
+  },
+  {
+    "key": "game/6 - Act 2.rpy_L5864_1",
+    "original": "Afraid we might not have the time",
+    "translation": "恐怕我们没这工夫。",
+    "stage": 1,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/6%20-%20Act%202.rpy#L5864"
+  },
+  {
+    "key": "game/6 - Act 2.rpy_L5944_0",
+    "original": "Do it quickly!",
+    "translation": "搞快点！",
+    "stage": 1,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/6%20-%20Act%202.rpy#L5944"
+  },
+  {
+    "key": "game/6 - Act 2.rpy_L5944_1",
+    "original": "Sorry, not horny.",
+    "translation": "抱歉，禁止涩涩。",
+    "stage": 1,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/6%20-%20Act%202.rpy#L5944"
+  },
+  {
+    "key": "game/6 - Act 2.rpy_L6546_0",
+    "original": "Step closer",
+    "translation": "靠近一点",
+    "stage": 1,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/6%20-%20Act%202.rpy#L6546"
+  },
+  {
+    "key": "game/6 - Act 2.rpy_L8777_0",
+    "original": "It says ‘semen won’t fertilize mares’",
+    "translation": "上面写着“精液不会使雌驹怀孕”",
+    "stage": 1,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/6%20-%20Act%202.rpy#L8777"
+  },
+  {
+    "key": "game/6 - Act 2.rpy_L8777_1",
+    "original": "It says ‘semen will fertilize mares’",
+    "translation": "上面写着“精液会使雌驹怀孕”",
+    "stage": 1,
+    "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/6%20-%20Act%202.rpy#L8777"
+  }
+]

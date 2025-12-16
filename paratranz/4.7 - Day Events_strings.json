@@ -2,71 +2,99 @@
   {
     "key": "game/4.7 - Day Events.rpy_L10_0",
     "original": "Monies: $[money]",
+    "translation": "金钱： [money]",
+    "stage": 5,
     "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.7%20-%20Day%20Events.rpy#L10"
   },
   {
     "key": "game/4.7 - Day Events.rpy_L10_1",
     "original": "Hand the beggar $20",
+    "translation": "给乞丐20块钱",
+    "stage": 5,
     "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.7%20-%20Day%20Events.rpy#L10"
   },
   {
     "key": "game/4.7 - Day Events.rpy_L10_2",
     "original": "Give the beggar $2",
+    "translation": "给乞丐2块钱",
+    "stage": 5,
     "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.7%20-%20Day%20Events.rpy#L10"
   },
   {
     "key": "game/4.7 - Day Events.rpy_L10_3",
     "original": "Ignore",
+    "translation": "忽视他",
+    "stage": 5,
     "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.7%20-%20Day%20Events.rpy#L10"
   },
   {
     "key": "game/4.7 - Day Events.rpy_L59_0",
     "original": "Help [ros] fix the wagon",
+    "translation": "帮[ros]修理篷车",
+    "stage": 3,
     "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.7%20-%20Day%20Events.rpy#L59"
   },
   {
     "key": "game/4.7 - Day Events.rpy_L59_1",
     "original": "Wish her luck and leave",
+    "translation": "祝她好运然后离开",
+    "stage": 3,
     "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.7%20-%20Day%20Events.rpy#L59"
   },
   {
     "key": "game/4.7 - Day Events.rpy_L115_0",
     "original": "I can tell you’re in heat, you slutty pup.",
+    "translation": "我能看出来你发情了，小母狗。",
+    "stage": 3,
     "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.7%20-%20Day%20Events.rpy#L115"
   },
   {
     "key": "game/4.7 - Day Events.rpy_L115_1",
     "original": "Afraid that’s not what I meant, pup.",
+    "translation": "恐怕我不是那个意思，狗狗。",
+    "stage": 3,
     "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.7%20-%20Day%20Events.rpy#L115"
   },
   {
     "key": "game/4.7 - Day Events.rpy_L120_0",
     "original": "I never said that. Let’s do it~",
+    "translation": "我从没这么说过。让我们做吧~",
+    "stage": 3,
     "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.7%20-%20Day%20Events.rpy#L120"
   },
   {
     "key": "game/4.7 - Day Events.rpy_L120_1",
     "original": "Nah, we’ve only known each other for a few hours!",
+    "translation": "不，我们才认识几个小时!",
+    "stage": 3,
     "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.7%20-%20Day%20Events.rpy#L120"
   },
   {
     "key": "game/4.7 - Day Events.rpy_L205_0",
     "original": "Keep the extra change (+$15)",
+    "translation": "保留多余的零钱(+15 $)",
+    "stage": 3,
     "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.7%20-%20Day%20Events.rpy#L205"
   },
   {
     "key": "game/4.7 - Day Events.rpy_L205_1",
     "original": "Return the extra change",
+    "translation": "退回多余的零钱",
+    "stage": 3,
     "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.7%20-%20Day%20Events.rpy#L205"
   },
   {
     "key": "game/4.7 - Day Events.rpy_L230_0",
     "original": "Return the Bag",
+    "translation": "归还包",
+    "stage": 3,
     "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.7%20-%20Day%20Events.rpy#L230"
   },
   {
     "key": "game/4.7 - Day Events.rpy_L230_1",
     "original": "Keep the Bag (+$100)",
+    "translation": "留下包(+100 $)",
+    "stage": 3,
     "context": "代码: https://github.com/ponytranz/FwB2CN/blob/empty/game/4.7%20-%20Day%20Events.rpy#L230"
   }
 ]
